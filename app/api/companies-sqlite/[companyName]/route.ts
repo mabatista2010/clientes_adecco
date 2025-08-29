@@ -27,7 +27,7 @@ export async function GET(
 
 export async function PUT(
   request: Request,
-  { params }: { params: Promise<{ companyName: string }> }
+  _context: { params: Promise<{ companyName: string }> }
 ) {
   try {
     const { clientId, ...updates } = await request.json();
@@ -54,7 +54,7 @@ export async function PUT(
 
 export async function DELETE(
   request: Request,
-  { params }: { params: Promise<{ companyName: string }> }
+  _context: { params: Promise<{ companyName: string }> }
 ) {
   try {
     const { clientId } = await request.json();

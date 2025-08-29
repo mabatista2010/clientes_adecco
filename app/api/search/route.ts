@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import companiesIndex from '@/data/companies/index.json';
+import { Client } from '@/types';
 
 export async function GET(request: NextRequest) {
   try {
@@ -14,7 +15,7 @@ export async function GET(request: NextRequest) {
     const results = await Promise.all(
       companiesIndex.map(async (company) => {
         let matches = 0;
-        let matchedClients: any[] = [];
+        let matchedClients: Client[] = [];
         
         // Verificar si el nombre de la empresa coincide
         const companyNameMatch = company.name.toLowerCase().includes(query);
@@ -26,7 +27,7 @@ export async function GET(request: NextRequest) {
             const companyData = await import(`@/data/companies/${company.id}.json`);
             const clients = companyData.default.clients || [];
             
-            matchedClients = clients.filter((client: any) => {
+            matchedClients = clients.filter((client: Client) => {
               const searchableText = [
                 client.nom,
                 client.prenom,

@@ -8,7 +8,12 @@ import { CompanySummary } from '@/types';
 
 interface SearchResult extends CompanySummary {
   matches?: number;
-  matchedClients?: any[];
+  matchedClients?: Array<{
+    no: string;
+    nom: string;
+    prenom: string;
+    fonction?: string;
+  }>;
   relevance?: number;
 }
 
@@ -174,7 +179,7 @@ export default function Home() {
                             {client.fonction && ` - ${client.fonction}`}
                           </p>
                         ))}
-                        {company.matches > 3 && (
+                        {company.matches && company.matches > 3 && (
                           <p className="text-xs text-blue-600 italic">
                             y {company.matches - 3} más...
                           </p>
