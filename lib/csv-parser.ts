@@ -5,8 +5,7 @@ export function parseCSVContent(content: string): Client[] {
   const result = Papa.parse(content, {
     delimiter: ';',
     header: false,
-    skipEmptyLines: true,
-    encoding: 'UTF-8'
+    skipEmptyLines: true
   });
 
   if (!result.data || result.data.length <= 1) {

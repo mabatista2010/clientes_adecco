@@ -18,6 +18,7 @@ export default function CompanyPage({ params }: { params: Promise<{ fileName: st
 
   useEffect(() => {
     fetchCompany();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [resolvedParams.fileName]);
 
   useEffect(() => {

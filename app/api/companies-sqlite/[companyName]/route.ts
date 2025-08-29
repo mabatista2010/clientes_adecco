@@ -3,10 +3,11 @@ import db from '@/lib/db';
 
 export async function GET(
   request: Request,
-  { params }: { params: { companyName: string } }
+  { params }: { params: Promise<{ companyName: string }> }
 ) {
   try {
-    const companyName = decodeURIComponent(params.companyName);
+    const resolvedParams = await params;
+    const companyName = decodeURIComponent(resolvedParams.companyName);
     
     const clients = db.prepare(`
       SELECT * FROM clients
@@ -26,7 +27,7 @@ export async function GET(
 
 export async function PUT(
   request: Request,
-  { params }: { params: { companyName: string } }
+  { params }: { params: Promise<{ companyName: string }> }
 ) {
   try {
     const { clientId, ...updates } = await request.json();
@@ -53,7 +54,7 @@ export async function PUT(
 
 export async function DELETE(
   request: Request,
-  { params }: { params: { companyName: string } }
+  { params }: { params: Promise<{ companyName: string }> }
 ) {
   try {
     const { clientId } = await request.json();

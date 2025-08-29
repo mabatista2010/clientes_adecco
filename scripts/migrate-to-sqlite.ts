@@ -70,9 +70,9 @@ async function migrate() {
         const clientId = `${companyName.toLowerCase().replace(/\s+/g, '_')}_${client.no || totalClients}`;
         
         const fullName = `${companyName} - ${client.prenom} ${client.nom}`.trim();
-        const email = client.mail || `client${totalClients}@example.com`;
-        const phone = [client.telFix, client.telMobile].filter(Boolean).join(' / ') || null;
-        const address = [client.adresse, client.codePostal, client.localite].filter(Boolean).join(', ') || null;
+        const email = client.email || `client${totalClients}@example.com`;
+        const phone = [client.telephone, client.telPortable].filter(Boolean).join(' / ') || null;
+        const address = [(client as any).adresse, (client as any).codePostal, (client as any).localite].filter(Boolean).join(', ') || null;
         const notes = client.actif === '1 - Oui' ? 'Active' : 'Inactive';
         
         insertClient.run(

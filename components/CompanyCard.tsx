@@ -10,7 +10,7 @@ interface CompanyCardProps {
 
 export default function CompanyCard({ company }: CompanyCardProps) {
   return (
-    <Link href={`/company/${encodeURIComponent(company.id || company.fileName)}`}>
+    <Link href={`/company/${encodeURIComponent(company.id || company.fileName || '')}`}>
       <div className="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 cursor-pointer border border-gray-200 hover:border-blue-400 transform hover:-translate-y-1">
         <div className="flex items-start justify-between mb-4">
           <div className="p-3 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg">

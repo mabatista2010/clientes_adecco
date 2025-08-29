@@ -2,10 +2,11 @@ import { NextResponse } from 'next/server';
 
 export async function GET(
   request: Request,
-  { params }: { params: { companyId: string } }
+  { params }: { params: Promise<{ companyId: string }> }
 ) {
   try {
-    const companyId = params.companyId;
+    const resolvedParams = await params;
+    const companyId = resolvedParams.companyId;
     
     // Dynamically import the company data file
     const companyData = await import(`@/data/companies/${companyId}.json`);
