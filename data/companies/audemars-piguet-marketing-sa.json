@@ -7,126 +7,252 @@
       "no": "31",
       "nom": "Denguas",
       "prenom": "Benjamin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41216423900",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_1",
       "no": "28",
       "nom": "Edouard-Edouarzi",
       "prenom": "Marvin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Expert IT Operational Security",
+      "telephone": "41798763026",
+      "telPortable": " ",
+      "email": "marvin.edouard-edouarzi@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_2",
       "no": "18",
       "nom": "Grangier",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Boutique director",
+      "telephone": "41216423900",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_3",
       "no": "25",
       "nom": "Gregolin",
       "prenom": "Ga�l",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "gael.gregolin@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_4",
       "no": "9",
       "nom": "Kostarelou",
       "prenom": "Emmy",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Group Purchasing Manager Indirect",
+      "telephone": "41216423900",
+      "telPortable": "41786088790",
+      "email": "emmy.kostarelou@audemarspiguet.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_5",
       "no": "30",
       "nom": "LHELIAS",
       "prenom": "Thibaut",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Lead System & Network",
+      "telephone": "41791733504",
+      "telPortable": " ",
+      "email": "thibaut.lhelias@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_6",
       "no": "22",
       "nom": "Luenberger",
       "prenom": "Audrey_1",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TA specialist",
+      "telephone": "41216423900",
+      "telPortable": "41216423900",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_7",
       "no": "2",
       "nom": "Martinez",
       "prenom": "Laura",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Generalist",
+      "telephone": "41216423386",
+      "telPortable": "41793022259",
+      "email": "laura.martinez@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_8",
       "no": "29",
       "nom": "Mercier",
       "prenom": "Lucas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41799283879",
+      "telPortable": " ",
+      "email": "lucas.mercier@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_9",
       "no": "4",
       "nom": "Piquilloud",
       "prenom": "Delphine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Talent acquisition specialist",
+      "telephone": "41216423900",
+      "telPortable": "41795912472",
+      "email": "delphine.piquilloud@audemarspiguet.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_10",
       "no": "26",
       "nom": "Rochet",
       "prenom": "R�gis",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "tbd",
+      "telephone": "41216423900",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_11",
       "no": "27",
       "nom": "Rochet",
       "prenom": "R�gis",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Information Security",
+      "telephone": "41216423310",
+      "telPortable": " ",
+      "email": "regis.rochet@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_12",
       "no": "19",
       "nom": "SARTI",
       "prenom": "Weronika",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Talent Acquisition Specialist",
+      "telephone": "41216423028",
+      "telPortable": "41791236170",
+      "email": "weronika.sarti@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_13",
       "no": "3",
       "nom": "Saugy",
       "prenom": "Raphael",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Generalist",
+      "telephone": "41216423553",
+      "telPortable": " ",
+      "email": "raphael.saugy@audemarspiguet.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_14",
       "no": "21",
       "nom": "Scheibler_1",
       "prenom": "Johann",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manager",
+      "telephone": "41216423900",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_15",
       "no": "5",
       "nom": "Stevic",
       "prenom": "Zarko",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of supply Chain",
+      "telephone": "41218451400",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_16",
       "no": "15",
       "nom": "Tapponier",
       "prenom": "Stephanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Human Resources Manager",
+      "telephone": "41216423900",
+      "telPortable": "41796588633",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "audemars-piguet-marketing-sa_17",
       "no": "17",
       "nom": "Vasseur Clinquart",
       "prenom": "Florent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Data Analyst - finance consultant",
+      "telephone": "41216423900",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

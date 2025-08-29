@@ -7,49 +7,98 @@
       "no": "7",
       "nom": "Duding",
       "prenom": "Jean-Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219211078",
+      "telPortable": " ",
+      "email": "jf.duding@sev-port-franc.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey_1",
       "no": "11",
       "nom": "Gherig",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Second du directeur",
+      "telephone": "41219211078",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey_2",
       "no": "8",
       "nom": "Jacot-Guillarmod",
       "prenom": "Sylvie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219211475",
+      "telPortable": "41793521237",
+      "email": "afm@sevpf.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey_3",
       "no": "4",
       "nom": "Pache",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219253789",
+      "telPortable": "41796559712",
+      "email": "d.pache@sevpf.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey_4",
       "no": "12",
       "nom": "Russo",
       "prenom": "Alessandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe de Sylvie Jacot",
+      "telephone": "41219211475",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey_5",
       "no": "10",
       "nom": "Storbeck",
       "prenom": "Patrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41219253782",
+      "telPortable": "41798120199",
+      "email": "p.storbeck@sevpf.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey_6",
       "no": "9",
       "nom": "Uka",
       "prenom": "Fatos",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Import/Export",
+      "telephone": "219211078",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

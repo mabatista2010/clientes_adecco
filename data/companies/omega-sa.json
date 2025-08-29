@@ -7,329 +7,658 @@
       "no": "71",
       "nom": "Allemand",
       "prenom": "Julie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Coordinator",
+      "telephone": "+41 732 343 93 34",
+      "telPortable": " ",
+      "email": "julie.allemand@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_1",
       "no": "79",
       "nom": "Benacloche",
       "prenom": "Nikita",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Operations Coordinator",
+      "telephone": "41323439018",
+      "telPortable": " ",
+      "email": "nikita.benacloche@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_2",
       "no": "65",
       "nom": "Boisaubert",
       "prenom": "Jordane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Operations Manager",
+      "telephone": "41323438860",
+      "telPortable": " ",
+      "email": "jordane.boisaubert@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_3",
       "no": "76",
       "nom": "Bolliger",
       "prenom": "Monique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Controlling",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_4",
       "no": "73",
       "nom": "Botteron",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR BUSINESS PARTNER",
+      "telephone": "41323438831",
+      "telPortable": " ",
+      "email": "christophe.botteron@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_5",
       "no": "51",
       "nom": "Bovet",
       "prenom": "Celie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41323439128",
+      "telPortable": "41797344588",
+      "email": "celie.bovet@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_6",
       "no": "37",
       "nom": "Brun",
       "prenom": "Marco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Gesch.F�hrer Boutique Z�rich",
+      "telephone": "41442169000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_7",
       "no": "11",
       "nom": "Buraglio",
       "prenom": "Steve",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "d�pt.Stock&Schipping",
+      "telephone": "41323439513",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_8",
       "no": "49",
       "nom": "Canet",
       "prenom": "Laure",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "laure.canet@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_9",
       "no": "88",
       "nom": "Cornaz",
       "prenom": "Bertrand",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Human ressources",
+      "telephone": "41323439360",
+      "telPortable": " ",
+      "email": "bertrand.cornaz@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_10",
       "no": "30",
       "nom": "Del R�",
       "prenom": "Bruno",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp d'atelier",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_11",
       "no": "87",
       "nom": "Durant",
       "prenom": "Adrien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of IT",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "adrien.duran@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_12",
       "no": "41",
       "nom": "Duvoisin",
       "prenom": "Angeline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalassistent /in",
+      "telephone": "41323439196",
+      "telPortable": " ",
+      "email": "angeline.duvoisin@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_13",
       "no": "80",
       "nom": "Fretz",
       "prenom": "Gunnar",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT",
+      "telephone": "4179",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_14",
       "no": "82",
       "nom": "Fromme",
       "prenom": "Alexander",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Retail Development Manager",
+      "telephone": "41797176223",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_15",
       "no": "83",
       "nom": "Fromme",
       "prenom": "Alexander",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41797176223",
+      "telPortable": " ",
+      "email": "afromme@gmail.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_16",
       "no": "45",
       "nom": "Geffroy",
       "prenom": "C�lie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41323439128",
+      "telPortable": " ",
+      "email": "celie.geffroy@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_17",
       "no": "66",
       "nom": "Geffroy - Bovet",
       "prenom": "C�lie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Operations Manager",
+      "telephone": "41323439128",
+      "telPortable": "41797344588",
+      "email": "celie.bovet@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_18",
       "no": "3",
       "nom": "Graber",
       "prenom": "Daniela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalabteilung",
+      "telephone": "41323439231",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_19",
       "no": "31",
       "nom": "Jacober",
       "prenom": "Bruno",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp d'atelier",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_20",
       "no": "32",
       "nom": "Jenny",
       "prenom": "Thomas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp d'atelier",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_21",
       "no": "39",
       "nom": "Joly",
       "prenom": "Caroline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalchefin",
+      "telephone": "41323439360",
+      "telPortable": " ",
+      "email": "caroline.joly@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_22",
       "no": "84",
       "nom": "Joseph",
       "prenom": "Sonia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Human Resources Business Partner",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "sonia.joseph@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_23",
       "no": "52",
       "nom": "Leuenberger",
       "prenom": "Oudruy",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Abteilungsleiter",
+      "telephone": "41323439125",
+      "telPortable": " ",
+      "email": "audrey.leuenberger@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_24",
       "no": "53",
       "nom": "Lindt",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistentin",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_25",
       "no": "12",
       "nom": "Mathys",
       "prenom": "Silvia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "service du personnel",
+      "telephone": "41323439033",
+      "telPortable": " ",
+      "email": "silvia.mathys@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_26",
       "no": "70",
       "nom": "Monachon",
       "prenom": "Jean-Claude",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41792185111",
+      "telPortable": " ",
+      "email": "jeanclaude.monachon@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_27",
       "no": "68",
       "nom": "noirjean",
       "prenom": "fanny",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR operation assistant",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_28",
       "no": "46",
       "nom": "Pezzani",
       "prenom": "Sophie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalassistent /in",
+      "telephone": "41323439334",
+      "telPortable": " ",
+      "email": "sophie.pezzani@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_29",
       "no": "78",
       "nom": "Pouly",
       "prenom": "Lucas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Marketing Project Manager",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "lucas.pouly@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_30",
       "no": "77",
       "nom": "Premand",
       "prenom": "Lauriane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR BUSINESS PARTNER",
+      "telephone": "41323438983",
+      "telPortable": " ",
+      "email": "lauriane.premand@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_31",
       "no": "69",
       "nom": "Romasanta",
       "prenom": "Celso",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "celso.romasanta@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_32",
       "no": "34",
       "nom": "Santamaria",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": "032 343 95 54",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_33",
       "no": "85",
       "nom": "Schlegel",
       "prenom": "Sandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice de boutique",
+      "telephone": "41274804774",
+      "telPortable": " ",
+      "email": "sandra.schlegel@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_34",
       "no": "86",
       "nom": "Schoebelen",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "ORGANIZATIONAL LEARNING & COACHING MANAGER",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "christophe.schnoebelen@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_35",
       "no": "58",
       "nom": "Schweinheim",
       "prenom": "Guido",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "K�chenchef",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": "guido.schweinheim@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_36",
       "no": "24",
       "nom": "Segessenmann",
       "prenom": "V�ronique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalassistent /in",
+      "telephone": "41323438854",
+      "telPortable": " ",
+      "email": "veronique.segessemann@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_37",
       "no": "42",
       "nom": "Spano",
       "prenom": "Raphael",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalassistent /in",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "raphael.spano@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_38",
       "no": "64",
       "nom": "Spano",
       "prenom": "Raphael",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "None",
+      "telephone": "+4179/7434538",
+      "telPortable": "+4179/7434538",
+      "email": "rspano@bluewin.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_39",
       "no": "61",
       "nom": "Stendardo",
       "prenom": "Luana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41323439560",
+      "telPortable": "41795477512",
+      "email": "luana.stendardo@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_40",
       "no": "75",
       "nom": "Straehl",
       "prenom": "Thierry",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Vice-president Finance & Services",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_41",
       "no": "33",
       "nom": "Teissier",
       "prenom": "Marcel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Gommage T3",
+      "telephone": "41323439628",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_42",
       "no": "81",
       "nom": "Tharuangram",
       "prenom": "Kanlaya",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de stock",
+      "telephone": "41323439211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_43",
       "no": "74",
       "nom": "Tonin",
       "prenom": "Aline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41789112927",
+      "telPortable": " ",
+      "email": "aline.tonin@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_44",
       "no": "21",
       "nom": "Zbinden",
       "prenom": "Heinz",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp. horloger",
+      "telephone": "41323439565",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_45",
       "no": "63",
       "nom": "Zulliger",
       "prenom": "Gabriela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41323439360",
+      "telPortable": " ",
+      "email": "gabriela.zulliger@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "omega-sa_46",
       "no": "22",
       "nom": "Zulliger Budowski",
       "prenom": "Gabriela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Human Rescources Manager",
+      "telephone": "41323439360",
+      "telPortable": " ",
+      "email": "gabriela.zulliger@omega.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

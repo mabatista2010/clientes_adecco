@@ -7,14 +7,28 @@
       "no": "1",
       "nom": "Giazzi",
       "prenom": "Andrea",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219434582",
+      "telPortable": "41795424564",
+      "email": "andrea.giazzi@corde-access.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.09.2021"
     },
     {
       "id": "corde-access-sa-puidoux_1",
       "no": "2",
       "nom": "Giazzi",
       "prenom": "Corinne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "41219434306",
+      "telPortable": "41796002522",
+      "email": "andrea.giazzi@corde-access.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     }
   ]
 }

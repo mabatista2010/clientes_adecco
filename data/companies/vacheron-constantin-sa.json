@@ -7,238 +7,476 @@
       "no": "19",
       "nom": "Almeida",
       "prenom": "Elisabeth",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41229302291",
+      "telPortable": " ",
+      "email": "elisabeth.almeida@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_1",
       "no": "38",
       "nom": "Baer",
       "prenom": "Mathias",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "L& D Specialist",
+      "telephone": "41229302867",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_2",
       "no": "40",
       "nom": "Baer",
       "prenom": "Mathias",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41229302867",
+      "telPortable": " ",
+      "email": "mathias.baer@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_3",
       "no": "15",
       "nom": "Barrat",
       "prenom": "Gis�le",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_4",
       "no": "26",
       "nom": "Bricolens",
       "prenom": "Noelie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": "noelie.bricolens@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_5",
       "no": "7",
       "nom": "Bricolens",
       "prenom": "No�lie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secr�taire Dpt RH",
+      "telephone": "229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_6",
       "no": "24",
       "nom": "Busi",
       "prenom": "Marie-H�l�ne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante de Mme Marquis",
+      "telephone": "41229302367",
+      "telPortable": " ",
+      "email": "marie-helene.busi@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_7",
       "no": "14",
       "nom": "Chapuis",
       "prenom": "Annie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_8",
       "no": "41",
       "nom": "Chou Vauzanges",
       "prenom": "Marie-C�line",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of International Retail and Wholesale Training",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_9",
       "no": "44",
       "nom": "Christal",
       "prenom": "F�licie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante de direction",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_10",
       "no": "13",
       "nom": "Clerc",
       "prenom": "C�cile",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DRH du groupe",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_11",
       "no": "28",
       "nom": "Corso",
       "prenom": "Nelly",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": "nelly.corso@vacheron-constantin.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_12",
       "no": "12",
       "nom": "Cottini",
       "prenom": "TBC",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "comptable",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_13",
       "no": "18",
       "nom": "Dedo Moynat",
       "prenom": "Mi-Ja",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. formation & D�vol RH",
+      "telephone": "41229302086",
+      "telPortable": " ",
+      "email": "mi-ja.dedo-moynat@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_14",
       "no": "42",
       "nom": "Diallo",
       "prenom": "Ibrahima",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Talent Acquisition Partner",
+      "telephone": "41229302159",
+      "telPortable": " ",
+      "email": "ibrahima.diallo@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_15",
       "no": "17",
       "nom": "Ferreira",
       "prenom": "Katia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": "duplicate5652.katia.ferreira@piaget.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_16",
       "no": "11",
       "nom": "Grenier",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur Financier",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_17",
       "no": "33",
       "nom": "Grivotet",
       "prenom": "Antoine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Deputy CFO",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_18",
       "no": "5",
       "nom": "Marclay",
       "prenom": "Val�rie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41229302007",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_19",
       "no": "25",
       "nom": "Marquis",
       "prenom": "Samira",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice RH",
+      "telephone": "41229302087",
+      "telPortable": "702002572",
+      "email": "samira.marquis@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_20",
       "no": "4",
       "nom": "Marquis",
       "prenom": "TBC",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_21",
       "no": "43",
       "nom": "Marteau",
       "prenom": "Pierrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Procurement Manager",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_22",
       "no": "3",
       "nom": "Matthey",
       "prenom": "Luc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_23",
       "no": "36",
       "nom": "M�lin",
       "prenom": "Alice",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Coordinator",
+      "telephone": "41",
+      "telPortable": "41",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_24",
       "no": "35",
       "nom": "Montagne",
       "prenom": "Marc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Digital Marketing & E-commerce",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_25",
       "no": "9",
       "nom": "Neuenschwander",
       "prenom": "Herv�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41228844844",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_26",
       "no": "2",
       "nom": "Sciurti",
       "prenom": "TBC",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant payroll et assurance",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_27",
       "no": "29",
       "nom": "Somik",
       "prenom": "Svetlana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": "svetlana.somik@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_28",
       "no": "1",
       "nom": "Torres",
       "prenom": "Juan Carlos",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "CEO",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_29",
       "no": "8",
       "nom": "Vailloud",
       "prenom": "Liliane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_30",
       "no": "45",
       "nom": "Veyrat - Parisien",
       "prenom": "Kevin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. approvisionnement",
+      "telephone": "41223161740",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_31",
       "no": "37",
       "nom": "Vuillemenot",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Information Systems Director",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_32",
       "no": "39",
       "nom": "Vuillemenot",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "stephane.vuillemenot@vacheron-constantin.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "vacheron-constantin-sa_33",
       "no": "34",
       "nom": "Weinmann",
       "prenom": "Gil",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "CFO",
+      "telephone": "41229302005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

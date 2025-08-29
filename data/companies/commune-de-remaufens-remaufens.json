@@ -7,7 +7,14 @@
       "no": "1",
       "nom": "Piccand",
       "prenom": "Aline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Finance et RH",
+      "telephone": "41219488084",
+      "telPortable": " ",
+      "email": "administration@remaufens.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2022"
     }
   ]
 }

@@ -7,49 +7,98 @@
       "no": "4",
       "nom": "Ayer",
       "prenom": "Beno�t",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41219483232",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.11.2023"
     },
     {
       "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis_1",
       "no": "2",
       "nom": "Guisolan",
       "prenom": "Jeanique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable admin/compta",
+      "telephone": "41219483232",
+      "telPortable": " ",
+      "email": "jeanique.guisolan@polygravia-pag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis_2",
       "no": "3",
       "nom": "Memeti",
       "prenom": "Dritan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de production",
+      "telephone": "41219483237",
+      "telPortable": "41788800434",
+      "email": "dritan.memeti@polygravia-pag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis_3",
       "no": "6",
       "nom": "Sudan",
       "prenom": "David",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable dpt finition/ennoblissement",
+      "telephone": "41219483281",
+      "telPortable": " ",
+      "email": "finition@polygravia-pag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis_4",
       "no": "1",
       "nom": "Telley",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur adjoint",
+      "telephone": "41219483247",
+      "telPortable": " ",
+      "email": "pascal.telley@polygravia-pag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.04.2025"
     },
     {
       "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis_5",
       "no": "7",
       "nom": "Tissot",
       "prenom": "Marina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de projets",
+      "telephone": "41219483245",
+      "telPortable": " ",
+      "email": "marina.tissot@polygravia-pag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis_6",
       "no": "5",
       "nom": "Leclercq",
       "prenom": "Olivier",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Conseiller technique",
+      "telephone": "41219482240",
+      "telPortable": " ",
+      "email": "olivier.leclercq@polygravia-pag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.11.2023"
     }
   ]
 }

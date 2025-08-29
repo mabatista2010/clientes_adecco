@@ -7,133 +7,266 @@
       "no": "23",
       "nom": "Cistemino",
       "prenom": "Giuseppe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "M.",
+      "telephone": "41216943100",
+      "telPortable": " ",
+      "email": "g.cistemino@amedis.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "avosano-ag-puidoux_1",
       "no": "20",
       "nom": "Forster",
       "prenom": "Mathieu",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41216943204",
+      "telPortable": "41793212326",
+      "email": "m.forster@amedis.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.09.2024"
     },
     {
       "id": "avosano-ag-puidoux_2",
       "no": "9",
       "nom": "Giordano",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de production",
+      "telephone": "021 694 32 88",
+      "telPortable": "076 316 15 20",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "avosano-ag-puidoux_3",
       "no": "13",
       "nom": "Kl�figer",
       "prenom": "Sylvia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR",
+      "telephone": "41627379761",
+      "telPortable": " ",
+      "email": "sylvia.klaefiger@amedis.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "avosano-ag-puidoux_4",
       "no": "21",
       "nom": "Morier",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable du site",
+      "telephone": "41216943100",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_5",
       "no": "22",
       "nom": "Nogueira",
       "prenom": "Joel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de la Logistique",
+      "telephone": "41216943100",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "12.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_6",
       "no": "12",
       "nom": "Ritz",
       "prenom": "Christelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41216943202",
+      "telPortable": " ",
+      "email": "c.ritz@amedis.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "avosano-ag-puidoux_7",
       "no": "3",
       "nom": "Amos",
       "prenom": "Josette",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "avosano-ag-puidoux_8",
       "no": "7",
       "nom": "Badan",
       "prenom": "Mich�le",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Assitante de Mudry",
+      "telephone": "41216943222",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_9",
       "no": "10",
       "nom": "Blin",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur d'exploitation",
+      "telephone": "41216943231",
+      "telPortable": "41793208580",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_10",
       "no": "1",
       "nom": "Br�nnimann",
       "prenom": "Robert",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": "021 694 32 01",
+      "telPortable": " ",
+      "email": "r.broennimann@amedis.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "avosano-ag-puidoux_11",
       "no": "8",
       "nom": "Mudry",
       "prenom": "Pierre",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "resp. dpt commercial",
+      "telephone": "41216943224",
+      "telPortable": "41792989693",
+      "email": "p.mudry@amedis.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_12",
       "no": "18",
       "nom": "Paltzer",
       "prenom": "Marc",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Manager Business and Logistics",
+      "telephone": "41627379740",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_13",
       "no": "2",
       "nom": "Pichon",
       "prenom": "Laurence",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "021 694 32 02",
+      "telPortable": " ",
+      "email": "l.pichon@amedis.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "avosano-ag-puidoux_14",
       "no": "16",
       "nom": "Pizza",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "avosano-ag-puidoux_15",
       "no": "19",
       "nom": "POEHN",
       "prenom": "Michele",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "HR site manager",
+      "telephone": "41216943100",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.07.2022"
     },
     {
       "id": "avosano-ag-puidoux_16",
       "no": "6",
       "nom": "Poehn",
       "prenom": "Mich�le",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "TBD",
+      "telephone": "41216943203",
+      "telPortable": " ",
+      "email": "michele.poehn@amedis.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "04.08.2022"
     },
     {
       "id": "avosano-ag-puidoux_17",
       "no": "5",
       "nom": "Voumard",
       "prenom": "Nicole",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Resp. service retours",
+      "telephone": "41216943294",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.09.2022"
     },
     {
       "id": "avosano-ag-puidoux_18",
       "no": "17",
       "nom": "Zweifel",
       "prenom": "Edith",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "HR Leiter",
+      "telephone": "41627379783",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.09.2022"
     }
   ]
 }

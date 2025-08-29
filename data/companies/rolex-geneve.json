@@ -7,959 +7,1918 @@
       "no": "138",
       "nom": "ALADINE",
       "prenom": "Houzefa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of IT Performance and Transformation",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "houzefa.aladine@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.02.2025"
     },
     {
       "id": "rolex-geneve_1",
       "no": "136",
       "nom": "AYDOGAN",
       "prenom": "Turkay",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Acheteur IT",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "jean-baptiste.peau-ruiz@rolex.comm",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.01.2025"
     },
     {
       "id": "rolex-geneve_2",
       "no": "104",
       "nom": "Baltazar",
       "prenom": "Milena",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Manager",
+      "telephone": "41223022644",
+      "telPortable": "41223022200",
+      "email": "duplicate4110.milena.baltazar@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_3",
       "no": "36",
       "nom": "Baltazar",
       "prenom": "Milena",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "duplicate4109.milena.baltazar@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_4",
       "no": "131",
       "nom": "Berthomm�",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DBA",
+      "telephone": "33681320389",
+      "telPortable": " ",
+      "email": "olivier.berthomme@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_5",
       "no": "118",
       "nom": "Bof",
       "prenom": "Alessandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "4179000000",
+      "telPortable": " ",
+      "email": "alessandra.bof@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_6",
       "no": "106",
       "nom": "Bolzan",
       "prenom": "Angela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223027018",
+      "telPortable": "41793186785",
+      "email": "angela.bolzan@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.12.2023"
     },
     {
       "id": "rolex-geneve_7",
       "no": "114",
       "nom": "Borghini",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de nouveaux produits",
+      "telephone": "41223026198",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2023"
     },
     {
       "id": "rolex-geneve_8",
       "no": "91",
       "nom": "Braun",
       "prenom": "Philip",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Gestionnaire HR",
+      "telephone": "41223028625",
+      "telPortable": " ",
+      "email": "philip.braun@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.09.2024"
     },
     {
       "id": "rolex-geneve_9",
       "no": "23",
       "nom": "Buffet",
       "prenom": "Stephane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Sous Directeur RH",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "stephane.buffet@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.04.2025"
     },
     {
       "id": "rolex-geneve_10",
       "no": "134",
       "nom": "CALVO ARCE",
       "prenom": "Charlotte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Charg�e de recrutement",
+      "telephone": "41223025075",
+      "telPortable": " ",
+      "email": "charlotte.calvoarce@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.12.2024"
     },
     {
       "id": "rolex-geneve_11",
       "no": "2",
       "nom": "Cavagna",
       "prenom": "Giovanni",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223021783",
+      "telPortable": " ",
+      "email": "giovanni.cavagna@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.08.2021"
     },
     {
       "id": "rolex-geneve_12",
       "no": "33",
       "nom": "Cazin",
       "prenom": "Vincent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Service achats IT",
+      "telephone": "022 302 22 00",
+      "telPortable": " ",
+      "email": "vincent.cazin@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_13",
       "no": "102",
       "nom": "Clavijo",
       "prenom": "Isaline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruiter",
+      "telephone": "41223021263",
+      "telPortable": "41799425534",
+      "email": "zszlznz.clzvzjz@rzlzx.czm",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_14",
       "no": "105",
       "nom": "Clavijo",
       "prenom": "Isaline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruiter",
+      "telephone": "41223021263",
+      "telPortable": "41799425534",
+      "email": "isaline.clavijo@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_15",
       "no": "89",
       "nom": "Clavijo",
       "prenom": "Isaline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruiter",
+      "telephone": "41223021263",
+      "telPortable": "41799425534",
+      "email": "isaline.clavijo@rolex.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "06.04.2021"
     },
     {
       "id": "rolex-geneve_16",
       "no": "97",
       "nom": "Da Roxa",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Coordinateur RH / Assistant RH",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "rolex-geneve_17",
       "no": "48",
       "nom": "Decosterd",
       "prenom": "Carole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41223082697",
+      "telPortable": "41794580394",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "rolex-geneve_18",
       "no": "31",
       "nom": "Del Grosso Horvath",
       "prenom": "Diana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Site Ch�ne-Bourg",
+      "telephone": "41223025480",
+      "telPortable": " ",
+      "email": "diana.delgrosso@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.08.2021"
     },
     {
       "id": "rolex-geneve_19",
       "no": "133",
       "nom": "Delbart",
       "prenom": "Vidisha",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41223023873",
+      "telPortable": " ",
+      "email": "vidisha.delbart@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.10.2024"
     },
     {
       "id": "rolex-geneve_20",
       "no": "137",
       "nom": "Desmarest",
       "prenom": "Yann",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of IT",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "yann.desmarest@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "29.01.2025"
     },
     {
       "id": "rolex-geneve_21",
       "no": "32",
       "nom": "Dufour",
       "prenom": "M�lanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223022473",
+      "telPortable": " ",
+      "email": "melanie.dufour@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_22",
       "no": "52",
       "nom": "Dufour",
       "prenom": "Jean-Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "CEO",
+      "telephone": "223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.07.2019"
     },
     {
       "id": "rolex-geneve_23",
       "no": "92",
       "nom": "Dufour",
       "prenom": "Jean-Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "CEO",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "rolex-geneve_24",
       "no": "53",
       "nom": "Duqueux",
       "prenom": "Roland",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223022749",
+      "telPortable": " ",
+      "email": "roland.duqueux@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_25",
       "no": "54",
       "nom": "Duvillard",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_26",
       "no": "110",
       "nom": "Etter",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable information",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "nicolas.etter@rolex.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Chorier Erlhoff, Juliette",
+      "dateMutation": "30.11.2022"
     },
     {
       "id": "rolex-geneve_27",
       "no": "55",
       "nom": "Fazi",
       "prenom": "Dominique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "022 302 26 85",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_28",
       "no": "120",
       "nom": "Fernandez",
       "prenom": "Florent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Division Systemes d?Information",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "florent.fernandez@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2025"
     },
     {
       "id": "rolex-geneve_29",
       "no": "56",
       "nom": "Figuet",
       "prenom": "Gilles",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Middleware",
+      "telephone": "41223022663",
+      "telPortable": " ",
+      "email": "gilles.figuet@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_30",
       "no": "57",
       "nom": "Fisher",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "022 302 27 71",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_31",
       "no": "141",
       "nom": "Fournol",
       "prenom": "Jean-Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Retail Sales Associate",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "jean-phillippe.fournol@rolex.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.05.2025"
     },
     {
       "id": "rolex-geneve_32",
       "no": "112",
       "nom": "Francois",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manager in Maintenance Equipments and Logistics",
+      "telephone": "41223028701",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2023"
     },
     {
       "id": "rolex-geneve_33",
       "no": "113",
       "nom": "Francois",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manager in Maintenance Equipments and Logistics",
+      "telephone": "41795364005",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2023"
     },
     {
       "id": "rolex-geneve_34",
       "no": "94",
       "nom": "Giroz",
       "prenom": "Amandine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "SAP",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_35",
       "no": "109",
       "nom": "Gosselke",
       "prenom": "charlotte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TA",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "charlotte.gosselke@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_36",
       "no": "58",
       "nom": "Grandhomme",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable BPM",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_37",
       "no": "59",
       "nom": "Gremion",
       "prenom": "Camille",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223027872",
+      "telPortable": " ",
+      "email": "camille.gremion@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_38",
       "no": "60",
       "nom": "Grossier",
       "prenom": "Didier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "SAP indsutrie",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_39",
       "no": "61",
       "nom": "Hominal",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_40",
       "no": "129",
       "nom": "Jonathan",
       "prenom": "Oziel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Manager",
+      "telephone": "41792217251",
+      "telPortable": " ",
+      "email": "jonathan.oziel@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_41",
       "no": "108",
       "nom": "Keegstra",
       "prenom": "Claire Line",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223026485",
+      "telPortable": " ",
+      "email": "claire-line.golay@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "06.03.2025"
     },
     {
       "id": "rolex-geneve_42",
       "no": "115",
       "nom": "KEEGSTRA GOLAY",
       "prenom": "Claire-Line",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41223026485",
+      "telPortable": " ",
+      "email": "claire-line.keegstra@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_43",
       "no": "62",
       "nom": "Koenig",
       "prenom": "Audrey",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "EA to Head of",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "audrey.koenig@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_44",
       "no": "107",
       "nom": "Lauer",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "NC",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "alain.lauer@rolex.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Chorier Erlhoff, Juliette",
+      "dateMutation": "30.08.2021"
     },
     {
       "id": "rolex-geneve_45",
       "no": "63",
       "nom": "Lauer",
       "prenom": "Alan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_46",
       "no": "24",
       "nom": "Lopez",
       "prenom": "Maria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223025521",
+      "telPortable": " ",
+      "email": "duplicate4903.maria.lopez@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_47",
       "no": "130",
       "nom": "Ludovic",
       "prenom": "Fargier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Infrastructure manager",
+      "telephone": "41223022714",
+      "telPortable": " ",
+      "email": "ludovic.fargier@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_48",
       "no": "111",
       "nom": "Mac - Kay",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "nathalie.mac-kay@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.10.2022"
     },
     {
       "id": "rolex-geneve_49",
       "no": "64",
       "nom": "Machado Vieira",
       "prenom": "Brigitte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH IT",
+      "telephone": "41323394236",
+      "telPortable": " ",
+      "email": "brigitte.machadovieira@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_50",
       "no": "65",
       "nom": "Mandelbaum",
       "prenom": "Philip",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_51",
       "no": "66",
       "nom": "Marcuard",
       "prenom": "Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41223022200",
+      "telPortable": "797737324",
+      "email": "philippe.marcuard@rolex.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Chorier Erlhoff, Juliette",
+      "dateMutation": "02.03.2021"
     },
     {
       "id": "rolex-geneve_52",
       "no": "124",
       "nom": "Mateo",
       "prenom": "Ventura",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manager - IT",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "mateo.ventura@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.02.2024"
     },
     {
       "id": "rolex-geneve_53",
       "no": "126",
       "nom": "Mathieu",
       "prenom": "JOTTERAND",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Team Manager",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "mathieu.jotterand@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_54",
       "no": "68",
       "nom": "Mimoun",
       "prenom": "Damien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Division IT - MyRolex",
+      "telephone": "41223027605",
+      "telPortable": " ",
+      "email": "damien.mimoun@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_55",
       "no": "117",
       "nom": "Mivelaz",
       "prenom": "Vincent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "vincent.mivelaz@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "03.10.2024"
     },
     {
       "id": "rolex-geneve_56",
       "no": "116",
       "nom": "Moix",
       "prenom": "Emmanuella",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Project Manager",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "emmanuella.moix@rolex.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_57",
       "no": "69",
       "nom": "Mora",
       "prenom": "Carol",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Recrutement",
+      "telephone": "022 302 70 18",
+      "telPortable": " ",
+      "email": "carol.mora@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_58",
       "no": "70",
       "nom": "Moreau",
       "prenom": "St�phanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223022275",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_59",
       "no": "71",
       "nom": "Muller",
       "prenom": "Emilie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_60",
       "no": "72",
       "nom": "Passuelo",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef du d�partement Production",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_61",
       "no": "86",
       "nom": "pau",
       "prenom": "Yves",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41223025350",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_62",
       "no": "93",
       "nom": "Pauli",
       "prenom": "C�cile",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Achat",
+      "telephone": "41223022694",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "04.03.2020"
     },
     {
       "id": "rolex-geneve_63",
       "no": "73",
       "nom": "Paux",
       "prenom": "St�phanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "facture",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "stephanie.paux@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.02.2020"
     },
     {
       "id": "rolex-geneve_64",
       "no": "135",
       "nom": "Peau-Ruiz",
       "prenom": "Jean-Baptiste",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Achat IT",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "jean-baptist.peau-ruiz@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.01.2025"
     },
     {
       "id": "rolex-geneve_65",
       "no": "132",
       "nom": "PECASTAINGS",
       "prenom": "Sandrine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable facturation",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "sandrine.pecastaings@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_66",
       "no": "74",
       "nom": "Penet",
       "prenom": "Thierry",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223025165",
+      "telPortable": " ",
+      "email": "thierry.penet@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_67",
       "no": "75",
       "nom": "Picout",
       "prenom": "Jean-Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223021265",
+      "telPortable": " ",
+      "email": "jzzn-pzzrrz.pzczzt@rzlzx.czm",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "rolex-geneve_68",
       "no": "76",
       "nom": "Pochon",
       "prenom": "Claudia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_69",
       "no": "139",
       "nom": "Poulin",
       "prenom": "Jeffrey",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Security, Systems, and Service desk",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "poulin@iso.org",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.02.2025"
     },
     {
       "id": "rolex-geneve_70",
       "no": "77",
       "nom": "Randon",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "022 302 24 04",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_71",
       "no": "128",
       "nom": "Rauch",
       "prenom": "Sebastien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Manager",
+      "telephone": "41796153170",
+      "telPortable": " ",
+      "email": "sebastien.rauch@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.05.2025"
     },
     {
       "id": "rolex-geneve_72",
       "no": "96",
       "nom": "Renard",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "nicolas.renard@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_73",
       "no": "78",
       "nom": "Rolli",
       "prenom": "Madame",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.07.2019"
     },
     {
       "id": "rolex-geneve_74",
       "no": "123",
       "nom": "Sahut",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Cloud",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "christophe.sahut@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_75",
       "no": "79",
       "nom": "Saleres",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41223026451",
+      "telPortable": " ",
+      "email": "christophe.saleres@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_76",
       "no": "80",
       "nom": "Sartori ou Pavoni",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_77",
       "no": "3",
       "nom": "Schopperl�",
       "prenom": "Virginie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223022473",
+      "telPortable": " ",
+      "email": "duplicate237.virginie.schopperle@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.01.2024"
     },
     {
       "id": "rolex-geneve_78",
       "no": "81",
       "nom": "Schopperle",
       "prenom": "Virginie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "duplicate238.virginie.schopperle@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_79",
       "no": "26",
       "nom": "Siescko",
       "prenom": "Kathya",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223021995",
+      "telPortable": " ",
+      "email": "kathya-ivanovna.sieczko@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_80",
       "no": "82",
       "nom": "Socquet",
       "prenom": "Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223027740",
+      "telPortable": " ",
+      "email": "michel.socquet@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_81",
       "no": "140",
       "nom": "Sonneville",
       "prenom": "Maurice",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Manager",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "maurice.sonneville@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.02.2025"
     },
     {
       "id": "rolex-geneve_82",
       "no": "83",
       "nom": "Steudler",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41223027255",
+      "telPortable": " ",
+      "email": "laurent.steudler@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_83",
       "no": "84",
       "nom": "Supor",
       "prenom": "Jean-Marc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Manager - Head of Operation",
+      "telephone": "41223025382",
+      "telPortable": " ",
+      "email": "jean-marc.supor@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_84",
       "no": "103",
       "nom": "Tanriverdi",
       "prenom": "Vanessa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "NC",
+      "telephone": "41223025597",
+      "telPortable": " ",
+      "email": "vanessa.tanriverdi@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "22.01.2024"
     },
     {
       "id": "rolex-geneve_85",
       "no": "1",
       "nom": "Terrisse",
       "prenom": "Yves",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41223025350",
+      "telPortable": " ",
+      "email": "yves.terisse@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_86",
       "no": "121",
       "nom": "Tixhon",
       "prenom": "Guillaume",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Chief of Staff and head of HR IT projects",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "guillaume.tixhon@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_87",
       "no": "85",
       "nom": "Wicky",
       "prenom": "Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "duplicate4155.michel.wicky@adecco.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_88",
       "no": "122",
       "nom": "Xavier",
       "prenom": "Jouanneau",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Enterprise Architecture",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "xavier.jouanneau@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2025"
     },
     {
       "id": "rolex-geneve_89",
       "no": "127",
       "nom": "Xavier",
       "prenom": "BRAUN",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "CIO",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "xavier.braun@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "rolex-geneve_90",
       "no": "125",
       "nom": "Yoann",
       "prenom": "Lemain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Team Manager & Lead, Digital Innovation",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "yoann.lemain@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.02.2025"
     },
     {
       "id": "rolex-geneve_91",
       "no": "90",
       "nom": "Aebischer",
       "prenom": "Vanessa",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Charg�e de recrutement",
+      "telephone": "41223021263",
+      "telPortable": " ",
+      "email": "vanessa.aebischer@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "rolex-geneve_92",
       "no": "34",
       "nom": "Andronof",
       "prenom": "Katia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "SAP autorisation",
+      "telephone": "41223027507",
+      "telPortable": " ",
+      "email": "katia.andronof@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_93",
       "no": "35",
       "nom": "Augustynski",
       "prenom": "Thomas",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "D�partement ERP",
+      "telephone": "41223027337",
+      "telPortable": " ",
+      "email": "thomas.augustynski@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_94",
       "no": "100",
       "nom": "Blanc",
       "prenom": "Florine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Ass. de Mme Schopperl�",
+      "telephone": "41223022073",
+      "telPortable": " ",
+      "email": "duplicate.florine.blanc@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "rolex-geneve_95",
       "no": "25",
       "nom": "Blanc",
       "prenom": "Florine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Ass. de Mme Schopperl�",
+      "telephone": "41223022073",
+      "telPortable": " ",
+      "email": "florine.blanc@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "rolex-geneve_96",
       "no": "37",
       "nom": "Bouchet",
       "prenom": "Fr�d�ric",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "IT Architect",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "frederic.bouchet@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_97",
       "no": "38",
       "nom": "Bouillard",
       "prenom": "Christophe",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "SR VP, Head of Infra & Ops",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "christophe.bouillard@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_98",
       "no": "39",
       "nom": "Bovet",
       "prenom": "Monique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistante Mme Chevalier",
+      "telephone": "022 302 22 00",
+      "telPortable": " ",
+      "email": "monique.bovet@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_99",
       "no": "7",
       "nom": "Bryois",
       "prenom": "Fran�ois",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "DRH",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_100",
       "no": "98",
       "nom": "Buffet",
       "prenom": "Stephane",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Sous Directeur RH",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "duplicate.stephane.buffet@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "rolex-geneve_101",
       "no": "40",
       "nom": "Burauskas",
       "prenom": "Franck",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Adecco",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "franck.burauskas@adecco.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_102",
       "no": "41",
       "nom": "Cabin",
       "prenom": "Daniel",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Resp. Postes clients",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_103",
       "no": "42",
       "nom": "Caudullo",
       "prenom": "Antoine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_104",
       "no": "99",
       "nom": "Cavagna",
       "prenom": "Giovanni",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41223021783",
+      "telPortable": " ",
+      "email": "duplicate.giovanni.cavagna@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "rolex-geneve_105",
       "no": "88",
       "nom": "Cazin",
       "prenom": "Vincent",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Syst�mes Information",
+      "telephone": "41223021909",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_106",
       "no": "43",
       "nom": "Chevalier",
       "prenom": "Virginie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "g�re les h�tesses",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_107",
       "no": "21",
       "nom": "Cianci",
       "prenom": "Corrine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_108",
       "no": "119",
       "nom": "Clement",
       "prenom": "Dominique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Fond� de Pouvoir",
+      "telephone": "41792900657",
+      "telPortable": "41266888800",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "08.03.2024"
     },
     {
       "id": "rolex-geneve_109",
       "no": "44",
       "nom": "Conrad",
       "prenom": "Elisabeth",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "41223022175",
+      "telPortable": " ",
+      "email": "elizabeth.conrad@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "rolex-geneve_110",
       "no": "30",
       "nom": "Crausaz",
       "prenom": "Christophe",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable Secteur Production",
+      "telephone": "022 361 40 07",
+      "telPortable": "079 536 31 53",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_111",
       "no": "87",
       "nom": "Crausaz",
       "prenom": "Christophe",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable Secteur Production",
+      "telephone": "41223614007",
+      "telPortable": "41795363153",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "rolex-geneve_112",
       "no": "45",
       "nom": "Damidot",
       "prenom": "Noel",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": "noel.damidot@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_113",
       "no": "46",
       "nom": "De Sena",
       "prenom": "Patricia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "223022539",
+      "telPortable": " ",
+      "email": "patrizia.desena@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_114",
       "no": "28",
       "nom": "De Sena Ruberti",
       "prenom": "Patrizia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Ass. de Mme Strack-Perdrix",
+      "telephone": "41223022539",
+      "telPortable": " ",
+      "email": "duplicate3045.patrizia.desena@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_115",
       "no": "47",
       "nom": "De Sousa",
       "prenom": "C�line",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Adecco Horlogerie",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_116",
       "no": "10",
       "nom": "Del Grasso",
       "prenom": "Diana",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_117",
       "no": "49",
       "nom": "Delajoux",
       "prenom": "David",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "022 302 28 02",
+      "telPortable": " ",
+      "email": "david.delajoux@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_118",
       "no": "50",
       "nom": "Delpino",
       "prenom": "Sandrine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "41223022200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_119",
       "no": "95",
       "nom": "Delpino",
       "prenom": "Sandrine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Systemes d'Information",
+      "telephone": "41223026873",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "rolex-geneve_120",
       "no": "51",
       "nom": "Dides",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable d�partement ERP",
+      "telephone": ".",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Burauskas, Franck",
+      "dateMutation": "25.09.2020"
     },
     {
       "id": "rolex-geneve_121",
       "no": "6",
       "nom": "Dubois",
       "prenom": "Amandine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Ass. de Mr Terisse",
+      "telephone": "41223022086",
+      "telPortable": " ",
+      "email": "amandine.dubois@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "rolex-geneve_122",
       "no": "14",
       "nom": "Fehr",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Secr�taire de direction",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_123",
       "no": "29",
       "nom": "Fillion",
       "prenom": "Virginie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41223027630",
+      "telPortable": " ",
+      "email": "virgine.fillion@rolex.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.03.2025"
     },
     {
       "id": "rolex-geneve_124",
       "no": "16",
       "nom": "Fischer",
       "prenom": "Anouk",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "022 302 21 64",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_125",
       "no": "9",
       "nom": "Frattini",
       "prenom": "Paul",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "022 302 24 06",
+      "telPortable": " ",
+      "email": "paul.frattini@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_126",
       "no": "17",
       "nom": "Girardin",
       "prenom": "Dominique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "022 308 24 73",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_127",
       "no": "11",
       "nom": "Jeanneret",
       "prenom": "Magali",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "022 302 24 63",
+      "telPortable": " ",
+      "email": "magali.jeanneret@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_128",
       "no": "18",
       "nom": "Joumblat",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "022 308 22 09",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_129",
       "no": "22",
       "nom": "Junod",
       "prenom": "Isabelle",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistante de Mme Killy",
+      "telephone": "022 308 29 06",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_130",
       "no": "19",
       "nom": "Killy",
       "prenom": "M.",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_131",
       "no": "67",
       "nom": "Marx",
       "prenom": "Sebastien",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "41223021780",
+      "telPortable": " ",
+      "email": "sebastien.marx@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.06.2023"
     },
     {
       "id": "rolex-geneve_132",
       "no": "15",
       "nom": "Randon",
       "prenom": "Karine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "022 302 24 04",
+      "telPortable": " ",
+      "email": "karine.randon@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_133",
       "no": "4",
       "nom": "Schaerer",
       "prenom": "Marie-Laure",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "022 302 20 73",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_134",
       "no": "101",
       "nom": "Schopperl�",
       "prenom": "Virginie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "RH",
+      "telephone": "41223022473",
+      "telPortable": " ",
+      "email": "duplicate.virginie.schopperle@rolex.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "rolex-geneve_135",
       "no": "5",
       "nom": "Strack-Perdrix",
       "prenom": "Agn�s",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "RH",
+      "telephone": "022 302 70 18",
+      "telPortable": " ",
+      "email": "agnes.strack-perdrix@rolex.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "rolex-geneve_136",
       "no": "13",
       "nom": "Voitchovsky",
       "prenom": "J.-P.",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Directeur fabrication",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     }
   ]
 }

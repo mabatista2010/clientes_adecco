@@ -7,42 +7,84 @@
       "no": "4",
       "nom": "Brito",
       "prenom": "Ivone",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41218690650",
+      "telPortable": "41798859686",
+      "email": "ivone.brito@delta-cafes.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "novadelta-suisse-s-rl-puidoux_1",
       "no": "2",
       "nom": "Goncalves",
       "prenom": "Paulo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41218690650",
+      "telPortable": " ",
+      "email": "paulo.goncalves@delta-cafes.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "novadelta-suisse-s-rl-puidoux_2",
       "no": "3",
       "nom": "Marques",
       "prenom": "Francisco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur financier",
+      "telephone": "41218690650",
+      "telPortable": "707002205",
+      "email": "francisco.marques@delta-cafes.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "08.10.2024"
     },
     {
       "id": "novadelta-suisse-s-rl-puidoux_3",
       "no": "6",
       "nom": "Pinto Ferreira",
       "prenom": "Paulo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Logistique Adjoint",
+      "telephone": "41766138751",
+      "telPortable": " ",
+      "email": "paulopinto.ferreira@delta-cafes.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "novadelta-suisse-s-rl-puidoux_4",
       "no": "5",
       "nom": "Raghni",
       "prenom": "Khalid",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistant Ressources Humains",
+      "telephone": "41999",
+      "telPortable": "41999",
+      "email": "rh.suisse@delta-cafes.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "novadelta-suisse-s-rl-puidoux_5",
       "no": "1",
       "nom": "Rey",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41218690650",
+      "telPortable": "41795135124",
+      "email": "alain.rey@delta-cafes.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     }
   ]
 }

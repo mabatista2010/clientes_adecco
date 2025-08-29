@@ -7,7 +7,14 @@
       "no": "1",
       "nom": "Giazzi",
       "prenom": "Andrea",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41795424564",
+      "telPortable": "41795424564",
+      "email": "info@acro-line.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     }
   ]
 }

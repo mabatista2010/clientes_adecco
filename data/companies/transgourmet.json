@@ -7,84 +7,168 @@
       "no": "4",
       "nom": "Bavaud",
       "prenom": "Anita",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp. service clients",
+      "telephone": "41219672300",
+      "telPortable": " ",
+      "email": "anita.bavaud@transgourmet.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "05.08.2022"
     },
     {
       "id": "transgourmet_1",
       "no": "12",
       "nom": "Bertheault",
       "prenom": "Didier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable march� Growa",
+      "telephone": "41219672311",
+      "telPortable": "41793747478",
+      "email": "didier.bertheault@transgourmet.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "transgourmet_2",
       "no": "5",
       "nom": "Jacquiard",
       "prenom": "Patrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur R�gional",
+      "telephone": "41219672411",
+      "telPortable": "41793557870",
+      "email": "patrick.jacquiard@transgourmet.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "transgourmet_3",
       "no": "8",
       "nom": "Lopez Novo",
       "prenom": "Maria Isabel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Facturation",
+      "telephone": "41219672313",
+      "telPortable": " ",
+      "email": "mariaisabel.lopeznovo@transgourmet.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "05.08.2022"
     },
     {
       "id": "transgourmet_4",
       "no": "1",
       "nom": "Mauron",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur du march� Growa",
+      "telephone": "41219672311",
+      "telPortable": "41792494458",
+      "email": "eric.mauron@transgourmet.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Batista Ruiz, Miguel Angel",
+      "dateMutation": "14.10.2022"
     },
     {
       "id": "transgourmet_5",
       "no": "11",
       "nom": "Mauroux",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable D�p�t",
+      "telephone": "41219672499",
+      "telPortable": " ",
+      "email": "eric.mauroux@transgourmet.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "transgourmet_6",
       "no": "6",
       "nom": "Porchet",
       "prenom": "Jonathan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable logistique",
+      "telephone": "41219672412",
+      "telPortable": "41794019922",
+      "email": "jonathan.porchet@transgourmet.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "30.09.2024"
     },
     {
       "id": "transgourmet_7",
       "no": "10",
       "nom": "Schick",
       "prenom": "Yvan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41318584848",
+      "telPortable": "41795769246",
+      "email": "yvan.schick@transgourmet.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "transgourmet_8",
       "no": "7",
       "nom": "Teixeira",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Transport",
+      "telephone": "41219672413",
+      "telPortable": "700000052",
+      "email": "rl30-transport1@transgourmet.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "transgourmet_9",
       "no": "9",
       "nom": "Tippmann",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de rayon Administration / RH",
+      "telephone": "41219672312",
+      "telPortable": "41219672312",
+      "email": "nathalie.tippmann@transgourmet.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Batista Ruiz, Miguel Angel",
+      "dateMutation": "21.10.2022"
     },
     {
       "id": "transgourmet_10",
       "no": "2",
       "nom": "Moos",
       "prenom": "Jean-Marie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable",
+      "telephone": "41219672411",
+      "telPortable": "41792143550",
+      "email": "jean-marie.moos@transgourmet.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "12.07.2022"
     },
     {
       "id": "transgourmet_11",
       "no": "3",
       "nom": "Yerly",
       "prenom": "Pascal",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "41219672412",
+      "telPortable": " ",
+      "email": "pascal.yerly@transgourmet.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     }
   ]
 }

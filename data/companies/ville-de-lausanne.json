@@ -7,273 +7,546 @@
       "no": "27",
       "nom": "Allet",
       "prenom": "Jean-Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": "jean-christophe.allet@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_1",
       "no": "11",
       "nom": "Alvarez",
       "prenom": "Ricardo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Auditeur",
+      "telephone": "41213157438",
+      "telPortable": "41764632013",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_2",
       "no": "25",
       "nom": "Andreoli",
       "prenom": "Valentina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe Chef de Service",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_3",
       "no": "26",
       "nom": "Bettens",
       "prenom": "Lorraine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Marketing",
+      "telephone": "41796779654",
+      "telPortable": " ",
+      "email": "lorraine.bettens@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_4",
       "no": "35",
       "nom": "Bridal",
       "prenom": "Elsa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseill�re en insertion",
+      "telephone": "41797262226",
+      "telPortable": "41213157169",
+      "email": "elsa.bridel@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_5",
       "no": "21",
       "nom": "Bruelisauer",
       "prenom": "Patrik",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Webmaster responsable",
+      "telephone": "+41 21 315 25 61",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_6",
       "no": "30",
       "nom": "Champreneaud",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of HR Service des �coles",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": "nicolas.champrenaud@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_7",
       "no": "24",
       "nom": "Chavent",
       "prenom": "Tamara",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41213154212",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_8",
       "no": "23",
       "nom": "Cledelin",
       "prenom": "Virginie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DRH",
+      "telephone": "41229942849",
+      "telPortable": "41795008980",
+      "email": "virginie.cledelin@tprnov.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_9",
       "no": "32",
       "nom": "Cordoso",
       "prenom": "Carla",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41213155717",
+      "telPortable": " ",
+      "email": "carla.cardoso@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_10",
       "no": "29",
       "nom": "Da Silva",
       "prenom": "Antony",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable profil IT",
+      "telephone": "41213152688",
+      "telPortable": " ",
+      "email": "info@info.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_11",
       "no": "8",
       "nom": "Dizdarevic",
       "prenom": "Admir",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable administration du CID",
+      "telephone": "41213157981",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_12",
       "no": "9",
       "nom": "Dufey",
       "prenom": "Alinda",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe adminis",
+      "telephone": "41213158717",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_13",
       "no": "19",
       "nom": "Foster",
       "prenom": "Pamela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "+41 21 3153215",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_14",
       "no": "22",
       "nom": "Gasparini",
       "prenom": "Mathieu",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable RH de la Direction Culture et d�veloppement urbain",
+      "telephone": "41213152227",
+      "telPortable": " ",
+      "email": "mathieu.gasparini@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_15",
       "no": "36",
       "nom": "Gerlich",
       "prenom": "Claire",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseill�re RH",
+      "telephone": "41213157115",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_16",
       "no": "6",
       "nom": "Haller",
       "prenom": "Nadine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Manager",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": "nadine.haller@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_17",
       "no": "38",
       "nom": "Hoffer",
       "prenom": "Xavier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable division IT",
+      "telephone": "41213159211",
+      "telPortable": " ",
+      "email": "xavier.hoffer@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_18",
       "no": "4",
       "nom": "Iseli",
       "prenom": "Patrice",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur des sports",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": "patrice.iseli@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_19",
       "no": "33",
       "nom": "Jorge Louren�o",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41213153813",
+      "telPortable": " ",
+      "email": "sarah.jorge@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_20",
       "no": "13",
       "nom": "Lachavanne",
       "prenom": "Yves",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de Service",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_21",
       "no": "15",
       "nom": "Lachavanne",
       "prenom": "Yves",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41213155715",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_22",
       "no": "44",
       "nom": "Lefebvre",
       "prenom": "Justine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Cheffe d'unit� SIRH",
+      "telephone": "41213152126",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_23",
       "no": "20",
       "nom": "Mayerat",
       "prenom": "Lionel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable section support technique multim�dia",
+      "telephone": "0041 21 315 98 56",
+      "telPortable": " ",
+      "email": "lionel.mayerat@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_24",
       "no": "10",
       "nom": "Michel",
       "prenom": "Diserens",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DRH",
+      "telephone": "41213152310",
+      "telPortable": " ",
+      "email": "michel.diserens@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_25",
       "no": "3",
       "nom": "Morezzi",
       "prenom": "Quentin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de r�seau adjoint",
+      "telephone": "41795763254",
+      "telPortable": " ",
+      "email": "quentin.morezzi@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_26",
       "no": "18",
       "nom": "Puschiasis",
       "prenom": "Sabrina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41213152555",
+      "telPortable": " ",
+      "email": "sabrina.puschiasis@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_27",
       "no": "34",
       "nom": "Roduit",
       "prenom": "Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH de Direction",
+      "telephone": "41213157314",
+      "telPortable": " ",
+      "email": "francois.roduit@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_28",
       "no": "31",
       "nom": "Ruef Bayiha",
       "prenom": "Christine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH de la Direction S�curit� et Economie",
+      "telephone": "213153218",
+      "telPortable": " ",
+      "email": "christine.ruef@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_29",
       "no": "37",
       "nom": "Schaub",
       "prenom": "Patrice",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable des manifestations et activit�s sportives",
+      "telephone": "41213151426",
+      "telPortable": " ",
+      "email": "patrice.schaub@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_30",
       "no": "7",
       "nom": "Schlaeppy",
       "prenom": "Jean-Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41213152700",
+      "telPortable": "41213152632",
+      "email": "jean-daniel.schlaeppy@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_31",
       "no": "12",
       "nom": "Stanimirovic",
       "prenom": "Vesna",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du domaine droit et administration du personnel",
+      "telephone": "41213157438",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_32",
       "no": "41",
       "nom": "Subilia",
       "prenom": "Anne-Marie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe de la cheffe de service - projets strat�giques et transversaux",
+      "telephone": "41213152326",
+      "telPortable": " ",
+      "email": "anne-marie.subilia@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_33",
       "no": "42",
       "nom": "SUBRAMANIAM",
       "prenom": "Sinthuja",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Experte ERP Finance & cheffe d'unit�",
+      "telephone": "41213152823",
+      "telPortable": " ",
+      "email": "sinthuja.subramaniam@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_34",
       "no": "5",
       "nom": "Treyvaud",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef Division Construction & Maintenance",
+      "telephone": "41213155452",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_35",
       "no": "43",
       "nom": "Udry",
       "prenom": "Val�rie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "cheffe division achats et assurances",
+      "telephone": "41213158875",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_36",
       "no": "40",
       "nom": "Vincent",
       "prenom": "Na�nemoutou",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de p�le IDD et adjoint � la cheffe de service",
+      "telephone": "41213152610",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_37",
       "no": "16",
       "nom": "Vogel",
       "prenom": "V�ronique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef R�viseur",
+      "telephone": "41792444185",
+      "telPortable": " ",
+      "email": "veronique.vogel@citycable.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "ville-de-lausanne_38",
       "no": "39",
       "nom": "Yves",
       "prenom": "Guignot",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Service Manager et responsable EasyVista",
+      "telephone": "33642140112",
+      "telPortable": " ",
+      "email": "yves.guignot@lausanne.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

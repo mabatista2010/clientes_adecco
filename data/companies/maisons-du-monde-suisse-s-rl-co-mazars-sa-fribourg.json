@@ -7,91 +7,182 @@
       "no": "9",
       "nom": "Baudet",
       "prenom": "G�raldine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "G�rant de magasin Villeneuve",
+      "telephone": "411234",
+      "telPortable": "411234",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.11.2022"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_1",
       "no": "5",
       "nom": "Calvi",
       "prenom": "Sara",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Incaricata Selezione Italia",
+      "telephone": "41999",
+      "telPortable": "393428624633",
+      "email": "scalvi@maisonsdumonde.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_2",
       "no": "3",
       "nom": "Chirico",
       "prenom": "Maria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Regional Director Switzerland",
+      "telephone": "41798970550",
+      "telPortable": "41798970550",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_3",
       "no": "7",
       "nom": "Clemence",
       "prenom": ".",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "operations",
+      "telephone": "41218070419",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.06.2022"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_4",
       "no": "4",
       "nom": "Djellal",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Leiterin Einrichtungsteam",
+      "telephone": "0033 642 02 40 15",
+      "telPortable": " ",
+      "email": "sdjellal@maisonsdumonde.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Giedenbacher, Timon",
+      "dateMutation": "04.03.2021"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_5",
       "no": "6",
       "nom": "Johnson",
       "prenom": "Caroline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Charg�e RH Op�rationnel Allemagne & Suisse",
+      "telephone": "33675755945",
+      "telPortable": " ",
+      "email": "cejohnson@maisonsdumonde.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "09.06.2022"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_6",
       "no": "12",
       "nom": "Laroche",
       "prenom": "Kevin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Balexert",
+      "telephone": "414122424909",
+      "telPortable": " ",
+      "email": "dir-mag-geneve@maisonsdumonde.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_7",
       "no": "13",
       "nom": "LAROCHE",
       "prenom": "Kevin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "G�rant magasin Balexert",
+      "telephone": "41218070419",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.02.2025"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_8",
       "no": "10",
       "nom": "Leger",
       "prenom": "Thomas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Respnsable personnel",
+      "telephone": "4133788679680",
+      "telPortable": "4133788679680",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "26.05.2023"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_9",
       "no": "8",
       "nom": "Ollagnier",
       "prenom": "S�verine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable du chantier",
+      "telephone": "411234",
+      "telPortable": "33622664957",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.06.2022"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_10",
       "no": "1",
       "nom": "Pereira",
       "prenom": "Andr�a",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Charg�e de recrutement",
+      "telephone": "33251711717",
+      "telPortable": "33610452236",
+      "email": "interim-retail@maisonsdumonde.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_11",
       "no": "2",
       "nom": "Preveraud",
       "prenom": "Elsa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "unbekannt",
+      "telephone": "0",
+      "telPortable": " ",
+      "email": "epreveraud@maisonsdumonde.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_12",
       "no": "11",
       "nom": "Treglia Canilla",
       "prenom": "Doris",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "G�rante magasin Villeneuve",
+      "telephone": "41999",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "26.10.2023"
     }
   ]
 }

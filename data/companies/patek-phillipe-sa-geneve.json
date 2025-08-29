@@ -7,147 +7,294 @@
       "no": "77",
       "nom": ".",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint comptable",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_1",
       "no": "28",
       "nom": "Barrail",
       "prenom": "Marie-Laure",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41228842952",
+      "telPortable": " ",
+      "email": "marie-laure.barrail@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_2",
       "no": "84",
       "nom": "Blanch",
       "prenom": "S�bastien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chief Information Officer",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "sebastien.blanch@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_3",
       "no": "80",
       "nom": "Boehling",
       "prenom": "Claudia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_4",
       "no": "60",
       "nom": "Compagnon",
       "prenom": "Yves",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Comptable",
+      "telephone": "022 884 20 20",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_5",
       "no": "86",
       "nom": "Cucciola",
       "prenom": "Katia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responable Achats Habillement",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": "katia.cucciola@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_6",
       "no": "90",
       "nom": "Fahem",
       "prenom": "Ghalia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable recrutement",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": "ghalia.fahem@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_7",
       "no": "16",
       "nom": "Grange",
       "prenom": "Alexandre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "022 884 23 40",
+      "telPortable": " ",
+      "email": "alexandre.grange@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_8",
       "no": "26",
       "nom": "Grange",
       "prenom": "C�line",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41228842307",
+      "telPortable": " ",
+      "email": "celine.grange@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_9",
       "no": "83",
       "nom": "Ingraham",
       "prenom": "Tanya",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TA",
+      "telephone": "41227073195",
+      "telPortable": " ",
+      "email": "tanya.ingraham@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_10",
       "no": "31",
       "nom": "Lagrimosa",
       "prenom": "Maria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41228842314",
+      "telPortable": " ",
+      "email": "maria.lagrimosa@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_11",
       "no": "29",
       "nom": "Latt�",
       "prenom": "Carole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Gestionnaire RH",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": "carole.latte@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_12",
       "no": "21",
       "nom": "Marotta",
       "prenom": "Angelo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "022 884 23 99",
+      "telPortable": "078 710 92 03",
+      "email": "angelo.marotta@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_13",
       "no": "87",
       "nom": "Salvi",
       "prenom": "Ludovic",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Infrastructure et Op�rations",
+      "telephone": "33666057477",
+      "telPortable": " ",
+      "email": "ludovic.salvi@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_14",
       "no": "91",
       "nom": "Schlappi",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Technique",
+      "telephone": "41223456789",
+      "telPortable": " ",
+      "email": "nicolas.schlappi@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_15",
       "no": "82",
       "nom": "Schoeni",
       "prenom": "Olivia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "General Services Manager & Purchasing Lead",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": "olivia.schoeni@patek.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_16",
       "no": "78",
       "nom": "Shalofsky",
       "prenom": "Alexandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Acquisition Talents",
+      "telephone": "41228842942",
+      "telPortable": " ",
+      "email": "alexandra.shalofsky@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_17",
       "no": "25",
       "nom": "Simond",
       "prenom": "J�r�me",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41228842392",
+      "telPortable": " ",
+      "email": "jerome.simond@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_18",
       "no": "8",
       "nom": "Stussi",
       "prenom": "Bertrand",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Gestion RH",
+      "telephone": "41228842315",
+      "telPortable": " ",
+      "email": "bertrand.stussi@patek.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_19",
       "no": "92",
       "nom": "Target",
       "prenom": "Anthony",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Logistique",
+      "telephone": "41774843507",
+      "telPortable": " ",
+      "email": "anthony.target@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "patek-phillipe-sa-geneve_20",
       "no": "88",
       "nom": "Torreggiani",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable SI - Solutions M�tiers & Int�gration",
+      "telephone": "41228842020",
+      "telPortable": " ",
+      "email": "stephane.torreggiani@patek.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

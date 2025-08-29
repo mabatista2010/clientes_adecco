@@ -7,35 +7,70 @@
       "no": "10",
       "nom": "Almeida",
       "prenom": "Leticia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41585804523",
+      "telPortable": " ",
+      "email": "leticia.almeida@nespresso.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "nestle-nespresso_1",
       "no": "3",
       "nom": "Fraysse",
       "prenom": "Guillaume",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "nestle-nespresso_2",
       "no": "6",
       "nom": "Kursner",
       "prenom": "Adeline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "26",
+      "telPortable": " ",
+      "email": "adeline.kursner@nespresso.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "nestle-nespresso_3",
       "no": "9",
       "nom": "Nibeaudeau",
       "prenom": "Sophie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41263093300",
+      "telPortable": "765500240",
+      "email": "sophie.nibeaudeau@nespresso.com",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "nestle-nespresso_4",
       "no": "7",
       "nom": "Pasche",
       "prenom": "Fanny",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruitment Specialist",
+      "telephone": "026 913 57 47",
+      "telPortable": "079 781 42 95",
+      "email": "fanny.pasche@nespresso.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

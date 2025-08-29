@@ -7,63 +7,126 @@
       "no": "1",
       "nom": "Avert",
       "prenom": "Cedric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur d'Exploitation",
+      "telephone": "41215959500",
+      "telPortable": "41792406600",
+      "email": "cavert@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_1",
       "no": "4",
       "nom": "Berruex",
       "prenom": "Luc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistant Ressources Humaines",
+      "telephone": "41216330614",
+      "telPortable": "41797059551",
+      "email": "lberruex@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_2",
       "no": "9",
       "nom": "Couturier",
       "prenom": "Sandrine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable HU",
+      "telephone": "41793871587",
+      "telPortable": "41585959500",
+      "email": "scouturier@leguriviera-groupe.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_3",
       "no": "3",
       "nom": "Dellenbach",
       "prenom": "Cyrille",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur des ventes",
+      "telephone": "058 595 95 01",
+      "telPortable": "079 293 96 13",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_4",
       "no": "6",
       "nom": "Di Meo",
       "prenom": "Manuela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41585959511",
+      "telPortable": "41763293461",
+      "email": "mdimeo@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_5",
       "no": "8",
       "nom": "Glarner",
       "prenom": "Fr�deric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint du Directeur d'exploitation Responsable des chauffeurs et logistique",
+      "telephone": "41792581406",
+      "telPortable": " ",
+      "email": "fglarner@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_6",
       "no": "7",
       "nom": "Gonzalez",
       "prenom": "Francis",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Finances & Administration",
+      "telephone": "41585959510",
+      "telPortable": "41793213843",
+      "email": "fgonzalez@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_7",
       "no": "2",
       "nom": "Rost",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Commercial",
+      "telephone": "41585959501",
+      "telPortable": "41797449854",
+      "email": "crost@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "leguriviera_8",
       "no": "5",
       "nom": "Tinguely",
       "prenom": "Jean-Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable d�partement 4�me Gamme,",
+      "telephone": "41798325262",
+      "telPortable": "41798325262",
+      "email": "jdtinguely@leguriviera-groupe.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

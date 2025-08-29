@@ -7,287 +7,574 @@
       "no": "37",
       "nom": "Aiache",
       "prenom": "Vincent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Acheteur Senior IT",
+      "telephone": "41792252718",
+      "telPortable": " ",
+      "email": "vaiache@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_1",
       "no": "27",
       "nom": "B�che",
       "prenom": "M�lanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Team Leader",
+      "telephone": "41795508800",
+      "telPortable": " ",
+      "email": "mbeche@assura.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_2",
       "no": "53",
       "nom": "BESSEAU",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef du programme Gestion des identit�s et Acc�s",
+      "telephone": "41783061159",
+      "telPortable": " ",
+      "email": "olivier.besseau@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_3",
       "no": "11",
       "nom": "Bonanno",
       "prenom": "Estelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41215444904",
+      "telPortable": " ",
+      "email": "ebonanno@figeas.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_4",
       "no": "32",
       "nom": "Chevalley Rutz",
       "prenom": "Sophie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41215444914",
+      "telPortable": "41792519446",
+      "email": "schevalleyrutz@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_5",
       "no": "17",
       "nom": "Dania",
       "prenom": "Zamofing",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41215444902",
+      "telPortable": " ",
+      "email": "dzamofing@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_6",
       "no": "52",
       "nom": "Das Neves",
       "prenom": "Joana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "415444933",
+      "telPortable": " ",
+      "email": "jdasneves@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_7",
       "no": "18",
       "nom": "De Carli",
       "prenom": "Stella",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HEad of L&D",
+      "telephone": "41215444918",
+      "telPortable": " ",
+      "email": "sdecarli@assura.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_8",
       "no": "33",
       "nom": "D�sir",
       "prenom": "Thomas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. �tat Major",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_9",
       "no": "39",
       "nom": "Dransart",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Team Leader Service-Desk & IT Back Office",
+      "telephone": "41799645965",
+      "telPortable": " ",
+      "email": "odransart@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_10",
       "no": "12",
       "nom": "Duchaud",
       "prenom": "Roland",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "842277872",
+      "telPortable": " ",
+      "email": "rduchaud@figeas.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_11",
       "no": "45",
       "nom": "Dumartheray",
       "prenom": "Jonas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Team Leader \n Project Manager",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_12",
       "no": "20",
       "nom": "Fierloni",
       "prenom": "Fabio",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": "ffierloni@assura.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_13",
       "no": "36",
       "nom": "Fragni�re",
       "prenom": "Francois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. D�veloppement Durable & Secr�tariat G�n�ral",
+      "telephone": "41215444920",
+      "telPortable": " ",
+      "email": "ffragniere@assura.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_14",
       "no": "34",
       "nom": "Glohr",
       "prenom": "D�borah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Acheteuse IT",
+      "telephone": "41763356892",
+      "telPortable": " ",
+      "email": "dglohr@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_15",
       "no": "48",
       "nom": "Gonzalez",
       "prenom": "Juan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manager Responsable d �quipe",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_16",
       "no": "46",
       "nom": "Jouve",
       "prenom": "Vincent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Enterprise Architecture",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": "vjouve@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_17",
       "no": "26",
       "nom": "Kesmedjian",
       "prenom": "Julie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Marketing",
+      "telephone": "41215444956",
+      "telPortable": " ",
+      "email": "jkesmedjian@assura.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_18",
       "no": "25",
       "nom": "Magnin",
       "prenom": "Virginie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41215444901",
+      "telPortable": "41796037609",
+      "email": "vmagnin@assura.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_19",
       "no": "38",
       "nom": "Mallez",
       "prenom": "Amaury",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruiter",
+      "telephone": "41215444968",
+      "telPortable": " ",
+      "email": "amaury.mallez@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_20",
       "no": "13",
       "nom": "Mercury",
       "prenom": "David",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Consultant RH",
+      "telephone": "021 544 49 11",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_21",
       "no": "41",
       "nom": "Metzener",
       "prenom": "Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Data & Informations",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": "fmetzener@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_22",
       "no": "35",
       "nom": "Mikail",
       "prenom": "Asatekin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de projet IT",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "masatekin@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_23",
       "no": "47",
       "nom": "Morassin",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Informatique",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_24",
       "no": "19",
       "nom": "Muheim",
       "prenom": "Florent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "0",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_25",
       "no": "42",
       "nom": "Paolini",
       "prenom": "Julia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Team Manager, Service Manager, Cheffe de projet",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_26",
       "no": "24",
       "nom": "Perrone",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41797954520",
+      "telPortable": " ",
+      "email": "sperrone@assura.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_27",
       "no": "49",
       "nom": "Picard",
       "prenom": "Sebastien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chief Information Security Officer",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_28",
       "no": "21",
       "nom": "Pizzolon",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable des charg�s de client�le",
+      "telephone": "+41 84 227 78 72",
+      "telPortable": " ",
+      "email": "alain.pizzolon@assura.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_29",
       "no": "23",
       "nom": "Prince",
       "prenom": "Micka�l",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable Achat IT",
+      "telephone": "41215443701",
+      "telPortable": "41797450949",
+      "email": "mprince@assura.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_30",
       "no": "22",
       "nom": "Quante",
       "prenom": "Rasmus",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Marketing",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_31",
       "no": "43",
       "nom": "ROBIN",
       "prenom": "Sebastien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Release & Testing Management",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": "srobin@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_32",
       "no": "14",
       "nom": "Rochat",
       "prenom": "Aline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41215444903",
+      "telPortable": "41787504694",
+      "email": "alrochat@assura.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_33",
       "no": "15",
       "nom": "Rossini",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp succ Camorino",
+      "telephone": "41916115660",
+      "telPortable": " ",
+      "email": "zlrzssznz@zsszrz.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_34",
       "no": "50",
       "nom": "Schaffhauser",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Team Leader IT Infrastructure",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_35",
       "no": "16",
       "nom": "Thedens",
       "prenom": "Carole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "215444905",
+      "telPortable": "787504919",
+      "email": "cthedens@assura.ch1",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_36",
       "no": "40",
       "nom": "Vignon",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Infrastructure Manager",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": "cvignon@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_37",
       "no": "29",
       "nom": "Wihlborg",
       "prenom": "S",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "rhm",
+      "telephone": "41800277872",
+      "telPortable": " ",
+      "email": "swihlborg@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_38",
       "no": "30",
       "nom": "Wihlborg",
       "prenom": "Sandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "rhm",
+      "telephone": "41800277872",
+      "telPortable": " ",
+      "email": "swihlborg@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_39",
       "no": "31",
       "nom": "Yves",
       "prenom": "Turin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Information System Security Officer & Program manager",
+      "telephone": "41215443864",
+      "telPortable": " ",
+      "email": "yturin@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "assura-pully_40",
       "no": "51",
       "nom": "Zamofing",
       "prenom": "Dania",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR BP",
+      "telephone": "41842277872",
+      "telPortable": " ",
+      "email": "dania.zamofing@assura.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

@@ -1,5 +1,5 @@
 // Auto-generated file - DO NOT EDIT
-// Generated on 2025-08-29T08:42:28.233Z
+// Generated on 2025-08-29T12:13:00.183Z
 
 export interface Client {
   id: string;

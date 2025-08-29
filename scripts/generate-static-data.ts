@@ -55,12 +55,13 @@ async function generateStaticData() {
           nom: client.nom,
           prenom: client.prenom,
           actif: client.actif,
-          mail: client.email,
-          telFix: client.telephone,
-          telMobile: client.telPortable,
-          adresse: (client as any).adresse || '',
-          codePostal: (client as any).codePostal || '',
-          localite: (client as any).localite || ''
+          fonction: client.fonction,
+          telephone: client.telephone,
+          telPortable: client.telPortable,
+          email: client.email,
+          accesEasyMission: client.accesEasyMission,
+          editeurMutation: client.editeurMutation,
+          dateMutation: client.dateMutation
         }))
       };
       

@@ -7,42 +7,84 @@
       "no": "4",
       "nom": "Chamoso",
       "prenom": "David",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur associ�",
+      "telephone": "41219224850",
+      "telPortable": "41797994487",
+      "email": "david.chamoso@hc-cuisines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.04.2023"
     },
     {
       "id": "habitat-confort-s-a-corseaux_1",
       "no": "7",
       "nom": "Giller",
       "prenom": "Sandrine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante de Direction",
+      "telephone": "41219224850",
+      "telPortable": " ",
+      "email": "sandrine.giller@hc-cuisines.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.10.2024"
     },
     {
       "id": "habitat-confort-s-a-corseaux_2",
       "no": "6",
       "nom": "Koenig",
       "prenom": "Jos�phine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "EVENT COORDINATOR",
+      "telephone": "41219224852",
+      "telPortable": " ",
+      "email": "josephine.koenig@hc-lelab.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "habitat-confort-s-a-corseaux_3",
       "no": "9",
       "nom": "Kuenzi",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur de travaux",
+      "telephone": "41782356080",
+      "telPortable": "41782356080",
+      "email": "christophe.kuenzi@hc-cuisines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.08.2022"
     },
     {
       "id": "habitat-confort-s-a-corseaux_4",
       "no": "5",
       "nom": "Schneiter",
       "prenom": "Alexandre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur associ�",
+      "telephone": "41219224850",
+      "telPortable": "41796618353",
+      "email": "alex.schneiter@hc-cuisines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.08.2022"
     },
     {
       "id": "habitat-confort-s-a-corseaux_5",
       "no": "8",
       "nom": "Alder",
       "prenom": "Benjamin",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "TBD",
+      "telephone": "41999",
+      "telPortable": "41999",
+      "email": "benjamin.alder@hc-cuisines.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.08.2022"
     }
   ]
 }

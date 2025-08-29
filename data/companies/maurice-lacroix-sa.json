@@ -7,28 +7,56 @@
       "no": "6",
       "nom": "Bentz",
       "prenom": "Thi�baut",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Product & Marketing Director",
+      "telephone": "+41 32 952 10 10",
+      "telPortable": "793494173",
+      "email": "thiebaut.bentz@mauricelacroix.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "maurice-lacroix-sa_1",
       "no": "2",
       "nom": "Boillat",
       "prenom": "Pierre-Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41329521010",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "maurice-lacroix-sa_2",
       "no": "4",
       "nom": "Reginelli",
       "prenom": "Sandro",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41329521010",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "maurice-lacroix-sa_3",
       "no": "5",
       "nom": "Willemin",
       "prenom": "Illona",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DRH",
+      "telephone": "+41 32 952 17 64",
+      "telPortable": " ",
+      "email": "ilona.willemin@mauricelacroix.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

@@ -7,21 +7,42 @@
       "no": "4",
       "nom": "Aeberhard",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41216206123",
+      "telPortable": " ",
+      "email": "duplicate3210.pascal.aeberhard@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-st-l-gier_1",
       "no": "6",
       "nom": "Cressac",
       "prenom": "Pierre-Henri",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41219430560",
+      "telPortable": "41999",
+      "email": "pierre-henri.cressac@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-st-l-gier_2",
       "no": "5",
       "nom": "Sturbaut",
       "prenom": "J�r�me",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de service m�canique & SAV",
+      "telephone": "41219430586",
+      "telPortable": " ",
+      "email": "jerome.sturbaut@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

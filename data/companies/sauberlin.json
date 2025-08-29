@@ -7,245 +7,490 @@
       "no": "36",
       "nom": "Blangiforti",
       "prenom": "Romane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistant RH",
+      "telephone": "41219254206",
+      "telPortable": "41219254200",
+      "email": "romane.blangiforti@saeuberlin.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_1",
       "no": "21",
       "nom": "Bondaz",
       "prenom": "Herv�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219254218",
+      "telPortable": " ",
+      "email": "h.bondaz@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "04.08.2022"
     },
     {
       "id": "sauberlin_2",
       "no": "29",
       "nom": "Bosio",
       "prenom": "Dominique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur du site",
+      "telephone": "41219254212",
+      "telPortable": " ",
+      "email": "dominique.bosio@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "sauberlin_3",
       "no": "6",
       "nom": "Burgy",
       "prenom": "C�cile",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "service achats",
+      "telephone": "925 42 23",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "B�rgy, Florence",
+      "dateMutation": "20.06.2018"
     },
     {
       "id": "sauberlin_4",
       "no": "3",
       "nom": "Caballero",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_5",
       "no": "30",
       "nom": "Chatton",
       "prenom": "Odile",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "duplicate3348.odile.chatton@adecco.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_6",
       "no": "32",
       "nom": "Colombo",
       "prenom": "Guiseppa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de dpt Qualit�",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "sauberlin_7",
       "no": "20",
       "nom": "Crouzet",
       "prenom": "Serge",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219254234",
+      "telPortable": " ",
+      "email": "s.crouzet@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_8",
       "no": "27",
       "nom": "Currat",
       "prenom": "J�r�me",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp ligne collage pliage",
+      "telephone": "41219254286",
+      "telPortable": " ",
+      "email": "collage@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "sauberlin_9",
       "no": "4",
       "nom": "Filomeno",
       "prenom": "Rocco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Reliure/Finitions/Calendriers/�tiquettes",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_10",
       "no": "13",
       "nom": "Gilberta",
       "prenom": "Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Marketing",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "novos.calendriers@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_11",
       "no": "38",
       "nom": "Gilbertas",
       "prenom": "Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Marketing",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "p.gilbertas@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.02.2025"
     },
     {
       "id": "sauberlin_12",
       "no": "7",
       "nom": "Merzgui",
       "prenom": "Georgette",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "� la comptas",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "comptabilite@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "sauberlin_13",
       "no": "37",
       "nom": "Miller",
       "prenom": "Jocelyne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Service comptabilit�",
+      "telephone": "41219254229",
+      "telPortable": " ",
+      "email": "jocelyne.miller@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.01.2025"
     },
     {
       "id": "sauberlin_14",
       "no": "26",
       "nom": "Mittendorfer",
       "prenom": "Doris",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "r�ception",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "reception@saeuberlin.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_15",
       "no": "25",
       "nom": "Perelli",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "m.perelli@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "04.08.2022"
     },
     {
       "id": "sauberlin_16",
       "no": "34",
       "nom": "Regamey",
       "prenom": "Julien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur des ventes",
+      "telephone": "41219254200",
+      "telPortable": " ",
+      "email": "j.regamey@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_17",
       "no": "23",
       "nom": "Ricaud",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DRH groupe",
+      "telephone": "3347500203",
+      "telPortable": "33672687593",
+      "email": "nicolas.ricaud@autajon.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "04.08.2022"
     },
     {
       "id": "sauberlin_18",
       "no": "35",
       "nom": "Roulet",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable B�C",
+      "telephone": "41219254271",
+      "telPortable": " ",
+      "email": "boiteacape@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "sauberlin_19",
       "no": "33",
       "nom": "Scotti",
       "prenom": "Paolo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Dpt Offset",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_20",
       "no": "31",
       "nom": "Yerly",
       "prenom": "Muriel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41219254232",
+      "telPortable": "41793214012",
+      "email": "muriel.yerly@saeuberlin.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.10.2024"
     },
     {
       "id": "sauberlin_21",
       "no": "28",
       "nom": "Alili",
       "prenom": "Fevzi",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable B�C",
+      "telephone": "41219254271",
+      "telPortable": " ",
+      "email": "boiteacape@saeuberlin.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.06.2023"
     },
     {
       "id": "sauberlin_22",
       "no": "16",
       "nom": "Gassner",
       "prenom": "Alain",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "commercial directeur",
+      "telephone": "021 925 42 16",
+      "telPortable": "079 310 99 89",
+      "email": "a.gassner@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_23",
       "no": "9",
       "nom": "Heim",
       "prenom": "Jacqueline",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "925 42 32",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_24",
       "no": "5",
       "nom": "Irminger",
       "prenom": "Denis",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "resp administ-finance",
+      "telephone": "925 42 21",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_25",
       "no": "22",
       "nom": "Keller",
       "prenom": "C�dric",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur commercial",
+      "telephone": "021 925 42 16",
+      "telPortable": "079 663 10 06",
+      "email": "c.keller@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_26",
       "no": "8",
       "nom": "Luthi",
       "prenom": "Jean",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "resp. d�aprt, litho",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_27",
       "no": "19",
       "nom": "Marion",
       "prenom": "Yves",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "yves.marion@autajon.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_28",
       "no": "10",
       "nom": "Reichenbach",
       "prenom": "Caroline",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "021 925 42 32",
+      "telPortable": " ",
+      "email": "ressources.humaines@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_29",
       "no": "12",
       "nom": "Rey",
       "prenom": "Philippe",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_30",
       "no": "15",
       "nom": "Rohmer",
       "prenom": "Denis",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "responsable d'entreprise",
+      "telephone": "021 925 42 14",
+      "telPortable": " ",
+      "email": "d.rohmer@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_31",
       "no": "18",
       "nom": "Rottet",
       "prenom": "Pierre-Alain",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef d'atelier",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "boiteacape@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_32",
       "no": "17",
       "nom": "Savary",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef offset",
+      "telephone": "021 925 42 00",
+      "telPortable": " ",
+      "email": "f.savary@saeuberlin.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_33",
       "no": "1",
       "nom": "Schirra",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn�/divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "sauberlin_34",
       "no": "2",
       "nom": "Vogel",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     }
   ]
 }

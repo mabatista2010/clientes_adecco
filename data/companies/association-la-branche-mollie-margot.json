@@ -7,217 +7,434 @@
       "no": "20",
       "nom": "Br�chon",
       "prenom": "Jo�l",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Monsieur",
+      "telephone": "41216124982",
+      "telPortable": " ",
+      "email": "j.brechon@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Batista Ruiz, Miguel Angel",
+      "dateMutation": "07.05.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_1",
       "no": "33",
       "nom": "Bytyci",
       "prenom": "Avni",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": ".",
+      "telephone": "41216124000",
+      "telPortable": " ",
+      "email": "a.bytyci@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Chevallier, Olivier",
+      "dateMutation": "10.01.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_2",
       "no": "11",
       "nom": "Charbonnet",
       "prenom": "C�dric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur RH",
+      "telephone": "41216124032",
+      "telPortable": "41792139251",
+      "email": "c.charbonnet@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.04.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_3",
       "no": "14",
       "nom": "Detrekoey",
       "prenom": "Katherin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe de direction",
+      "telephone": "41216124024",
+      "telPortable": " ",
+      "email": "k.detrekoey@labranche.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.04.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_4",
       "no": "27",
       "nom": "Dumas",
       "prenom": "Vinciane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secr�taire infrastructures & b�timents",
+      "telephone": "41216124983",
+      "telPortable": "41216124983",
+      "email": "v.dumas@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.09.2024"
     },
     {
       "id": "association-la-branche-mollie-margot_5",
       "no": "34",
       "nom": "Dur�",
       "prenom": "Raquel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Coordinatrice groupe OBERLIN",
+      "telephone": "41216124000",
+      "telPortable": " ",
+      "email": "r.dura@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.03.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_6",
       "no": "35",
       "nom": "Ehrensperger.",
       "prenom": "C�cile",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice",
+      "telephone": "41216124024",
+      "telPortable": " ",
+      "email": "c.ehrensperger@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.04.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_7",
       "no": "18",
       "nom": "Fankhauser",
       "prenom": "Cornelia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Educatrice / Responsable Maison Lusseyran",
+      "telephone": "41216124150",
+      "telPortable": " ",
+      "email": "c.fankhauser@labranche.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "12.11.2021"
     },
     {
       "id": "association-la-branche-mollie-margot_8",
       "no": "31",
       "nom": "Favre",
       "prenom": "Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": ".",
+      "telephone": "41216124905",
+      "telPortable": " ",
+      "email": "p.favre@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.03.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_9",
       "no": "7",
       "nom": "Fischtm�ller",
       "prenom": "Katrin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41216124023",
+      "telPortable": "41796587983",
+      "email": "k.fichtmueller@labranche.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "association-la-branche-mollie-margot_10",
       "no": "22",
       "nom": "Grivet",
       "prenom": "NM",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Madame",
+      "telephone": "41216124984",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.04.2023"
     },
     {
       "id": "association-la-branche-mollie-margot_11",
       "no": "23",
       "nom": "Grivet",
       "prenom": "Cynthia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Madame",
+      "telephone": "41216124984",
+      "telPortable": " ",
+      "email": "c.grivet@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "association-la-branche-mollie-margot_12",
       "no": "36",
       "nom": "Haegi",
       "prenom": "L�opold",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Maison Saint-Christophe",
+      "telephone": "41216124000",
+      "telPortable": " ",
+      "email": "l.haegi@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.04.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_13",
       "no": "12",
       "nom": "Kaiser",
       "prenom": "B.",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "216124000",
+      "telPortable": " ",
+      "email": "b.kaiser@labranche.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.02.2020"
     },
     {
       "id": "association-la-branche-mollie-margot_14",
       "no": "32",
       "nom": "Lovisetto",
       "prenom": "Serge",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": ".",
+      "telephone": "41216124505",
+      "telPortable": " ",
+      "email": "s.lovisetto@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.05.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_15",
       "no": "10",
       "nom": "Maiurano-Mayor",
       "prenom": "Coralie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice adjointe",
+      "telephone": "216124000",
+      "telPortable": " ",
+      "email": "c.maiurano@labranche.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.01.2023"
     },
     {
       "id": "association-la-branche-mollie-margot_16",
       "no": "17",
       "nom": "Marguerat",
       "prenom": "Serge",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistant RH",
+      "telephone": "41216124030",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "association-la-branche-mollie-margot_17",
       "no": "9",
       "nom": "Moret Villa",
       "prenom": "Nicole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41216124000",
+      "telPortable": " ",
+      "email": "ressourceshumaines@labranche.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.01.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_18",
       "no": "5",
       "nom": "Nguyen",
       "prenom": "Brigitte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "021 781 01 01",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "association-la-branche-mollie-margot_19",
       "no": "21",
       "nom": "Philippe",
       "prenom": "Dominique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de secteur",
+      "telephone": "41216124600",
+      "telPortable": "41795147406",
+      "email": "d.philippe@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "association-la-branche-mollie-margot_20",
       "no": "29",
       "nom": "Ravussin",
       "prenom": "Florence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice domaine r�sidentiel adulte",
+      "telephone": "41216124023",
+      "telPortable": " ",
+      "email": "f.ravussin@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.10.2024"
     },
     {
       "id": "association-la-branche-mollie-margot_21",
       "no": "26",
       "nom": "Seville",
       "prenom": "Thierry",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Monsieur",
+      "telephone": "41216124205",
+      "telPortable": " ",
+      "email": "t.seville@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Chevallier, Olivier",
+      "dateMutation": "10.01.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_22",
       "no": "6",
       "nom": "Smith",
       "prenom": "Deborah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "infirmi�re",
+      "telephone": "021 781 02 20",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "association-la-branche-mollie-margot_23",
       "no": "24",
       "nom": "Terry",
       "prenom": "Charlotte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice adjointe RH & Formation",
+      "telephone": "41999",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "07.06.2023"
     },
     {
       "id": "association-la-branche-mollie-margot_24",
       "no": "25",
       "nom": "Terry",
       "prenom": "Charlotte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice adjointe RH & Formation",
+      "telephone": "41216124037",
+      "telPortable": " ",
+      "email": "c.terry@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "22.04.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_25",
       "no": "28",
       "nom": "Willa",
       "prenom": "Silvia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Madame",
+      "telephone": "41216124120",
+      "telPortable": " ",
+      "email": "s.willa@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "association-la-branche-mollie-margot_26",
       "no": "15",
       "nom": "Bocquet",
       "prenom": "J�r�me",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable h�telier",
+      "telephone": "41216124052",
+      "telPortable": " ",
+      "email": "j.bocquet@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.04.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_27",
       "no": "8",
       "nom": "Feroleto",
       "prenom": "Sandra",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Directrice",
+      "telephone": "41216124000",
+      "telPortable": " ",
+      "email": "s.feroleto@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "association-la-branche-mollie-margot_28",
       "no": "16",
       "nom": "Gournel",
       "prenom": "Ang�line",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Assistante RH",
+      "telephone": "41216124030",
+      "telPortable": " ",
+      "email": "a.gurnel@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "association-la-branche-mollie-margot_29",
       "no": "30",
       "nom": "Luisier",
       "prenom": "Anne-Claude",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable du commerce et d�veloppement",
+      "telephone": "41216124055",
+      "telPortable": " ",
+      "email": "a.luisier@labranche.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.05.2025"
     },
     {
       "id": "association-la-branche-mollie-margot_30",
       "no": "19",
       "nom": "Sartori",
       "prenom": "Jean-Marc",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Monsieur",
+      "telephone": "41796502456",
+      "telPortable": " ",
+      "email": "jm.sartori@labranche.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.04.2025"
     }
   ]
 }

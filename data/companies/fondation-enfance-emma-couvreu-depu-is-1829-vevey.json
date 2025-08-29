@@ -7,133 +7,266 @@
       "no": "9",
       "nom": "Bressoud",
       "prenom": "Lionel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint de direction site Aigle",
+      "telephone": "41219831501",
+      "telPortable": " ",
+      "email": "l.bressoud@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_1",
       "no": "18",
       "nom": "Carrea",
       "prenom": "Sabia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice du site de Blonay",
+      "telephone": "41219770548",
+      "telPortable": "41795296765",
+      "email": "s.carrea@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.04.2025"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_2",
       "no": "13",
       "nom": "Citaku",
       "prenom": "Kaltrina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Collaboratrice RH",
+      "telephone": "41219230092",
+      "telPortable": " ",
+      "email": "k.citaku@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Troncao, Filipa",
+      "dateMutation": "27.11.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_3",
       "no": "1",
       "nom": "Durgnat",
       "prenom": "Charles-Andr�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint de direction",
+      "telephone": "41219770541",
+      "telPortable": "41795083590",
+      "email": "ca.durgnat@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_4",
       "no": "6",
       "nom": "Durgnat",
       "prenom": "Charles-Andr�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219770541",
+      "telPortable": "705000500",
+      "email": "charles-andre.durgnat@feec.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_5",
       "no": "5",
       "nom": "Emery",
       "prenom": "Jean-Luc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH - Blonay",
+      "telephone": "41788545882",
+      "telPortable": " ",
+      "email": "jl.emery@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "30.09.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_6",
       "no": "8",
       "nom": "Gunzinger",
       "prenom": "Yann",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41999",
+      "telPortable": "41792333849",
+      "email": "y.gunzinger@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_7",
       "no": "2",
       "nom": "Hierholtz",
       "prenom": "Ladislas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41219230090",
+      "telPortable": " ",
+      "email": "l.hierholtz@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_8",
       "no": "11",
       "nom": "Javet",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Adjoint",
+      "telephone": "41796072177",
+      "telPortable": " ",
+      "email": "daniel.javet@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_9",
       "no": "10",
       "nom": "Lattion",
       "prenom": "Laurence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice du site de Blonay",
+      "telephone": "41219770546",
+      "telPortable": "41219770548",
+      "email": "l.lattion@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_10",
       "no": "16",
       "nom": "Lejeune",
       "prenom": "Lindsay",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable de groupe",
+      "telephone": "41219770544",
+      "telPortable": " ",
+      "email": "l.lejeune@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_11",
       "no": "3",
       "nom": "Maier",
       "prenom": "Nina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41219230095",
+      "telPortable": " ",
+      "email": "n.maier@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_12",
       "no": "17",
       "nom": "Maillefer",
       "prenom": "Baptiste",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint de direction",
+      "telephone": "41795083590",
+      "telPortable": "41795083590",
+      "email": "b.maillefer@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_13",
       "no": "4",
       "nom": "Mourgine",
       "prenom": "Ricardo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resondable foyer d'Aigle",
+      "telephone": "41219831500",
+      "telPortable": "41793360684",
+      "email": "fr.mourgine@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_14",
       "no": "7",
       "nom": "Premand",
       "prenom": "Val�rie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Comptable",
+      "telephone": "41219230094",
+      "telPortable": " ",
+      "email": "v.premand@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.06.2022"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_15",
       "no": "15",
       "nom": "Prost",
       "prenom": "Ana�s",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable de groupe",
+      "telephone": "41219770544",
+      "telPortable": " ",
+      "email": "a.prost@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_16",
       "no": "12",
       "nom": "Roduit",
       "prenom": "Sophie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directrice administration, RH & finances",
+      "telephone": "41215666545",
+      "telPortable": "41797762162",
+      "email": "s.roduit@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_17",
       "no": "14",
       "nom": "Wuerzer",
       "prenom": "Manon",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de groupe",
+      "telephone": "41219770544",
+      "telPortable": " ",
+      "email": "m.wuerzer@feec.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.10.2024"
     },
     {
       "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_18",
       "no": "19",
       "nom": "Zuntini",
       "prenom": "Luca",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur G�n�ral",
+      "telephone": "41219770541",
+      "telPortable": " ",
+      "email": "rh@feec.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "06.05.2025"
     }
   ]
 }

@@ -7,126 +7,252 @@
       "no": "13",
       "nom": "Belloteau",
       "prenom": "Marion",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": "belloteau@promove.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "04.08.2022"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_1",
       "no": "12",
       "nom": "Enjolras",
       "prenom": "C�cile",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": "enjolras@promove.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "04.08.2022"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_2",
       "no": "18",
       "nom": "Funck",
       "prenom": "Mathilde",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Staff Specialist",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.03.2025"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_3",
       "no": "15",
       "nom": "Girod",
       "prenom": "Carine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante adminitrative",
+      "telephone": "41219634848",
+      "telPortable": "41764765949",
+      "email": "girod@promove.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "04.10.2024"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_4",
       "no": "17",
       "nom": "Han",
       "prenom": "Thanh-Ma�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable communication et �v�nements",
+      "telephone": "41219634846",
+      "telPortable": " ",
+      "email": "han@promove.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_5",
       "no": "11",
       "nom": "Schmid",
       "prenom": "Bernard",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": "schmid@promove.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.11.2024"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_6",
       "no": "16",
       "nom": "Schmid",
       "prenom": "Bernard",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Managing Director",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_7",
       "no": "7",
       "nom": "Wehrli",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Pr�sident Promove",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_8",
       "no": "9",
       "nom": "Alves",
       "prenom": "Daniela",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "stagepro@promove.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_9",
       "no": "14",
       "nom": "Darlen",
       "prenom": "De Pari",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Assistante administrative",
+      "telephone": "41219634848",
+      "telPortable": " ",
+      "email": "depari@promove.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_10",
       "no": "1",
       "nom": "Graber",
       "prenom": "Michel",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "D�l�gu�",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_11",
       "no": "5",
       "nom": "Hefti",
       "prenom": "Carole",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "021 963 48 48",
+      "telPortable": " ",
+      "email": "heftic@promove.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_12",
       "no": "8",
       "nom": "lauper",
       "prenom": "D�sir�e",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "lauper@promove.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_13",
       "no": "3",
       "nom": "Mottet",
       "prenom": "Anouk",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "responsable d'entreprise",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "asic@swissonline.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_14",
       "no": "10",
       "nom": "Perroud",
       "prenom": "Pierre-Alain",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_15",
       "no": "6",
       "nom": "Roduit",
       "prenom": "Florent",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "roduit@promove.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_16",
       "no": "4",
       "nom": "Schoeni",
       "prenom": "Mich�le",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "sous directrice",
+      "telephone": " ",
+      "telPortable": "079 206 08 28",
+      "email": "schoeni@promove.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_17",
       "no": "2",
       "nom": "Sinclair",
       "prenom": "Suzanne",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "responsable d'entreprise",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "info@promove.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     }
   ]
 }

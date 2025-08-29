@@ -7,112 +7,224 @@
       "no": "12",
       "nom": "Aguinalin",
       "prenom": "Pierre-Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": "po.aguinalin@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_1",
       "no": "13",
       "nom": "BOROVICANIN",
       "prenom": "Tamara",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Talent Sourcer",
+      "telephone": "41229991176",
+      "telPortable": "41797954123",
+      "email": "t.borovicanin@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_2",
       "no": "6",
       "nom": "Buttet",
       "prenom": "Mathias",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "R&D and Fabrication Director",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_3",
       "no": "7",
       "nom": "Castiglia",
       "prenom": "Stephane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head Controlling",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_4",
       "no": "4",
       "nom": "Chapatte",
       "prenom": "Lauriane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR BP",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": "l.chapatte@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_5",
       "no": "9",
       "nom": "Chapatte",
       "prenom": "Lauriane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": "l.chapatte@hublot.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_6",
       "no": "16",
       "nom": "DUpureur",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IT Team Manager",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": "e.dupureur@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_7",
       "no": "11",
       "nom": "Fardel",
       "prenom": "Guillaume",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Financial controller",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_8",
       "no": "15",
       "nom": "Jung",
       "prenom": "Marc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable T6",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_9",
       "no": "10",
       "nom": "Martins",
       "prenom": "Carla",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41229909029",
+      "telPortable": " ",
+      "email": "c.martins@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_10",
       "no": "17",
       "nom": "Meynent",
       "prenom": "J�r�me",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable IT",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": "j.meynent@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_11",
       "no": "1",
       "nom": "Pazera",
       "prenom": "Andrea",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": "a.pazera@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_12",
       "no": "14",
       "nom": "Peylamourgues",
       "prenom": "Ladya",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HRBP",
+      "telephone": "41790000000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_13",
       "no": "5",
       "nom": "Recrutement",
       "prenom": "TBC",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41229909000",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_14",
       "no": "2",
       "nom": "Sa�er",
       "prenom": "Rebecca",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41229991473",
+      "telPortable": " ",
+      "email": "r.saier@hublot.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "hublot-sa_15",
       "no": "8",
       "nom": "Saier",
       "prenom": "Rebecca",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41229991473",
+      "telPortable": "41229909000",
+      "email": "r.saier@hublot.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

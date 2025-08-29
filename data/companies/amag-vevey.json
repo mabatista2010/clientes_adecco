@@ -7,77 +7,154 @@
       "no": "14",
       "nom": "Campos",
       "prenom": "Ruben",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef d'atelier",
+      "telephone": "41219253838",
+      "telPortable": " ",
+      "email": "ruben.campos@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_1",
       "no": "4",
       "nom": "Chouvaloff",
       "prenom": "Patrizia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41219253838",
+      "telPortable": " ",
+      "email": "patrizia.chouvaloff@amag.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_2",
       "no": "10",
       "nom": "Gavillet",
       "prenom": "J�r�me",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Riviera",
+      "telephone": "41999",
+      "telPortable": "41999",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_3",
       "no": "3",
       "nom": "Laubscher",
       "prenom": "Vanessa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41216206216",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_4",
       "no": "11",
       "nom": "Morf",
       "prenom": "Matthieu",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Riviera - Fribourg",
+      "telephone": "41794714564",
+      "telPortable": "41794714564",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_5",
       "no": "12",
       "nom": "Morf",
       "prenom": "Matthias",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Riviera - Fribourg",
+      "telephone": "41794714564",
+      "telPortable": "41794714564",
+      "email": "matthias.morf@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_6",
       "no": "6",
       "nom": "Nobs",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur AMAG",
+      "telephone": "41219253838",
+      "telPortable": "41798004155",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_7",
       "no": "8",
       "nom": "Parisod",
       "prenom": "Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable SAV Vevey",
+      "telephone": "41219253821",
+      "telPortable": "41798700420",
+      "email": "michel.parisod@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_8",
       "no": "7",
       "nom": "Pascal",
       "prenom": "Aeberhard",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41216206123",
+      "telPortable": " ",
+      "email": "pascal.aeberhard@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_9",
       "no": "13",
       "nom": "Rossier",
       "prenom": "Yohann",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseiller de vente - SAV",
+      "telephone": "41219253841",
+      "telPortable": "41797937439",
+      "email": "yohann.rossire@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-vevey_10",
       "no": "9",
       "nom": "Sonia",
       "prenom": "Joseph",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable ressources humaines",
+      "telephone": "41216206123",
+      "telPortable": " ",
+      "email": "sonia.joseph@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

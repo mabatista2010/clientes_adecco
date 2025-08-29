@@ -7,413 +7,826 @@
       "no": "71",
       "nom": "Armato",
       "prenom": "Francesco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Monsieur",
+      "telephone": "41269197878",
+      "telPortable": "41786511224",
+      "email": "francesco.armato@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "gihe-s-rl-bulle_1",
       "no": "46",
       "nom": "Attia",
       "prenom": "Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur g�n�ral",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_2",
       "no": "27",
       "nom": "Bajrami",
       "prenom": "Rejhan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41219892611",
+      "telPortable": "41799645065",
+      "email": "duplicate2327.rejhan.bajrami@laureate.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "07.12.2022"
     },
     {
       "id": "gihe-s-rl-bulle_3",
       "no": "59",
       "nom": "Bentley",
       "prenom": "Guy",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur g�n�ral",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_4",
       "no": "3",
       "nom": "Borgeaud",
       "prenom": "Andr�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur Administration",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_5",
       "no": "48",
       "nom": "Catlin",
       "prenom": "Francesca Marie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "accounts payable specialist",
+      "telephone": "443 62 77 06 7",
+      "telPortable": " ",
+      "email": "marie.catlin@laureate.net",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Fragni�re, G�rald",
+      "dateMutation": "27.12.2017"
     },
     {
       "id": "gihe-s-rl-bulle_6",
       "no": "69",
       "nom": "Denduyver",
       "prenom": "Mathieu",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Group Procurement Manager",
+      "telephone": "41793303471",
+      "telPortable": " ",
+      "email": "mathieu.denduyver@sommet-education.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.07.2023"
     },
     {
       "id": "gihe-s-rl-bulle_7",
       "no": "51",
       "nom": "Didier",
       "prenom": "Patrice",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219663522",
+      "telPortable": "41796555032",
+      "email": "pztrzcz.dzdzzr@glzzn.zdz",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "07.12.2022"
     },
     {
       "id": "gihe-s-rl-bulle_8",
       "no": "73",
       "nom": "Donaldson",
       "prenom": "Alba",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR & Welfare Officer",
+      "telephone": "41219663511",
+      "telPortable": " ",
+      "email": "alba.donaldson@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "gihe-s-rl-bulle_9",
       "no": "47",
       "nom": "Dubied",
       "prenom": "Tina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Residential Life Manager",
+      "telephone": "41269197822",
+      "telPortable": "41792486953",
+      "email": "cesaltina.dubied@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_10",
       "no": "41",
       "nom": "Durgnat",
       "prenom": "Sidonie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41774909711",
+      "telPortable": "41774909711",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_11",
       "no": "67",
       "nom": "Es-Borrat",
       "prenom": "Ir�ne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Rooms Division - Senior Instructor",
+      "telephone": "41219663530",
+      "telPortable": "41791724337",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "08.03.2023"
     },
     {
       "id": "gihe-s-rl-bulle_12",
       "no": "68",
       "nom": "Es-Borrat",
       "prenom": "Ir�ne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Rooms Division - Senior Instructor",
+      "telephone": "41219663530",
+      "telPortable": "41791724337",
+      "email": "irene.es-borrat@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "14.03.2023"
     },
     {
       "id": "gihe-s-rl-bulle_13",
       "no": "63",
       "nom": "Fabien",
       "prenom": "Foare",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Director Food Production",
+      "telephone": "41798267258",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_14",
       "no": "74",
       "nom": "Frankowicz",
       "prenom": "Erik",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Event and F&B Manager",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": "erik.frankowicz@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.02.2025"
     },
     {
       "id": "gihe-s-rl-bulle_15",
       "no": "64",
       "nom": "Iglesias",
       "prenom": "Jessica",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner chez Glion Institute of Higher Education",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": "jessica.iglesias@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_16",
       "no": "66",
       "nom": "Kambourian",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable des Achats",
+      "telephone": "41269197832",
+      "telPortable": "41791267612",
+      "email": "stephane.kambourian@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "09.10.2024"
     },
     {
       "id": "gihe-s-rl-bulle_17",
       "no": "44",
       "nom": "Lammer",
       "prenom": "Robert",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": "duplicate2125.robert.lammer@glion.edu",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_18",
       "no": "36",
       "nom": "Monnerat",
       "prenom": "Emmanuel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable maintenance",
+      "telephone": "41798210728",
+      "telPortable": "41798210728",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_19",
       "no": "75",
       "nom": "Monteiro",
       "prenom": "Claudia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistant Restaurants & Bar Manager",
+      "telephone": "41799589318",
+      "telPortable": " ",
+      "email": "claudia.monteiro@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.02.2025"
     },
     {
       "id": "gihe-s-rl-bulle_20",
       "no": "21",
       "nom": "Pasche",
       "prenom": "Estelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Comptabilit�",
+      "telephone": "41219892600",
+      "telPortable": " ",
+      "email": "zstzllz.pzschz@glzzn.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "07.12.2022"
     },
     {
       "id": "gihe-s-rl-bulle_21",
       "no": "31",
       "nom": "Ramos",
       "prenom": "Elena",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement nettoyage",
+      "telephone": "41269197822",
+      "telPortable": "41774506016",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_22",
       "no": "72",
       "nom": "Rebelo",
       "prenom": "Ana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Restaurants & Bars Manager",
+      "telephone": "41793444617",
+      "telPortable": " ",
+      "email": "ana.rebelo@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "gihe-s-rl-bulle_23",
       "no": "70",
       "nom": "Santos",
       "prenom": "Andre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Monsieur",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": "andre.santos@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "gihe-s-rl-bulle_24",
       "no": "60",
       "nom": "Spinelli",
       "prenom": "Roberto",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable de maintenance",
+      "telephone": "41269197878",
+      "telPortable": "41798210728",
+      "email": "roberto.spinelli@glion.edu",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_25",
       "no": "62",
       "nom": "Thoreton",
       "prenom": "St�phance",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable restaurant",
+      "telephone": "026 919 78 78",
+      "telPortable": " ",
+      "email": "stephane.thoreton@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "B�rgy, Florence",
+      "dateMutation": "23.05.2019"
     },
     {
       "id": "gihe-s-rl-bulle_26",
       "no": "65",
       "nom": "Wirth",
       "prenom": "Flora",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Human Ressources Officer",
+      "telephone": "41269197878",
+      "telPortable": "41219892604",
+      "email": "flora.wirth@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_27",
       "no": "42",
       "nom": "Bedat",
       "prenom": "Am�lie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "026 919 78 20",
+      "telPortable": " ",
+      "email": "amelie.bedat@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Fragni�re, G�rald",
+      "dateMutation": "13.02.2018"
     },
     {
       "id": "gihe-s-rl-bulle_28",
       "no": "30",
       "nom": "Besson",
       "prenom": "Etienne",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Sous directeur RH",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_29",
       "no": "50",
       "nom": "Blaser",
       "prenom": "Isabelle",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": "isabelle.blaser@glion.edu",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.01.2024"
     },
     {
       "id": "gihe-s-rl-bulle_30",
       "no": "22",
       "nom": "Dallenbach",
       "prenom": "Fanny",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219892612",
+      "telPortable": " ",
+      "email": "fznny.dzllznbzch@lzzrzztz.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.01.2024"
     },
     {
       "id": "gihe-s-rl-bulle_31",
       "no": "11",
       "nom": "De Mesel",
       "prenom": "Ingrid",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_32",
       "no": "53",
       "nom": "Demeuse",
       "prenom": "V�ronique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "021 989 26 22",
+      "telPortable": " ",
+      "email": "veronique.demeuse@laureate.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Fragni�re, G�rald",
+      "dateMutation": "13.02.2018"
     },
     {
       "id": "gihe-s-rl-bulle_33",
       "no": "24",
       "nom": "Dubrit",
       "prenom": "Dominique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197806",
+      "telPortable": "41796062274",
+      "email": "dominique.dubrit@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "07.12.2022"
     },
     {
       "id": "gihe-s-rl-bulle_34",
       "no": "49",
       "nom": "Fischetti",
       "prenom": "Katia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 989 26 34",
+      "telPortable": " ",
+      "email": "katia.fischetti@laureate.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Fragni�re, G�rald",
+      "dateMutation": "27.12.2017"
     },
     {
       "id": "gihe-s-rl-bulle_35",
       "no": "40",
       "nom": "Grandjean",
       "prenom": "Dominique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197824",
+      "telPortable": "41789095820",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.01.2024"
     },
     {
       "id": "gihe-s-rl-bulle_36",
       "no": "55",
       "nom": "Hou",
       "prenom": "Judy",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "responsable d'entreprise",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_37",
       "no": "6",
       "nom": "Huygen",
       "prenom": "Yan",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "PDG",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_38",
       "no": "57",
       "nom": "Iglesian",
       "prenom": "Jessica",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_39",
       "no": "61",
       "nom": "Lunardi",
       "prenom": "Rafael",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197806",
+      "telPortable": "41796554523",
+      "email": "rafael.lunardi@glion.edu",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_40",
       "no": "58",
       "nom": "Marguet",
       "prenom": "C�line",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "41269197878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_41",
       "no": "13",
       "nom": "Martin",
       "prenom": "Monica",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_42",
       "no": "56",
       "nom": "Medrano",
       "prenom": "Nathanael",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement facturatio",
+      "telephone": "41219892627",
+      "telPortable": " ",
+      "email": "nathanael.medrano@laureate.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.01.2024"
     },
     {
       "id": "gihe-s-rl-bulle_43",
       "no": "34",
       "nom": "Moon-Suk",
       "prenom": "Oh Famiglietti",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "021 989 26 25",
+      "telPortable": " ",
+      "email": "moon-suk.ohfamiglietti@laureate.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_44",
       "no": "19",
       "nom": "Niser",
       "prenom": "John",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "PDG",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "niser@glion.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_45",
       "no": "43",
       "nom": "Peringer",
       "prenom": "Annabelle",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "026 919 78 22",
+      "telPortable": " ",
+      "email": "annabelle.peringer@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Fragni�re, G�rald",
+      "dateMutation": "27.12.2017"
     },
     {
       "id": "gihe-s-rl-bulle_46",
       "no": "10",
       "nom": "Pirjol",
       "prenom": "Razvan",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire g�n�ral Glion",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_47",
       "no": "52",
       "nom": "Ray",
       "prenom": "Thierry",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41269197824",
+      "telPortable": "41796553875",
+      "email": "thierry.ray@glion.edu",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_48",
       "no": "8",
       "nom": "Rieder",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_49",
       "no": "5",
       "nom": "Rochat",
       "prenom": "Michel",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_50",
       "no": "33",
       "nom": "Ruffieux",
       "prenom": "Jacques",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41796598052",
+      "telPortable": "41796598052",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "gihe-s-rl-bulle_51",
       "no": "1",
       "nom": "Scalber",
       "prenom": "Jean-Philippe",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Fragni�re, G�rald",
+      "dateMutation": "13.02.2018"
     },
     {
       "id": "gihe-s-rl-bulle_52",
       "no": "7",
       "nom": "Schilstra",
       "prenom": "Erwan",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "resp. Bulle",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_53",
       "no": "38",
       "nom": "Schmidlin",
       "prenom": "Antoine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "antoine.schmidlin@glion.edu",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_54",
       "no": "12",
       "nom": "Tapp",
       "prenom": "Isabel",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur marketing",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_55",
       "no": "45",
       "nom": "Tarit",
       "prenom": "Jacques",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "41269197850",
+      "telPortable": "41797930911",
+      "email": "jzcqzzs.tzrzt@glzzn.zdz",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.01.2024"
     },
     {
       "id": "gihe-s-rl-bulle_56",
       "no": "9",
       "nom": "Touzin",
       "prenom": "Fran�ois",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_57",
       "no": "20",
       "nom": "Trombine",
       "prenom": "Andr�a",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "gihe-s-rl-bulle_58",
       "no": "23",
       "nom": "Vuillemin",
       "prenom": "Didier",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": "079 821 07 13",
+      "email": "didier.vuillemin@glion.edu",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     }
   ]
 }

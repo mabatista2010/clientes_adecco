@@ -7,847 +7,1694 @@
       "no": "110",
       "nom": "Aliu",
       "prenom": "Evzi",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "G�rant Fresh To Go",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_1",
       "no": "24",
       "nom": "Andr�",
       "prenom": "Marie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistante RH",
+      "telephone": "021 925 76 09",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_2",
       "no": "93",
       "nom": "Auvray",
       "prenom": "Pierre-Marie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "pierre-marie.auvrey@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_3",
       "no": "69",
       "nom": "Baly",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Ass chef de d�partement",
+      "telephone": "41219257647",
+      "telPortable": " ",
+      "email": "christophe.baly@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_4",
       "no": "36",
       "nom": "Barbezat",
       "prenom": "Sandrine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257611",
+      "telPortable": " ",
+      "email": "sandrine.barbezat@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_5",
       "no": "73",
       "nom": "Benz",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. Boulangerie",
+      "telephone": "021 925 76 73",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Gautier, Michael",
+      "dateMutation": "01.03.2018"
     },
     {
       "id": "manor_6",
       "no": "2",
       "nom": "Bettens",
       "prenom": "didier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "paraparfumerie",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_7",
       "no": "112",
       "nom": "Bommer",
       "prenom": "Igor",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH Recrutement",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "zgzr.bzmmzr@mznzr.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "01.06.2022"
     },
     {
       "id": "manor_8",
       "no": "32",
       "nom": "Bossonnet",
       "prenom": "Julien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257572",
+      "telPortable": " ",
+      "email": "julien.bossonnet@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_9",
       "no": "96",
       "nom": "Bourgeois",
       "prenom": "Emerick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Boulangerie",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_10",
       "no": "101",
       "nom": "Brupbacher",
       "prenom": "Michelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Marketing",
+      "telephone": "41219257607",
+      "telPortable": " ",
+      "email": "michelle.brupbacher@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_11",
       "no": "14",
       "nom": "Bulliard",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_12",
       "no": "47",
       "nom": "Burgat",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257642",
+      "telPortable": " ",
+      "email": "duplicate2678.pierre.burgat@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_13",
       "no": "71",
       "nom": "Burgaud",
       "prenom": "Chlo�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257609",
+      "telPortable": " ",
+      "email": "chlzz.bzrgzzd@mznzr.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_14",
       "no": "28",
       "nom": "Calmes",
       "prenom": "C�line",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "021 925 75 06",
+      "telPortable": " ",
+      "email": "celine.calmes@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_15",
       "no": "44",
       "nom": "Cassinadri",
       "prenom": "Emilie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257620",
+      "telPortable": " ",
+      "email": "emilie.cassinadri@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_16",
       "no": "38",
       "nom": "Chambion",
       "prenom": "Jean-Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable rayon m�nage",
+      "telephone": "41219257630",
+      "telPortable": " ",
+      "email": "jean-michel.chambion@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_17",
       "no": "57",
       "nom": "Chauvet",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219257602",
+      "telPortable": " ",
+      "email": "christophe.chauvet@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_18",
       "no": "94",
       "nom": "Chauvy",
       "prenom": "Laurence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Rez de chauss�e",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "laurence.chauvy@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_19",
       "no": "34",
       "nom": "Constantin",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur de magasin - Manor Vevey",
+      "telephone": "41219257601",
+      "telPortable": "41793427356",
+      "email": "nicolas.constantin@manor.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "07.03.2025"
     },
     {
       "id": "manor_20",
       "no": "116",
       "nom": "Cormier",
       "prenom": "Dorian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257640",
+      "telPortable": "41219257640",
+      "email": "dorian.cormier@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Ivanisevic, Daniel",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_21",
       "no": "113",
       "nom": "Cuennet",
       "prenom": "Joelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41792153416",
+      "telPortable": "41792153416",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.08.2021"
     },
     {
       "id": "manor_22",
       "no": "46",
       "nom": "D'andrea",
       "prenom": "Mario",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257621",
+      "telPortable": " ",
+      "email": "mzrzz.dzndrzz@mznzr.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_23",
       "no": "55",
       "nom": "Dabrowski",
       "prenom": "Marek",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257601",
+      "telPortable": " ",
+      "email": "dabrowski.marek@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_24",
       "no": "72",
       "nom": "Decombas",
       "prenom": "Carole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Ass. de Mr Rudaz",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_25",
       "no": "103",
       "nom": "Deslarzes",
       "prenom": "Lo�c",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Ass rest. Manager",
+      "telephone": "41219257680",
+      "telPortable": "41795382278",
+      "email": "loic.deslarzes@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "01.06.2022"
     },
     {
       "id": "manor_26",
       "no": "64",
       "nom": "Dietrich",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "pascal.dietrich@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_27",
       "no": "33",
       "nom": "Dolis",
       "prenom": "Eve",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp dpt dechargement",
+      "telephone": "219257603",
+      "telPortable": " ",
+      "email": "eve.dolis@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Jouffroy, Jade",
+      "dateMutation": "25.06.2020"
     },
     {
       "id": "manor_28",
       "no": "115",
       "nom": "Dorian",
       "prenom": "Cormier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable multim�dia / sport",
+      "telephone": "41219257620",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_29",
       "no": "37",
       "nom": "Emery",
       "prenom": "M-Ambroisine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Res. rayon dames et enfants",
+      "telephone": "021 925 76 23",
+      "telPortable": " ",
+      "email": "selma.koca@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_30",
       "no": "51",
       "nom": "Emery",
       "prenom": "M-Ambroisine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "021 925 75 15",
+      "telPortable": " ",
+      "email": "marie-ambroisine.emery@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_31",
       "no": "91",
       "nom": "Erre",
       "prenom": "Amandiene",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante du chef du personnel",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "amandine.erre@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_32",
       "no": "100",
       "nom": "Favey",
       "prenom": "Caroline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Recruiting Center Vevey",
+      "telephone": "41796423180",
+      "telPortable": "41796423180",
+      "email": "duplicate9619.caroline.favey@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_33",
       "no": "111",
       "nom": "Fernandes",
       "prenom": "Claudio",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Service client",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "claudio.fernandes@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.10.2024"
     },
     {
       "id": "manor_34",
       "no": "65",
       "nom": "F�vrier",
       "prenom": "Rapha�l",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219257680",
+      "telPortable": " ",
+      "email": "raphael.fevrier@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_35",
       "no": "123",
       "nom": "Gacond",
       "prenom": "C�dric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "D�coration",
+      "telephone": "41219257602",
+      "telPortable": "41786047872",
+      "email": "cedric.gacond@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.03.2025"
     },
     {
       "id": "manor_36",
       "no": "58",
       "nom": "Genzoni",
       "prenom": "Florence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257650",
+      "telPortable": " ",
+      "email": "florence.genzoni@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.10.2024"
     },
     {
       "id": "manor_37",
       "no": "59",
       "nom": "Gigandet",
       "prenom": "Julia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41796423180",
+      "telPortable": " ",
+      "email": "duplicate5805.julia.gigandet-freire@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_38",
       "no": "107",
       "nom": "Girard",
       "prenom": "Gilles",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Sales Manager",
+      "telephone": "41219257620",
+      "telPortable": " ",
+      "email": "gilles.girard@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "14.03.2025"
     },
     {
       "id": "manor_39",
       "no": "90",
       "nom": "Guerra",
       "prenom": "Milena",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Sous Directrice",
+      "telephone": "021 925 76 01",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_40",
       "no": "62",
       "nom": "Gulli",
       "prenom": "Giovanna",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219257623",
+      "telPortable": " ",
+      "email": "giovanna.gulli@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_41",
       "no": "74",
       "nom": "Guyot Jeanin",
       "prenom": "Margaux",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Stagiaire RH",
+      "telephone": "41219257606",
+      "telPortable": " ",
+      "email": "margaux.guyotjeanin@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_42",
       "no": "122",
       "nom": "Hamonet",
       "prenom": "Joris",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable restaurant Manor Vevey",
+      "telephone": "41219257680",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.10.2023"
     },
     {
       "id": "manor_43",
       "no": "98",
       "nom": "Hangartner",
       "prenom": "Bernard",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manor",
+      "telephone": "41219257566",
+      "telPortable": " ",
+      "email": "bernard.hangartner@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_44",
       "no": "61",
       "nom": "Hohler",
       "prenom": "Felix",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41797278339",
+      "telPortable": " ",
+      "email": "duplicate7557.felix.hohler@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_45",
       "no": "63",
       "nom": "Holer",
       "prenom": "Felix",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_46",
       "no": "119",
       "nom": "Hoxha",
       "prenom": "Nderona",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable",
+      "telephone": "41219257699",
+      "telPortable": "41219257620",
+      "email": "nderona.hoxha@manor.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_47",
       "no": "75",
       "nom": "Hug",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "021 925 76 73",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_48",
       "no": "56",
       "nom": "Jans",
       "prenom": "Nicole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur g�n�ral",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "nicole.jans@amag.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_49",
       "no": "120",
       "nom": "Jaquemet",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "nicolas.jaquemet2@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_50",
       "no": "76",
       "nom": "Kapinga",
       "prenom": "Mireille",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257606",
+      "telPortable": " ",
+      "email": "mireille.kapinga@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_51",
       "no": "102",
       "nom": "Knigge",
       "prenom": "C�line",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Service d�coration",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "manor_52",
       "no": "77",
       "nom": "Koca",
       "prenom": "Selma",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Res. rayon dames et enfants",
+      "telephone": "41219257623",
+      "telPortable": " ",
+      "email": "selma.koca@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_53",
       "no": "26",
       "nom": "K�ng",
       "prenom": "Erich",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp RH toute la susise romand",
+      "telephone": "41794708601",
+      "telPortable": "704700600",
+      "email": "erich.kung@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_54",
       "no": "124",
       "nom": "Laub",
       "prenom": "Elisabeth",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Rayon enfants",
+      "telephone": "41999",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "09.05.2025"
     },
     {
       "id": "manor_55",
       "no": "53",
       "nom": "Lazzarotto",
       "prenom": "Aur�lie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257650",
+      "telPortable": " ",
+      "email": "aurelie.lazzarotto@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_56",
       "no": "109",
       "nom": "Lecoq",
       "prenom": ".",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Fresh to go",
+      "telephone": "41219257699",
+      "telPortable": "33610506618",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_57",
       "no": "97",
       "nom": "Lengrand",
       "prenom": "Claudie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Res. Accessoirs",
+      "telephone": "41219257615",
+      "telPortable": " ",
+      "email": "claudie.lengrand@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_58",
       "no": "40",
       "nom": "Macirella",
       "prenom": "Donato",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257612",
+      "telPortable": " ",
+      "email": "donato.macirella@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_59",
       "no": "68",
       "nom": "Mekhraf",
       "prenom": "G�raldine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257602",
+      "telPortable": " ",
+      "email": "geraldine.mekhraf@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_60",
       "no": "80",
       "nom": "Micale",
       "prenom": "Dominico",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef Boulangerie",
+      "telephone": "41219257673",
+      "telPortable": "41787389083",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "manor_61",
       "no": "121",
       "nom": "Mischler",
       "prenom": "Stephane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Visual Manager",
+      "telephone": "41219257602",
+      "telPortable": " ",
+      "email": "stephane.mischler@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_62",
       "no": "117",
       "nom": "Monnard",
       "prenom": "Fabienne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Rayon m�nage",
+      "telephone": "41219257650",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "29.07.2022"
     },
     {
       "id": "manor_63",
       "no": "118",
       "nom": "Monnard",
       "prenom": "Fabienne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Collaboratrice vente",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "fabienne.monnard@manor.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_64",
       "no": "66",
       "nom": "Mottier",
       "prenom": "Herv�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement Boucherie",
+      "telephone": "41219257675",
+      "telPortable": " ",
+      "email": "herve.mottier@manor.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_65",
       "no": "81",
       "nom": "Mottiez",
       "prenom": "Herv�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. Boucherie",
+      "telephone": "41219257675",
+      "telPortable": "41793307187",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "manor_66",
       "no": "108",
       "nom": "M�ller",
       "prenom": "Stefan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "-",
+      "telephone": ".",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Farella, Alexia",
+      "dateMutation": "16.09.2020"
     },
     {
       "id": "manor_67",
       "no": "99",
       "nom": "NM",
       "prenom": "Jos�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257680",
+      "telPortable": " ",
+      "email": "jose.justo@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_68",
       "no": "60",
       "nom": "Notari",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "sarah.norati@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_69",
       "no": "106",
       "nom": "Pepe",
       "prenom": "Antonio",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Adjoint",
+      "telephone": "41219257601",
+      "telPortable": " ",
+      "email": "antonio.pepe@manor.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.10.2024"
     },
     {
       "id": "manor_70",
       "no": "114",
       "nom": "Perez",
       "prenom": "Maria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable parfumerie",
+      "telephone": "41219257612",
+      "telPortable": " ",
+      "email": "mariadelpilar.perez@manor.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.07.2024"
     },
     {
       "id": "manor_71",
       "no": "6",
       "nom": "Pfamatter",
       "prenom": "Marie-Laure",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp. alimentation",
+      "telephone": "41219257678",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_72",
       "no": "83",
       "nom": "Pfammatter",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Cheffe du supermarch�",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_73",
       "no": "45",
       "nom": "Pittet",
       "prenom": "Jean-Marc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. Logistique",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "jean-marc.pittet@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_74",
       "no": "84",
       "nom": "Quirici",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "219257678",
+      "telPortable": " ",
+      "email": "alain.quirici@manor.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_75",
       "no": "43",
       "nom": "Raczynski",
       "prenom": "Hugo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41244737606",
+      "telPortable": "41798315162",
+      "email": "duplicate530.ugo.raczynski@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_76",
       "no": "50",
       "nom": "Rech",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257599",
+      "telPortable": " ",
+      "email": "nicolas.rech@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_77",
       "no": "85",
       "nom": "Ritzelo",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Supermarch�",
+      "telephone": "021 925 76 78",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_78",
       "no": "21",
       "nom": "Rochat",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable technique",
+      "telephone": "021 925 76 05",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_79",
       "no": "27",
       "nom": "Roduit Zufferey",
       "prenom": "Nadia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Manager",
+      "telephone": "41219257608",
+      "telPortable": " ",
+      "email": "duplicate3851.nadia.roduitzufferey@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_80",
       "no": "42",
       "nom": "Rudaz",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257680",
+      "telPortable": " ",
+      "email": "laurent.rudaz@manor.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_81",
       "no": "30",
       "nom": "Rudin",
       "prenom": "Bernard",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur du site",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_82",
       "no": "41",
       "nom": "Savary",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "alain.savary@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_83",
       "no": "105",
       "nom": "Scarpa",
       "prenom": "Vanessa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Manager",
+      "telephone": "41616861111",
+      "telPortable": "700000450",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_84",
       "no": "48",
       "nom": "Scarpa",
       "prenom": "Vanessa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41793098450",
+      "telPortable": "41793098450",
+      "email": "duplicate344.vanessa.scarpa@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_85",
       "no": "52",
       "nom": "Sechaud",
       "prenom": "Christine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257683",
+      "telPortable": " ",
+      "email": "christine.sechaud@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_86",
       "no": "92",
       "nom": "Telemac",
       "prenom": "Sylvain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint chef du personnel",
+      "telephone": "41219257699",
+      "telPortable": " ",
+      "email": "sylvain.telemac@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "manor_87",
       "no": "54",
       "nom": "Thalmann",
       "prenom": "Simon",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41219257607",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "manor_88",
       "no": "89",
       "nom": "Veiron",
       "prenom": "V�ronique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41582333248",
+      "telPortable": " ",
+      "email": "vzrznzqzz.vzzrzn@zdzccz.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_89",
       "no": "49",
       "nom": "Viaud",
       "prenom": "Chlo�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219257699",
+      "telPortable": "41791775653",
+      "email": "duplicate9372.chloe.viaud@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "manor_90",
       "no": "104",
       "nom": "Vogne",
       "prenom": "Camille",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Rez-de-chauss�e",
+      "telephone": "021 925 76 13",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Citaku, Kaltrina",
+      "dateMutation": "21.05.2019"
     },
     {
       "id": "manor_91",
       "no": "19",
       "nom": "Volpi",
       "prenom": "Th�r�se",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219257509",
+      "telPortable": "41219257572",
+      "email": "therese.volpi@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "manor_92",
       "no": "20",
       "nom": "Zottos",
       "prenom": "Alexis",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Sous directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_93",
       "no": "3",
       "nom": "Baggiolini",
       "prenom": "V�ronique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "021 925 76 06",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_94",
       "no": "70",
       "nom": "Besse",
       "prenom": "S�bastien",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "21",
+      "telPortable": "079 309 84 51",
+      "email": "sebastien.besse@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Taverney, St�phanie",
+      "dateMutation": "03.05.2019"
     },
     {
       "id": "manor_95",
       "no": "12",
       "nom": "Biollay",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "administration personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_96",
       "no": "11",
       "nom": "Boyer",
       "prenom": "Ludovic",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable RH",
+      "telephone": "021 925 76 06",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_97",
       "no": "25",
       "nom": "Burgot",
       "prenom": "Chlo�",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 925 75 09",
+      "telPortable": " ",
+      "email": "chloe.burgaud@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_98",
       "no": "29",
       "nom": "Calmes",
       "prenom": "C�line",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 925 75 06",
+      "telPortable": " ",
+      "email": "celine.calmes@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_99",
       "no": "8",
       "nom": "Cataldi",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Alimentation",
+      "telephone": "021 925 76 78",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_100",
       "no": "18",
       "nom": "Droupy",
       "prenom": "Olivier",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_101",
       "no": "39",
       "nom": "Gomes",
       "prenom": "Gil",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "TBD",
+      "telephone": "41219257511",
+      "telPortable": " ",
+      "email": "gil.gomes@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "02.08.2022"
     },
     {
       "id": "manor_102",
       "no": "17",
       "nom": "Hoch",
       "prenom": "G�raldine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Cheffe du personnel",
+      "telephone": "021 925 76 06",
+      "telPortable": " ",
+      "email": "geraldine.hoch@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_103",
       "no": "16",
       "nom": "Hoose",
       "prenom": "Jenny",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistante RH",
+      "telephone": "021 925 75 09",
+      "telPortable": "021 925 75 09",
+      "email": "jenny.hoose@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_104",
       "no": "5",
       "nom": "Langendorf",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_105",
       "no": "95",
       "nom": "Mahmutovic",
       "prenom": "Nikola",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "RH",
+      "telephone": "41794582023",
+      "telPortable": "41794582023",
+      "email": "nikola.mahmutovic@manor.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "manor_106",
       "no": "4",
       "nom": "Marcon",
       "prenom": "Nadia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistante rh",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_107",
       "no": "78",
       "nom": "Marie",
       "prenom": "Andr�",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Assistante RH",
+      "telephone": "021 925 76 09",
+      "telPortable": " ",
+      "email": "marie.andre@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_108",
       "no": "35",
       "nom": "Mary",
       "prenom": "Jo�lle",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "021 925 75 72",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_109",
       "no": "79",
       "nom": "Mercan",
       "prenom": "S�lim",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du pers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_110",
       "no": "1",
       "nom": "Metreau",
       "prenom": "Sylviane",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistante RH",
+      "telephone": "021 925 76 99",
+      "telPortable": " ",
+      "email": "nicolas.constantin@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_111",
       "no": "82",
       "nom": "Pfamatter",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "resp. alimentation",
+      "telephone": "021 925 76 78",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_112",
       "no": "23",
       "nom": "Rastoldo",
       "prenom": "Jacques-Alain",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_113",
       "no": "86",
       "nom": "Ruaz",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "021 925 76 09",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_114",
       "no": "13",
       "nom": "Ruegsegger",
       "prenom": "Dani�le",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "021 925 76 09",
+      "telPortable": " ",
+      "email": "danielle.ruegsegger@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_115",
       "no": "67",
       "nom": "Schambacher",
       "prenom": "Nathalie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Resp.Marketing",
+      "telephone": "219257607",
+      "telPortable": " ",
+      "email": "nathalie.schambacher@manor.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Farella, Alexia",
+      "dateMutation": "01.09.2020"
     },
     {
       "id": "manor_116",
       "no": "10",
       "nom": "Schneegans",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Direction",
+      "telephone": "021 925 76 07",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_117",
       "no": "15",
       "nom": "Siegler",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "human resources",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_118",
       "no": "87",
       "nom": "Telidjane",
       "prenom": "Th�o",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Resp. Boulangerie",
+      "telephone": "41219257673",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "02.12.2024"
     },
     {
       "id": "manor_119",
       "no": "88",
       "nom": "Uebersax",
       "prenom": "Florence",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Assistant Manager Manora",
+      "telephone": "021 925 76 80",
+      "telPortable": " ",
+      "email": "florence.uebersax@manor.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "manor_120",
       "no": "9",
       "nom": "Vuillerat",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "d�coration",
+      "telephone": "021 925 75 50",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     }
   ]
 }

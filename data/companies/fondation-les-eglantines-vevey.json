@@ -7,161 +7,322 @@
       "no": "35",
       "nom": "Baehler",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante administrative",
+      "telephone": "41219254308",
+      "telPortable": " ",
+      "email": "nathalie.dely@eglantines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Gilliand, M�gane",
+      "dateMutation": "29.04.2025"
     },
     {
       "id": "fondation-les-eglantines-vevey_1",
       "no": "33",
       "nom": "Barroso",
       "prenom": "Jos�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur G�n�rale",
+      "telephone": "41219254300",
+      "telPortable": " ",
+      "email": "jose.barroso@eglantines.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.10.2023"
     },
     {
       "id": "fondation-les-eglantines-vevey_2",
       "no": "3",
       "nom": "Brucher",
       "prenom": "Claudia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "co-directrice l�man",
+      "telephone": "219254304",
+      "telPortable": " ",
+      "email": "claudia.brucher@eglantines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.02.2020"
     },
     {
       "id": "fondation-les-eglantines-vevey_3",
       "no": "31",
       "nom": "Cabras",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp des veilleurs",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_4",
       "no": "36",
       "nom": "Doudement",
       "prenom": "Annie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable",
+      "telephone": "41219254304",
+      "telPortable": " ",
+      "email": "annie.doudement@eglantines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Gilliand, M�gane",
+      "dateMutation": "11.01.2023"
     },
     {
       "id": "fondation-les-eglantines-vevey_5",
       "no": "18",
       "nom": "Farkas",
       "prenom": "Calina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219254309",
+      "telPortable": " ",
+      "email": "duplicate9733.calina.farkas@eglantines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.01.2025"
     },
     {
       "id": "fondation-les-eglantines-vevey_6",
       "no": "32",
       "nom": "Favre",
       "prenom": "Liliane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "ARH",
+      "telephone": "021 925 43 00",
+      "telPortable": " ",
+      "email": "liliane.favre@eglantines.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Silva, Gabriel",
+      "dateMutation": "20.12.2021"
     },
     {
       "id": "fondation-les-eglantines-vevey_7",
       "no": "39",
       "nom": "Gremaud",
       "prenom": "Forianne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Reponsable Blanchisserie",
+      "telephone": "41219254481",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.04.2023"
     },
     {
       "id": "fondation-les-eglantines-vevey_8",
       "no": "40",
       "nom": "Gremaud",
       "prenom": "Florianne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Reponsable Blanchisserie",
+      "telephone": "41219254481",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "05.04.2023"
     },
     {
       "id": "fondation-les-eglantines-vevey_9",
       "no": "24",
       "nom": "Groupe Azur",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Azur",
+      "telephone": "021 925 43 82",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_10",
       "no": "23",
       "nom": "Groupe Bleu",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Bleu",
+      "telephone": "021 925 43 62",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_11",
       "no": "25",
       "nom": "Groupe Gris",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Gris",
+      "telephone": "021 925 43 92",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_12",
       "no": "27",
       "nom": "Groupe Jaman 24",
       "prenom": "�quipe 1",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Jaman 24 �q. 1",
+      "telephone": "021 925 43 38",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_13",
       "no": "28",
       "nom": "Groupe Jaman 24",
       "prenom": "�quipe 2",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Jaman 24 �q. 2",
+      "telephone": "021 925 43 39",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_14",
       "no": "30",
       "nom": "Groupe Jaune",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Jaune",
+      "telephone": "021 925 44 27",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_15",
       "no": "26",
       "nom": "Groupe Vert",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Groupe Vert",
+      "telephone": "021 925 43 12",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_16",
       "no": "17",
       "nom": "Hahling",
       "prenom": "Christine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secr�taire de direction",
+      "telephone": "021 925 43 06",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "fondation-les-eglantines-vevey_17",
       "no": "41",
       "nom": "Jeanbourquin",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41219254300",
+      "telPortable": " ",
+      "email": "sarah.jeanbourquin@eglantines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "Baty, Romain",
+      "dateMutation": "06.05.2025"
     },
     {
       "id": "fondation-les-eglantines-vevey_18",
       "no": "34",
       "nom": "Rausis",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Financier et administratif",
+      "telephone": "41786757619",
+      "telPortable": " ",
+      "email": "stephane.rausis@eglantines.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "26.09.2024"
     },
     {
       "id": "fondation-les-eglantines-vevey_19",
       "no": "38",
       "nom": "Resin",
       "prenom": "Ang�lique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable du secteur H�bergement L�man",
+      "telephone": "41219254312",
+      "telPortable": "41219254312",
+      "email": "angeliquecom.resin@eglantines.che",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "22.04.2025"
     },
     {
       "id": "fondation-les-eglantines-vevey_20",
       "no": "15",
       "nom": "Stifani",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219254307",
+      "telPortable": " ",
+      "email": "daniele.stifani@eglantines.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "14.03.2024"
     },
     {
       "id": "fondation-les-eglantines-vevey_21",
       "no": "37",
       "nom": "Terrier",
       "prenom": "Marie-Ange",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable des activit�s de jour et services transversaux",
+      "telephone": "41219254311",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "06.05.2025"
     },
     {
       "id": "fondation-les-eglantines-vevey_22",
       "no": "29",
       "nom": "Vaucoret",
       "prenom": "Dominique",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable secteur service et atelier",
+      "telephone": "41219254311",
+      "telPortable": "41764444301",
+      "email": "dominique.vaucoret@eglantines.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     }
   ]
 }

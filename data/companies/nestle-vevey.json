@@ -7,1071 +7,2142 @@
       "no": "15",
       "nom": "Adams",
       "prenom": "Paulina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41219243355",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_1",
       "no": "16",
       "nom": "Alamir",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Mondo",
+      "telephone": "021 924 46 13",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_2",
       "no": "17",
       "nom": "Andressen",
       "prenom": "Ingrid",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "41219245631",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_3",
       "no": "18",
       "nom": "Appolt�loz",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secrt. >Mr Schutz",
+      "telephone": "021 924 52 71",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_4",
       "no": "19",
       "nom": "Arn",
       "prenom": "Ernst",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245660",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_5",
       "no": "21",
       "nom": "Ballongue",
       "prenom": "Constance",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Manager",
+      "telephone": "021 924 21 11",
+      "telPortable": " ",
+      "email": "constance.ballongue@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_6",
       "no": "22",
       "nom": "Bellini",
       "prenom": "Yves",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Logistics Procurement Head of Ocean Procurement Africa & Global Airfreight",
+      "telephone": "41219241718",
+      "telPortable": "41794197160",
+      "email": "yves.bellini@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_7",
       "no": "150",
       "nom": "Besancon",
       "prenom": "Dany",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Business Unit Controller - FOOD at Nestl�",
+      "telephone": "41763560019",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "13.05.2022"
     },
     {
       "id": "nestle-vevey_8",
       "no": "24",
       "nom": "Bischoff",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41792019729",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_9",
       "no": "154",
       "nom": "blanchet",
       "prenom": "Arnaud",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Total Rewards Manager",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "arnaud.blanchet1@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_10",
       "no": "27",
       "nom": "Brambilla",
       "prenom": "E",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "41219241111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_11",
       "no": "28",
       "nom": "Briola",
       "prenom": "Laurence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HEad of NRCC",
+      "telephone": "41219241111",
+      "telPortable": " ",
+      "email": "laurence.briola@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_12",
       "no": "29",
       "nom": "Buchser",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner & Employee Relations Manager",
+      "telephone": "41219241111",
+      "telPortable": " ",
+      "email": "pascal.buchser@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_13",
       "no": "30",
       "nom": "Bugnard",
       "prenom": "Anne-Lise",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH � Bulle",
+      "telephone": "41269215517",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_14",
       "no": "31",
       "nom": "Bulard",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruitment partner",
+      "telephone": "41219241640",
+      "telPortable": "41799091495",
+      "email": "chrzstzphz.bzlzrd@nzstlz.czm",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_15",
       "no": "32",
       "nom": "Burren",
       "prenom": "A.",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "stagiaire",
+      "telephone": "219245151",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_16",
       "no": "134",
       "nom": "Carrard",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable COntrolling Europe",
+      "telephone": "0",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "01.03.2021"
     },
     {
       "id": "nestle-vevey_17",
       "no": "35",
       "nom": "Carrea",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "concierge",
+      "telephone": "41792374440",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_18",
       "no": "36",
       "nom": "Chabloz",
       "prenom": "Florence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant de Mme Edelstein",
+      "telephone": "41219243337",
+      "telPortable": " ",
+      "email": "florence.chabloz@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_19",
       "no": "39",
       "nom": "Chollet",
       "prenom": "Johanna",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recrutement Mkg/Sales",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "johanna.chollet@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_20",
       "no": "136",
       "nom": "Commeureuc",
       "prenom": "St�phanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Project Manager",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "stephanie.commeureuc@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_21",
       "no": "41",
       "nom": "Constantin",
       "prenom": "Patrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Manager",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_22",
       "no": "42",
       "nom": "Corpateaux",
       "prenom": "Martial",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Shop",
+      "telephone": "41219243550",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_23",
       "no": "43",
       "nom": "Courtois",
       "prenom": "Denis",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_24",
       "no": "147",
       "nom": "Crettenand",
       "prenom": "Marl�ne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Alimentarium",
+      "telephone": "41219244111",
+      "telPortable": " ",
+      "email": "marlene.crettenand@alimentarium.org",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "09.11.2021"
     },
     {
       "id": "nestle-vevey_25",
       "no": "140",
       "nom": "De Belay",
       "prenom": "Alexandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "alexandra.debelay@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_26",
       "no": "132",
       "nom": "De Coster",
       "prenom": "Romain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Talent Aquisition",
+      "telephone": "41797129691",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_27",
       "no": "45",
       "nom": "Domingues",
       "prenom": "Gabriel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41219242111",
+      "telPortable": " ",
+      "email": "gabriel.domingues@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_28",
       "no": "166",
       "nom": "Duclos",
       "prenom": "S�bastien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Food & Beverage Manager",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.08.2024"
     },
     {
       "id": "nestle-vevey_29",
       "no": "163",
       "nom": "Dyke",
       "prenom": "Steven",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Head of Talent Acquisition",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "steven.dyke@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_30",
       "no": "46",
       "nom": "Ebenstreit",
       "prenom": "Caroline",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": "41616951258",
+      "telPortable": " ",
+      "email": "caroline.ebenstreit@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_31",
       "no": "159",
       "nom": "Ebiner",
       "prenom": "Diego",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Procurement Solution Designer Manager",
+      "telephone": "41794300123",
+      "telPortable": " ",
+      "email": "diego.ebiner@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_32",
       "no": "47",
       "nom": "Edelstein",
       "prenom": "Agn�s",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recrutement IT aussi pour NEST",
+      "telephone": "41219241640",
+      "telPortable": " ",
+      "email": "zgnzs.zdzlstzzn@nzstlz.czm",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_33",
       "no": "48",
       "nom": "Endruscheit",
       "prenom": "Sven",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Recruitment Partner",
+      "telephone": "41718448415",
+      "telPortable": " ",
+      "email": "sven.endruscheit@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_34",
       "no": "162",
       "nom": "Estoppey",
       "prenom": "Marco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "IS/IT Manager",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "marco.estoppey@nespresso.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_35",
       "no": "49",
       "nom": "Fankhauser",
       "prenom": "Erwin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable d'entreprise",
+      "telephone": "219245109",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_36",
       "no": "50",
       "nom": "Felber",
       "prenom": "Alois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "219245390",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_37",
       "no": "155",
       "nom": "Fournier",
       "prenom": "Jean-Denis",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of International Manufacturing, Strategy",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "jean-denis.fournier@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "14.12.2022"
     },
     {
       "id": "nestle-vevey_38",
       "no": "51",
       "nom": "Galley",
       "prenom": "Isabelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Business Application Project M",
+      "telephone": "41217969990",
+      "telPortable": " ",
+      "email": "isabelle.galley@nespresso.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_39",
       "no": "146",
       "nom": "Gardini",
       "prenom": "Alessandro",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "412192451111",
+      "telPortable": " ",
+      "email": "alessandro.gardini@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.09.2021"
     },
     {
       "id": "nestle-vevey_40",
       "no": "145",
       "nom": "Gavin",
       "prenom": "David",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219277501",
+      "telPortable": " ",
+      "email": "david.gavin@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.09.2021"
     },
     {
       "id": "nestle-vevey_41",
       "no": "52",
       "nom": "Gerber",
       "prenom": "Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41217969696",
+      "telPortable": " ",
+      "email": "francois.gerber@nespresso.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_42",
       "no": "53",
       "nom": "Germanier Audrin",
       "prenom": "Myriam",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": "219241111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_43",
       "no": "54",
       "nom": "Gheza",
       "prenom": "Raoul",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41217969894",
+      "telPortable": " ",
+      "email": "rzzzl.ghzzz@nzsprzssz.czm",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_44",
       "no": "161",
       "nom": "Girardi",
       "prenom": "Marina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41796136182",
+      "telPortable": "41217858338",
+      "email": "marina.girardi@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_45",
       "no": "55",
       "nom": "Goanvic",
       "prenom": "Erwan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp shop La Tour",
+      "telephone": "219245751",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_46",
       "no": "56",
       "nom": "Grossenbacher",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41792019592",
+      "telPortable": "41792019592",
+      "email": "stzphznz.grzssznbzchzr@nzstlz.czm",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_47",
       "no": "133",
       "nom": "Guy",
       "prenom": "Alexandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR project manager and recruitment partner for the procurement function",
+      "telephone": "41219245084",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_48",
       "no": "58",
       "nom": "Gygax",
       "prenom": "Andreas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur r�gional",
+      "telephone": "41272057531",
+      "telPortable": "41792086122",
+      "email": "andreas.gygax@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "nestle-vevey_49",
       "no": "60",
       "nom": "Hayoz",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245200",
+      "telPortable": " ",
+      "email": "christian.hayoz@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_50",
       "no": "61",
       "nom": "Hess",
       "prenom": "Sylvia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245196",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_51",
       "no": "144",
       "nom": "Heusler",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "412192429761",
+      "telPortable": " ",
+      "email": "eric.heusler@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.09.2021"
     },
     {
       "id": "nestle-vevey_52",
       "no": "63",
       "nom": "Hollitscher",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": "41616951313",
+      "telPortable": "4107952952",
+      "email": "christian.hollitscher@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_53",
       "no": "59",
       "nom": "HR",
       "prenom": "Konolfingen",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_54",
       "no": "152",
       "nom": "Huber",
       "prenom": "Martin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Nestle European Treasury Center",
+      "telephone": "41219243152",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "22.07.2022"
     },
     {
       "id": "nestle-vevey_55",
       "no": "64",
       "nom": "Imfeld",
       "prenom": "Verena",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Recruitment Specialist",
+      "telephone": "41317901443",
+      "telPortable": " ",
+      "email": "vreni.imfeld@rdko.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_56",
       "no": "65",
       "nom": "Jacquemet",
       "prenom": "Jean-Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de groupe achats",
+      "telephone": "41219245230",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_57",
       "no": "164",
       "nom": "Jacquier",
       "prenom": "Florian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Head, Data, Personalization, Digital Commerce & Consumer Analytics",
+      "telephone": "41762479304",
+      "telPortable": " ",
+      "email": "florian.jacquier@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_58",
       "no": "151",
       "nom": "Kapsalas",
       "prenom": "Kriton",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Finance director. Group services & indirect materials. Zone EMENA procurement controlling.",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "01.06.2022"
     },
     {
       "id": "nestle-vevey_59",
       "no": "67",
       "nom": "Karlen",
       "prenom": "F.",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "D�part. chocolat",
+      "telephone": "41219245387",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_60",
       "no": "70",
       "nom": "Knutti",
       "prenom": "Jean-Charles",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef service",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_61",
       "no": "153",
       "nom": "Kowalsi",
       "prenom": "C�dric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of employee relations",
+      "telephone": "4179999999",
+      "telPortable": " ",
+      "email": "cedric.kowalsi@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.07.2024"
     },
     {
       "id": "nestle-vevey_62",
       "no": "72",
       "nom": "Kunz",
       "prenom": "Jean-Philippe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219242976",
+      "telPortable": "41798332387",
+      "email": "jeanphilippe.kunz@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "nestle-vevey_63",
       "no": "73",
       "nom": "LAFONT",
       "prenom": "Samuel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of Relocation & Transfer Services",
+      "telephone": "41219246425",
+      "telPortable": " ",
+      "email": "samuel.lafont@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_64",
       "no": "143",
       "nom": "Lamblard",
       "prenom": "Cyril",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Head of E business",
+      "telephone": "+41 21 924 51 11",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "25.03.2021"
     },
     {
       "id": "nestle-vevey_65",
       "no": "75",
       "nom": "Lopez",
       "prenom": "Alan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41616951313",
+      "telPortable": " ",
+      "email": "hr.bzszl@ch.nzstlz.czm",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_66",
       "no": "76",
       "nom": "Martensson",
       "prenom": "Brigitta",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Mondo",
+      "telephone": "41219244614",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_67",
       "no": "141",
       "nom": "Mazzeo",
       "prenom": "Gerardo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Innovation Director",
+      "telephone": "41219241111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_68",
       "no": "77",
       "nom": "Meier",
       "prenom": "Roland",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245702",
+      "telPortable": " ",
+      "email": "roland.meier@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_69",
       "no": "78",
       "nom": "Merguin",
       "prenom": "Josephine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Purchasing Manager",
+      "telephone": "41219247135",
+      "telPortable": " ",
+      "email": "josephine.merguin1@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "18.11.2019"
     },
     {
       "id": "nestle-vevey_70",
       "no": "79",
       "nom": "Meusnier-Despins",
       "prenom": "Charlotte",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Innovation Flow",
+      "telephone": "41219245084",
+      "telPortable": " ",
+      "email": "charlotte.meunier-despins@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_71",
       "no": "81",
       "nom": "Millasson",
       "prenom": "Ren�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245276",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_72",
       "no": "160",
       "nom": "Mullen",
       "prenom": "David",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Procurement",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "david.mullen@nestl�.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_73",
       "no": "131",
       "nom": "Nuber",
       "prenom": "Paul",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Vice President, CFO",
+      "telephone": "41219245084",
+      "telPortable": "41798083082",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "01.06.2022"
     },
     {
       "id": "nestle-vevey_74",
       "no": "83",
       "nom": "Paccaud",
       "prenom": "Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp.finance serv.center",
+      "telephone": "41219245351",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_75",
       "no": "84",
       "nom": "Papetti",
       "prenom": "Singha",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219245154",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_76",
       "no": "85",
       "nom": "Personalabteilung",
       "prenom": "in Wangen bei O",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "hr.wangen@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_77",
       "no": "86",
       "nom": "Peterhans",
       "prenom": "Corinne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_78",
       "no": "157",
       "nom": "Pietrasanta",
       "prenom": "Davide",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Packaging Lead Coffee",
+      "telephone": "41",
+      "telPortable": " ",
+      "email": "davide.pietrasanta@nestl�.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_79",
       "no": "165",
       "nom": "Pinna",
       "prenom": "Gabriella",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Talent Acquisition Partner",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "gabriella.pinna@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.02.2025"
     },
     {
       "id": "nestle-vevey_80",
       "no": "87",
       "nom": "Porchet",
       "prenom": "Patrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "patrick.porchet@adecco.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_81",
       "no": "89",
       "nom": "Recrutement",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef du personnel",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_82",
       "no": "90",
       "nom": "Rentsch",
       "prenom": "Laura",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistante ce C. Rochat",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_83",
       "no": "91",
       "nom": "Rexeisen",
       "prenom": "Karin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245665",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_84",
       "no": "93",
       "nom": "Rolle",
       "prenom": "Paulette",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp shop orbe",
+      "telephone": "41244427701",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_85",
       "no": "167",
       "nom": "Rossi",
       "prenom": "Iavn",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Problm Manager",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "03.04.2025"
     },
     {
       "id": "nestle-vevey_86",
       "no": "94",
       "nom": "Rouillard",
       "prenom": "Laurence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Personalassistent /in",
+      "telephone": "41219243335",
+      "telPortable": " ",
+      "email": "laurance.rouillard@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_87",
       "no": "138",
       "nom": "Ruchet",
       "prenom": "Vincent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "ex�cutif chef",
+      "telephone": "41217858111",
+      "telPortable": " ",
+      "email": "vincent.ruchet@rd.nestle.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_88",
       "no": "95",
       "nom": "R�ck",
       "prenom": "Maria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "buyer e-procurement",
+      "telephone": "41219245278",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_89",
       "no": "96",
       "nom": "R�fenacht",
       "prenom": "Andreas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur RH NCH",
+      "telephone": "41219245156",
+      "telPortable": "41792409139",
+      "email": "andreas.ruefenacht@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "nestle-vevey_90",
       "no": "128",
       "nom": "Saclier",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Head of Industrial Design",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_91",
       "no": "97",
       "nom": "Salamin",
       "prenom": "Jean-Claude",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "marketing",
+      "telephone": "41219215355",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_92",
       "no": "135",
       "nom": "Salvini",
       "prenom": "Lavinia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Talent AcquisitionSpecialist",
+      "telephone": "41219242111",
+      "telPortable": "41797591184",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "nestle-vevey_93",
       "no": "99",
       "nom": "Salzmann",
       "prenom": "Sarah",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": "41219243355",
+      "telPortable": " ",
+      "email": "sarah.salzmann@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_94",
       "no": "100",
       "nom": "Savioli",
       "prenom": "Eva",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistante retrait�e",
+      "telephone": "41219245123",
+      "telPortable": " ",
+      "email": "eva.savioli@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_95",
       "no": "104",
       "nom": "Sch�llibaum",
       "prenom": "Bruno",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41552126460",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_96",
       "no": "101",
       "nom": "Schenk",
       "prenom": "Ernst",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Verkaufsleiter CH",
+      "telephone": "41219245666",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "nestle-vevey_97",
       "no": "102",
       "nom": "Schmocker",
       "prenom": "Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245232",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_98",
       "no": "103",
       "nom": "Schutz",
       "prenom": "Jean-Paul",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de service(achats)",
+      "telephone": "41219245272",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_99",
       "no": "156",
       "nom": "Schwarz",
       "prenom": "Carine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Payroll Manager",
+      "telephone": "79000000",
+      "telPortable": " ",
+      "email": "carine.schwarz@nestl�.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.01.2023"
     },
     {
       "id": "nestle-vevey_100",
       "no": "106",
       "nom": "Senaud",
       "prenom": "Patricia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "dpt communication",
+      "telephone": "41219245157",
+      "telPortable": " ",
+      "email": "patricia.senaud@ch.nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_101",
       "no": "107",
       "nom": "Soarez",
       "prenom": "Anibal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp CAN Vers chez les Bl",
+      "telephone": "41217858221",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_102",
       "no": "109",
       "nom": "Steinbruechel",
       "prenom": "Myriam",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "acheteuse chez mr Schutz",
+      "telephone": "41219245434",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_103",
       "no": "110",
       "nom": "Steinmann",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "021 924 56 12",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_104",
       "no": "111",
       "nom": "Stettler",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef performance indust.",
+      "telephone": "021 924 52 25",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_105",
       "no": "112",
       "nom": "Studer",
       "prenom": "Peter",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245336",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_106",
       "no": "113",
       "nom": "Suter",
       "prenom": "Maxime",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Strategic Buyer Switzerland",
+      "telephone": "41219245285",
+      "telPortable": " ",
+      "email": "maxime.suter@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_107",
       "no": "114",
       "nom": "Tabasso",
       "prenom": "Maude",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41217969883",
+      "telPortable": "41217969898",
+      "email": "maude.tabasso@nespresso.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "24.03.2021"
     },
     {
       "id": "nestle-vevey_108",
       "no": "118",
       "nom": "T�che",
       "prenom": "Jo�l",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "D�partement courrier",
+      "telephone": "41219245946",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_109",
       "no": "115",
       "nom": "Thumm",
       "prenom": "Claudia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp. recrutement",
+      "telephone": "41219245173",
+      "telPortable": "41792066261",
+      "email": "claudia.thumm@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_110",
       "no": "142",
       "nom": "Tjulkin",
       "prenom": "Alexander",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Brand Director",
+      "telephone": "021 924 11 11",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "30.07.2020"
     },
     {
       "id": "nestle-vevey_111",
       "no": "116",
       "nom": "Tobler",
       "prenom": "Patrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "rempla�ant d'Annick",
+      "telephone": "41219245161",
+      "telPortable": " ",
+      "email": "patrick.tobler@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_112",
       "no": "130",
       "nom": "Vaz Monteiro",
       "prenom": "Joana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Recruiter",
+      "telephone": "41797590822",
+      "telPortable": " ",
+      "email": "joana.vazmonteiro@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_113",
       "no": "158",
       "nom": "Villain",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Head of Supply Chain & Procurement Technology",
+      "telephone": "41798332347",
+      "telPortable": " ",
+      "email": "christophe.villain@nestle.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.10.2023"
     },
     {
       "id": "nestle-vevey_114",
       "no": "121",
       "nom": "Viscomi",
       "prenom": "Maria-Elisa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Diverse",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "maria-elisa.viscomi@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_115",
       "no": "122",
       "nom": "Von Kaenel",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable formation",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_116",
       "no": "123",
       "nom": "Vouillamoz",
       "prenom": "Corvette",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "au dpt RH",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_117",
       "no": "124",
       "nom": "Wagenbach",
       "prenom": "Urs",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219245295",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_118",
       "no": "125",
       "nom": "Wenger",
       "prenom": "Nelly",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Administratrice et directrice",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_119",
       "no": "126",
       "nom": "Wicky",
       "prenom": "Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "michel.wicky@adecco.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "nestle-vevey_120",
       "no": "127",
       "nom": "Wyss",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp d�pt chocolat",
+      "telephone": "41219245358",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "23.03.2021"
     },
     {
       "id": "nestle-vevey_121",
       "no": "139",
       "nom": "Zink",
       "prenom": "Anne Laure",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Global Talent acquisition",
+      "telephone": "41219243422",
+      "telPortable": " ",
+      "email": "idk@idk.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "26.09.2024"
     },
     {
       "id": "nestle-vevey_122",
       "no": "20",
       "nom": "Bailly",
       "prenom": "Catherine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "responsable d'entreprise",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_123",
       "no": "23",
       "nom": "Birchmeier",
       "prenom": "Jean-Luc",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef de d�partement",
+      "telephone": "021 924 53 95",
+      "telPortable": "079 477 27 14",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_124",
       "no": "25",
       "nom": "Bonfils",
       "prenom": "Charlotte",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "021 924 53 94",
+      "telPortable": " ",
+      "email": "charlotte.bonfils@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_125",
       "no": "26",
       "nom": "Braibant",
       "prenom": "Lucie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Recrutement IT",
+      "telephone": "021 924 16 40",
+      "telPortable": " ",
+      "email": "lucie.braibant@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_126",
       "no": "33",
       "nom": "B�rgisser",
       "prenom": "Patrick",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Head of R+D/QA",
+      "telephone": "41218240704",
+      "telPortable": "41793200006",
+      "email": "patrick.buergisser@moevenpick-icecream.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "nestle-vevey_127",
       "no": "34",
       "nom": "Calcagno",
       "prenom": "Annick",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "HR Manager/HR Project Manager",
+      "telephone": "021 924 51 61",
+      "telPortable": "079 542 15 28",
+      "email": "annick.calcagno@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_128",
       "no": "37",
       "nom": "Chambovey",
       "prenom": "B�atrice",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 924 51 03",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_129",
       "no": "38",
       "nom": "Cheseaux",
       "prenom": "Anne",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "stagiaire",
+      "telephone": "021 924 51 23",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_130",
       "no": "40",
       "nom": "Chudzinski",
       "prenom": "Blanca",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "HR Business Partner",
+      "telephone": "41219242111",
+      "telPortable": " ",
+      "email": "blanca.chudzinski@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "27.01.2025"
     },
     {
       "id": "nestle-vevey_131",
       "no": "44",
       "nom": "Di certo",
       "prenom": "Johann",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Resp. Recrutement IT",
+      "telephone": "021 924 15 46",
+      "telPortable": " ",
+      "email": "johann.dicerto@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_132",
       "no": "57",
       "nom": "Guignard",
       "prenom": "Marlyse",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "asst. barre choc. LION",
+      "telephone": "021 924 53 44",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_133",
       "no": "149",
       "nom": "Gygax",
       "prenom": "Andreas",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Directeur r�gional",
+      "telephone": "41272057531",
+      "telPortable": "41792086122",
+      "email": "zndrzzs.gygzx@ch.nzstlz.czm",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.01.2022"
     },
     {
       "id": "nestle-vevey_134",
       "no": "129",
       "nom": "Hadorn",
       "prenom": "Marc",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Credit Manager & Accounts Payable Team Leader",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "marc.hadorn@ch.nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "17.03.2021"
     },
     {
       "id": "nestle-vevey_135",
       "no": "62",
       "nom": "Hochuli",
       "prenom": "Johann",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "CCSD",
+      "telephone": "021 924 58 86",
+      "telPortable": "079 607 82 40",
+      "email": "johann.hochuli@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_136",
       "no": "66",
       "nom": "Jolliet",
       "prenom": "Jean-Pierre",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "021 924 51 58",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_137",
       "no": "68",
       "nom": "Kittelmann",
       "prenom": "Bruno",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "021 924 51 55",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_138",
       "no": "69",
       "nom": "Klemm",
       "prenom": "Tina",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Diverse",
+      "telephone": "4161695134",
+      "telPortable": " ",
+      "email": "tina.klemm@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "nestle-vevey_139",
       "no": "71",
       "nom": "Kramer",
       "prenom": "Andrea",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Head National Sales",
+      "telephone": "41581236610",
+      "telPortable": "41797975416",
+      "email": "andrea.kramer@moevenpick-icecream.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "nestle-vevey_140",
       "no": "137",
       "nom": "Lazarenko",
       "prenom": "Zhanna",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Regional Strategic Buyer Contingent Workforce",
+      "telephone": "41219245111",
+      "telPortable": " ",
+      "email": "zhanna.lazarenko@nestle.com",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "16.03.2021"
     },
     {
       "id": "nestle-vevey_141",
       "no": "74",
       "nom": "Liggenstorfer",
       "prenom": "Thomas",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41798083030",
+      "telPortable": "41798083030",
+      "email": "thomas.liggenstorfer@movenpick-icecream.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "nestle-vevey_142",
       "no": "148",
       "nom": "Merguin",
       "prenom": "Josephine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Purchasing Manager",
+      "telephone": "41219247135",
+      "telPortable": " ",
+      "email": "jzszphznz.mzrgzzn1@nzstlz.czm",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.01.2022"
     },
     {
       "id": "nestle-vevey_143",
       "no": "80",
       "nom": "Michaud",
       "prenom": "Andr�",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Directeur RH",
+      "telephone": "021 924 51 59",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_144",
       "no": "82",
       "nom": "Oberson",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_145",
       "no": "88",
       "nom": "Rebetez",
       "prenom": "Marlyse",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "RS Admin Shop",
+      "telephone": "021 924 51 18",
+      "telPortable": " ",
+      "email": "marlyse.rebetez@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_146",
       "no": "92",
       "nom": "Rochat",
       "prenom": "Cinzia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41219245123",
+      "telPortable": " ",
+      "email": "cinzia.rochat@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "nestle-vevey_147",
       "no": "98",
       "nom": "Salvisberg",
       "prenom": "Angela",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Shop Leiterin Konolfingen",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_148",
       "no": "105",
       "nom": "Seifert",
       "prenom": "Ruedi",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Gesch�ftsf�hrer Z�rich",
+      "telephone": "043 268 04 20",
+      "telPortable": "079 421 19 88",
+      "email": "Rudolf.Seifert@moevenpick-icecream.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_149",
       "no": "108",
       "nom": "Sossouhounto",
       "prenom": "Florence",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Personalassistent /in",
+      "telephone": "+41 2 19 24 33 59",
+      "telPortable": " ",
+      "email": "florence.sossouhounto@nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_150",
       "no": "117",
       "nom": "Tornare",
       "prenom": "Laurent",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "resp. recrut. personnel",
+      "telephone": "021 924 51 61",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "nestle-vevey_151",
       "no": "119",
       "nom": "Uebele",
       "prenom": "Jochen",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "HR Recruitment Partner D/CH -",
+      "telephone": "41718448415",
+      "telPortable": " ",
+      "email": "jochen.uebele@ch.nestle.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "nestle-vevey_152",
       "no": "120",
       "nom": "Vidi",
       "prenom": "Rolando",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "ICB & Event Manager",
+      "telephone": "41581236611",
+      "telPortable": "41794547368",
+      "email": "rolando.vidi@moevenpick-icecream.com",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     }
   ]
 }

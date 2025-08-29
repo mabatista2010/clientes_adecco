@@ -7,252 +7,504 @@
       "no": "33",
       "nom": "BORNAND",
       "prenom": "Laura",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR",
+      "telephone": "41219891811",
+      "telPortable": " ",
+      "email": "laura.bornand@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_1",
       "no": "9",
       "nom": "Colomb",
       "prenom": "Evelyne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "int�r�t g�n�raux",
+      "telephone": "41219891811",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_2",
       "no": "11",
       "nom": "Deppierraz",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": "deppierraz@vmcv.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "vmcv-sa-clarens_3",
       "no": "30",
       "nom": "Di Feo",
       "prenom": "Antonia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseill�re RH",
+      "telephone": "41219891843",
+      "telPortable": "41999",
+      "email": "antonia.difeo@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_4",
       "no": "28",
       "nom": "Diaz",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable maintenance",
+      "telephone": "41219891858",
+      "telPortable": "41799569399",
+      "email": "olivier.diaz@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_5",
       "no": "20",
       "nom": "Gailard",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Finances et Controlling",
+      "telephone": "41219891870",
+      "telPortable": "41793241632",
+      "email": "pascal.gaillard@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_6",
       "no": "19",
       "nom": "Gaillard",
       "prenom": "Pascal",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Finances et controlling",
+      "telephone": "41219891870",
+      "telPortable": "41793241632",
+      "email": "pascal.gaillard@vmcv.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_7",
       "no": "31",
       "nom": "Joss",
       "prenom": "Vistoria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41219891875",
+      "telPortable": " ",
+      "email": "victoria.joss@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.03.2025"
     },
     {
       "id": "vmcv-sa-clarens_8",
       "no": "34",
       "nom": "Laval",
       "prenom": "Anne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41219891896",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "29.01.2025"
     },
     {
       "id": "vmcv-sa-clarens_9",
       "no": "32",
       "nom": "Luyet",
       "prenom": "Mathieu",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur Marketing, Communication, Clients",
+      "telephone": "41219891830",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "10.09.2024"
     },
     {
       "id": "vmcv-sa-clarens_10",
       "no": "8",
       "nom": "Macherel",
       "prenom": "Luc",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH morges SRE",
+      "telephone": "41219891811",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_11",
       "no": "25",
       "nom": "Manguito",
       "prenom": "Jo�lle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Staff",
+      "telephone": "41219891868",
+      "telPortable": " ",
+      "email": "joelle.manguito@vmcv.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_12",
       "no": "3",
       "nom": "Moullet",
       "prenom": "Serge",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable exploitation",
+      "telephone": "41219891811",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_13",
       "no": "4",
       "nom": "Roch",
       "prenom": "Robert",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp. dpt technique",
+      "telephone": "41219891811",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_14",
       "no": "17",
       "nom": "Rouiller",
       "prenom": "Katy",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable du Service Vente et Relations client�le",
+      "telephone": "41219891821",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_15",
       "no": "35",
       "nom": "Signori",
       "prenom": "Jean",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable du service informatique",
+      "telephone": "41219891811",
+      "telPortable": " ",
+      "email": "jean.signori@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "03.03.2025"
     },
     {
       "id": "vmcv-sa-clarens_16",
       "no": "36",
       "nom": "Signori",
       "prenom": "Jean",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable IT",
+      "telephone": "41219891878",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "06.03.2025"
     },
     {
       "id": "vmcv-sa-clarens_17",
       "no": "6",
       "nom": "Wueger",
       "prenom": "Ulrich",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable d'entreprise",
+      "telephone": "21989",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_18",
       "no": "13",
       "nom": "Bobillier",
       "prenom": "Michel",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable Finances",
+      "telephone": "41219891812",
+      "telPortable": " ",
+      "email": "michel.bobillier@vmcv.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "vmcv-sa-clarens_19",
       "no": "22",
       "nom": "Bruttin",
       "prenom": "Thierry",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "HR",
+      "telephone": "41219891801",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.04.2024"
     },
     {
       "id": "vmcv-sa-clarens_20",
       "no": "10",
       "nom": "Capel",
       "prenom": "Andr�",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur, recrutement",
+      "telephone": "41999",
+      "telPortable": " ",
+      "email": "zczpzl@cgn.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "15.08.2024"
     },
     {
       "id": "vmcv-sa-clarens_21",
       "no": "18",
       "nom": "Capel",
       "prenom": "Andr�",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable RH",
+      "telephone": "41219891815",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_22",
       "no": "2",
       "nom": "Detrey",
       "prenom": "Denis",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "directeur",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "vmcv-sa-clarens_23",
       "no": "29",
       "nom": "Gobet",
       "prenom": "M�lanie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Conseill�re RH",
+      "telephone": "41219891815",
+      "telPortable": " ",
+      "email": "rh@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.04.2024"
     },
     {
       "id": "vmcv-sa-clarens_24",
       "no": "16",
       "nom": "Honegger",
       "prenom": "Sandrine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "DRH",
+      "telephone": "41219891810",
+      "telPortable": " ",
+      "email": "sandrine.honegger@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.07.2023"
     },
     {
       "id": "vmcv-sa-clarens_25",
       "no": "12",
       "nom": "Huber",
       "prenom": "NA",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "0",
+      "telPortable": " ",
+      "email": "huber@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_26",
       "no": "27",
       "nom": "Joye",
       "prenom": "M�lanie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Conseill�re RH",
+      "telephone": "41219891815",
+      "telPortable": " ",
+      "email": "melanie.joye@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.04.2024"
     },
     {
       "id": "vmcv-sa-clarens_27",
       "no": "1",
       "nom": "Maillard",
       "prenom": "Roland",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "int�r�t g�n�raux",
+      "telephone": "021 989 18 21",
+      "telPortable": " ",
+      "email": "maillard@vmcv.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "vmcv-sa-clarens_28",
       "no": "7",
       "nom": "Marques",
       "prenom": "Paula",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "assist RH",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "vmcv-sa-clarens_29",
       "no": "24",
       "nom": "Martin",
       "prenom": "Aurelie",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Sp�cialiste Ressources Humaines",
+      "telephone": "41219891815",
+      "telPortable": " ",
+      "email": "aurelie.martin@vmcv.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_30",
       "no": "5",
       "nom": "Meyer-Ferri",
       "prenom": "Cathia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "chef du personnel",
+      "telephone": "021 989 18 13",
+      "telPortable": "079 239 11 74",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "Wach, Dietmar",
+      "dateMutation": "18.11.2017"
     },
     {
       "id": "vmcv-sa-clarens_31",
       "no": "23",
       "nom": "Papaux",
       "prenom": "Carine",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Responsable RH",
+      "telephone": "41219891811",
+      "telPortable": "41219891849",
+      "email": "carine.papaux@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "vmcv-sa-clarens_32",
       "no": "15",
       "nom": "Reguin",
       "prenom": "Patrizia",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Sp�cialiste RH",
+      "telephone": "41219891815",
+      "telPortable": " ",
+      "email": "patrizia.reguin@vmcv.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_33",
       "no": "14",
       "nom": "Schlegel",
       "prenom": "Angela",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Directrice",
+      "telephone": "41219891800",
+      "telPortable": "41796123817",
+      "email": "angela.schlegel@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "31.05.2024"
     },
     {
       "id": "vmcv-sa-clarens_34",
       "no": "26",
       "nom": "Siddi",
       "prenom": "Elisa",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "Conseill�re RH",
+      "telephone": "41219891872",
+      "telPortable": " ",
+      "email": "elisa.siddi@vmcv.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.04.2024"
     },
     {
       "id": "vmcv-sa-clarens_35",
       "no": "21",
       "nom": "Werren",
       "prenom": "Jean-Fran�ois",
-      "actif": "0 - Non"
+      "actif": "0 - Non",
+      "fonction": "DRH",
+      "telephone": "41219891810",
+      "telPortable": "700252600",
+      "email": "jean-francois.werren@vmcv.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "11.04.2024"
     }
   ]
 }

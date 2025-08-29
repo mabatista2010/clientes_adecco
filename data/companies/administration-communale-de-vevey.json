@@ -7,350 +7,700 @@
       "no": "5",
       "nom": "Altermath",
       "prenom": "Gilles .",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "finances",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_1",
       "no": "18",
       "nom": "Ammos",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 925 52 51",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_2",
       "no": "38",
       "nom": "Bacher",
       "prenom": "Pascale",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219255382",
+      "telPortable": " ",
+      "email": "pascale.bacher@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_3",
       "no": "26",
       "nom": "B�nninger",
       "prenom": "Roger",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219255270",
+      "telPortable": "41796060932",
+      "email": "roger.banninger@vevey.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_4",
       "no": "27",
       "nom": "Baillif",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Syndic",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_5",
       "no": "7",
       "nom": "Bays",
       "prenom": "A.",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Dpt ecoles",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_6",
       "no": "62",
       "nom": "Boulenaz",
       "prenom": "Stephane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable D�partement M�canique",
+      "telephone": "41219255226",
+      "telPortable": " ",
+      "email": "stephane.boulenaz@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_7",
       "no": "40",
       "nom": "Cainne",
       "prenom": "Julien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219253491",
+      "telPortable": "41786196234",
+      "email": "julien.cainne@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_8",
       "no": "36",
       "nom": "Cambes",
       "prenom": "Maria",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219255282",
+      "telPortable": " ",
+      "email": "maria.cambes@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_9",
       "no": "33",
       "nom": "Catherine",
       "prenom": "Th�raulaz",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe administrative",
+      "telephone": "41219255309",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_10",
       "no": "67",
       "nom": "Chaudet",
       "prenom": "Isabelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante de Mme Fawer",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": "isabelle.chaudet@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_11",
       "no": "23",
       "nom": "Conne",
       "prenom": "Genevi�ve",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_12",
       "no": "54",
       "nom": "Cruz Goncalves",
       "prenom": "Nadia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41219253420",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_13",
       "no": "42",
       "nom": "Da Costa",
       "prenom": "Sergio",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": "sergio.dacosta@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_14",
       "no": "51",
       "nom": "Daellenbach",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjoint administratif Espaces publics",
+      "telephone": "41219255252",
+      "telPortable": " ",
+      "email": "laurent.daellenbach@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_15",
       "no": "34",
       "nom": "Davet",
       "prenom": "Eric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219255251",
+      "telPortable": " ",
+      "email": "eric.davet@vevey.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_16",
       "no": "47",
       "nom": "Delessert",
       "prenom": "Raphael",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Charg� de communication - adjoint au secr�tariat",
+      "telephone": "41219255343",
+      "telPortable": " ",
+      "email": "raphael.delessert@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_17",
       "no": "57",
       "nom": "Deppen",
       "prenom": "V�ronique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41219253401",
+      "telPortable": " ",
+      "email": "veronique.deppen@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_18",
       "no": "56",
       "nom": "Deschenaux",
       "prenom": "Carole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219253560",
+      "telPortable": " ",
+      "email": "carole.deschenaux@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_19",
       "no": "31",
       "nom": "Dubuis",
       "prenom": "Nicole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assist Mr Volet au RH",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": "nicole.dubuis@vevey.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_20",
       "no": "6",
       "nom": "Dupuis",
       "prenom": "A.",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "urbanisme",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_21",
       "no": "35",
       "nom": "Fave",
       "prenom": "Jean-Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": "jean-francois.fave@vevey.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_22",
       "no": "60",
       "nom": "Fawer",
       "prenom": "Manon",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Cheffe de service",
+      "telephone": "41219255919",
+      "telPortable": "41792167359",
+      "email": "manon.fawer@vevey.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_23",
       "no": "55",
       "nom": "Fellay",
       "prenom": "Marie-Christine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable dpt DJEFS",
+      "telephone": "41219255918",
+      "telPortable": " ",
+      "email": "mariechristine.fellay@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_24",
       "no": "8",
       "nom": "Francey",
       "prenom": "Cap. M.",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "dpt. police",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_25",
       "no": "61",
       "nom": "Frossard",
       "prenom": "Damien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "operations",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": "info@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_26",
       "no": "50",
       "nom": "Garanis",
       "prenom": "Georges",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable direction des espaces publiques",
+      "telephone": "41219255253",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_27",
       "no": "64",
       "nom": "Gisi",
       "prenom": "Alain",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41219255353",
+      "telPortable": " ",
+      "email": "alain.gisi@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_28",
       "no": "14",
       "nom": "Grandjean",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp. atelier de r�parat.",
+      "telephone": "021 925 52 26",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_29",
       "no": "48",
       "nom": "Labaste",
       "prenom": "Catherine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Cheffe de bureau service DJEFS - Secteur famille",
+      "telephone": "021 925 53 03",
+      "telPortable": " ",
+      "email": "catherine.labaste@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_30",
       "no": "37",
       "nom": "Lehrian",
       "prenom": "Claude",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de service",
+      "telephone": "021 925 52 73",
+      "telPortable": " ",
+      "email": "claude.lehrian@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_31",
       "no": "28",
       "nom": "Martin",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire RH",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_32",
       "no": "30",
       "nom": "Martin",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire RH",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_33",
       "no": "12",
       "nom": "Mermoud",
       "prenom": "Isabelle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/s",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_34",
       "no": "66",
       "nom": "MIFTARI",
       "prenom": "Vjosa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Employ�e d?administration",
+      "telephone": "41219255303",
+      "telPortable": " ",
+      "email": "vjosa.miftari@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_35",
       "no": "20",
       "nom": "Murisier",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secrt RH",
+      "telephone": "41219253402",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_36",
       "no": "63",
       "nom": "Pilet",
       "prenom": "Esther",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Employ�e d'administration",
+      "telephone": "41219255920",
+      "telPortable": " ",
+      "email": "esther.pilet@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_37",
       "no": "22",
       "nom": "Pilloud Latorre",
       "prenom": "Corinne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire municipale adjointe",
+      "telephone": "41219255382",
+      "telPortable": " ",
+      "email": "corinne.pilloudlatorre@vevey.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_38",
       "no": "32",
       "nom": "Piquilloud",
       "prenom": "St�phane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de la voirie",
+      "telephone": "021 925 52 60",
+      "telPortable": " ",
+      "email": "stephane.piquilloud@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_39",
       "no": "43",
       "nom": "Pittet",
       "prenom": "Murielle",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante de direction DJEFS",
+      "telephone": "41219255911",
+      "telPortable": "41797563193",
+      "email": "murielle.pittet@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_40",
       "no": "52",
       "nom": "Ruch",
       "prenom": "Olivia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Adjointe M. Volet",
+      "telephone": "41219253420",
+      "telPortable": " ",
+      "email": "olivia.ruch@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_41",
       "no": "44",
       "nom": "Schnell",
       "prenom": "Patricia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn�",
+      "telephone": "41219253430",
+      "telPortable": "41793101070",
+      "email": "patricia.schnell@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_42",
       "no": "25",
       "nom": "Smets",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "D�l�gu�(e) � la communication",
+      "telephone": "219255211",
+      "telPortable": " ",
+      "email": "pierre.smets@vevey.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_43",
       "no": "46",
       "nom": "Tangerini",
       "prenom": "Alexandre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secteur famille",
+      "telephone": "41219255311",
+      "telPortable": "41787183978",
+      "email": "alexandre.tangerini@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_44",
       "no": "41",
       "nom": "Tocados",
       "prenom": "Diana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219253496",
+      "telPortable": " ",
+      "email": "diana.tocados@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_45",
       "no": "49",
       "nom": "Torest",
       "prenom": "Rudy",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chauffeur intendant",
+      "telephone": "21",
+      "telPortable": "079 741 36 56",
+      "email": "rudy.torest@vevey.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_46",
       "no": "21",
       "nom": "Vanlangendonck",
       "prenom": "Laurence",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante Serge Volet",
+      "telephone": "41219255211",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_47",
       "no": "58",
       "nom": "Vasserot",
       "prenom": "Christyl",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Cheffe de Service",
+      "telephone": "41219255211",
+      "telPortable": "41219255301",
+      "email": "christyl.vasserot@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_48",
       "no": "59",
       "nom": "Zhang",
       "prenom": "Tetyana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secteur famille",
+      "telephone": "41219255211",
+      "telPortable": "41219253430",
+      "email": "tetyana.zhang@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-vevey_49",
       "no": "53",
       "nom": "Zufferey",
       "prenom": "St�phanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Cheffe de service apport social, logement, g�rance",
+      "telephone": "41796167652",
+      "telPortable": " ",
+      "email": "stephanie.zufferey@vevey.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

@@ -7,112 +7,224 @@
       "no": "7",
       "nom": "Abuin",
       "prenom": "David",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef d'atelier",
+      "telephone": "41219672160",
+      "telPortable": " ",
+      "email": "david.abuin@amag.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_1",
       "no": "10",
       "nom": "Affanato",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable magasin",
+      "telephone": "41219672180",
+      "telPortable": " ",
+      "email": "olivier.affannato@amag.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_2",
       "no": "18",
       "nom": "Claret",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseiller de vente VW Utilitaires",
+      "telephone": "41219672171",
+      "telPortable": "41794011185",
+      "email": "laurent.claret@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_3",
       "no": "15",
       "nom": "Corpataux",
       "prenom": "C�dric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de service m�canique & SAV",
+      "telephone": "41219672189",
+      "telPortable": "41795767587",
+      "email": "cedric.corpataux@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_4",
       "no": "1",
       "nom": "D'Antino",
       "prenom": "Antonio",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable",
+      "telephone": "021 967 21 60",
+      "telPortable": " ",
+      "email": "antonio.dantino@amag.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_5",
       "no": "2",
       "nom": "Delavy",
       "prenom": "Lolita",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219672160",
+      "telPortable": " ",
+      "email": "lolita.delavy@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_6",
       "no": "8",
       "nom": "Di Tria",
       "prenom": "Franco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur carrosserie",
+      "telephone": "41219672160",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_7",
       "no": "16",
       "nom": "Ekwa",
       "prenom": "Ornella",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Business Partner",
+      "telephone": "41798625314",
+      "telPortable": " ",
+      "email": "mailito-ornella.ekwa@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_8",
       "no": "6",
       "nom": "Favre",
       "prenom": "Nicolas",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Vendeur",
+      "telephone": "41219672160",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_9",
       "no": "11",
       "nom": "Fernandes",
       "prenom": "Filipe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable carrosserie",
+      "telephone": "41219672175",
+      "telPortable": " ",
+      "email": "filipe.fernandes@amag.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_10",
       "no": "9",
       "nom": "Fonseca",
       "prenom": "Bryan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "responsable service apr�s-vente",
+      "telephone": "41219672189",
+      "telPortable": " ",
+      "email": "bryan.fonseca@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_11",
       "no": "14",
       "nom": "Gavillet",
       "prenom": "J�r�me",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur r�gion Riviera",
+      "telephone": "41219253818",
+      "telPortable": "41793705932",
+      "email": " ",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_12",
       "no": "12",
       "nom": "Joseph",
       "prenom": "Sonia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "HR Region Vaud",
+      "telephone": "41216206123",
+      "telPortable": " ",
+      "email": "soniajoseph@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_13",
       "no": "17",
       "nom": "Monard",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de site Noville",
+      "telephone": "41219662181",
+      "telPortable": "41786050535",
+      "email": "laurent.monard@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_14",
       "no": "5",
       "nom": "Nafzger",
       "prenom": "Anissa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219672160",
+      "telPortable": " ",
+      "email": "anissa.nafzger@amag.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "amag-noville_15",
       "no": "13",
       "nom": "Rapin",
       "prenom": "Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef d'atelier",
+      "telephone": "41999",
+      "telPortable": "41219672170",
+      "email": "frederic.rapin@amag.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

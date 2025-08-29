@@ -7,28 +7,56 @@
       "no": "1",
       "nom": "Bannwart",
       "prenom": "Jacques",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur",
+      "telephone": "41795441384",
+      "telPortable": "41795441384",
+      "email": "jbannwart@planzer.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "planzer-transport-ag-venoge-parc-penthalaz_1",
       "no": "2",
       "nom": "Colicchio",
       "prenom": "Dominique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Resp.technique et administrati",
+      "telephone": "41218618422",
+      "telPortable": "41795441392",
+      "email": "dcolicchio@planzer.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "20.11.2024"
     },
     {
       "id": "planzer-transport-ag-venoge-parc-penthalaz_2",
       "no": "3",
       "nom": "Tallon",
       "prenom": "Marie-H�l�ne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante de direction",
+      "telephone": "41218041458",
+      "telPortable": " ",
+      "email": "mtallon@planzer.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "21.02.2025"
     },
     {
       "id": "planzer-transport-ag-venoge-parc-penthalaz_3",
       "no": "4",
       "nom": "Ziliotto",
       "prenom": "Mario Domingos",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur du site de Penthalaz",
+      "telephone": "41218618422",
+      "telPortable": " ",
+      "email": "mziliotto@planzer.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "28.02.2024"
     }
   ]
 }

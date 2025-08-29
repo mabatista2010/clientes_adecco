@@ -7,21 +7,42 @@
       "no": "3",
       "nom": "Fidole",
       "prenom": "Olivier",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur",
+      "telephone": "41215529599",
+      "telPortable": " ",
+      "email": "olivier.fidole@conforama.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "conforama-suisse-sa_1",
       "no": "5",
       "nom": "Lengen",
       "prenom": "V�ronique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Administrative",
+      "telephone": "41215529595",
+      "telPortable": " ",
+      "email": "secr.villeneuve@conforama.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "conforama-suisse-sa_2",
       "no": "6",
       "nom": "Mirabile",
       "prenom": "Filipo",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable logistique",
+      "telephone": "41999",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

@@ -7,28 +7,56 @@
       "no": "3",
       "nom": "Bidoli",
       "prenom": "Luca",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable chantiers et montages",
+      "telephone": "41765728289",
+      "telPortable": "41765728289",
+      "email": "luca@lmenseignes.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "03.07.2023"
     },
     {
       "id": "lightmaker-enseignes-tm-s-rl-puidoux_1",
       "no": "2",
       "nom": "Caron",
       "prenom": "Christine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Project Manager",
+      "telephone": "41786102616",
+      "telPortable": " ",
+      "email": "contact@lightmaker.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "Calado, Patricia",
+      "dateMutation": "05.08.2022"
     },
     {
       "id": "lightmaker-enseignes-tm-s-rl-puidoux_2",
       "no": "4",
       "nom": "Rambeaux",
       "prenom": "F�lix",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Monteur",
+      "telephone": "411234",
+      "telPortable": "41765023733",
+      "email": "felix@lmenseignes.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "08.12.2022"
     },
     {
       "id": "lightmaker-enseignes-tm-s-rl-puidoux_3",
       "no": "1",
       "nom": "Tamme",
       "prenom": "Tambet",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Manager",
+      "telephone": "41219051128",
+      "telPortable": "41763929973",
+      "email": "studio@visual-partenaire.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "EasyTemp API User",
+      "dateMutation": "19.11.2024"
     }
   ]
 }

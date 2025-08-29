@@ -7,357 +7,714 @@
       "no": "47",
       "nom": "Aubort",
       "prenom": "Patrick",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de Service Espace Verts",
+      "telephone": "219627786",
+      "telPortable": " ",
+      "email": "patrick.aubort@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_1",
       "no": "48",
       "nom": "Barbosa",
       "prenom": "Sara",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "R�pondante RH",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": "sara.barbosa@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_2",
       "no": "35",
       "nom": "Barraud",
       "prenom": "Jean-Lou",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de dpt urbanisme",
+      "telephone": "41219627760",
+      "telPortable": " ",
+      "email": "barraudjl@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_3",
       "no": "62",
       "nom": "Basso",
       "prenom": "Ana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41219627821",
+      "telPortable": " ",
+      "email": "ana.basso@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_4",
       "no": "13",
       "nom": "Bise",
       "prenom": "Krystin",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secrt municipale adjointe",
+      "telephone": "41219627772",
+      "telPortable": " ",
+      "email": "bisek@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_5",
       "no": "65",
       "nom": "Calame",
       "prenom": "Florian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "tbd",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": "florian.calame@montreux.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_6",
       "no": "36",
       "nom": "Chablaix",
       "prenom": "Christiane",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "41219627760",
+      "telPortable": " ",
+      "email": "chablaixc@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_7",
       "no": "44",
       "nom": "Cherpillod",
       "prenom": "C�dric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable service compta",
+      "telephone": "41219627793",
+      "telPortable": " ",
+      "email": "cedric.cherpillod@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_8",
       "no": "38",
       "nom": "Chevalley",
       "prenom": "Julien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219627893",
+      "telPortable": "41792954025",
+      "email": "julien.chevalley@montreux.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_9",
       "no": "50",
       "nom": "Cordeiro",
       "prenom": "Bruno",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "R�pondant RH",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": "bruno.cordeiro@montreux.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_10",
       "no": "12",
       "nom": "Domingos",
       "prenom": "Tania",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "chef de d�partement",
+      "telephone": "41219627787",
+      "telPortable": " ",
+      "email": "domingost@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_11",
       "no": "23",
       "nom": "Duchoud",
       "prenom": "Julie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219627972",
+      "telPortable": " ",
+      "email": "duchoudj@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_12",
       "no": "60",
       "nom": "Gard",
       "prenom": "Serge",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Service des finances et de l?informatique",
+      "telephone": "41219627790",
+      "telPortable": " ",
+      "email": "serge.gard@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_13",
       "no": "59",
       "nom": "Genoud",
       "prenom": "Particia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "cheffe informatique",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": "patricia.genoud@montreux.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_14",
       "no": "64",
       "nom": "Genoud",
       "prenom": "Patricia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable du service Informatique",
+      "telephone": "41219627796",
+      "telPortable": " ",
+      "email": "patricia.genoud@montreux.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_15",
       "no": "55",
       "nom": "Gon�alves",
       "prenom": "T�nia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseill�re RH et responsable apprentissage",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_16",
       "no": "58",
       "nom": "Hijano",
       "prenom": "Fabian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef de la comptabilit�",
+      "telephone": "021 962 77 95",
+      "telPortable": " ",
+      "email": "fabian.hijano@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_17",
       "no": "3",
       "nom": "Jordan",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": " ",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_18",
       "no": "29",
       "nom": "Lehni",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "NA",
+      "telephone": "41219644516",
+      "telPortable": "41797091161",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_19",
       "no": "28",
       "nom": "Leimer",
       "prenom": "St�phanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219627788",
+      "telPortable": " ",
+      "email": "stephanie.leimer@montreux.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_20",
       "no": "30",
       "nom": "Mahon",
       "prenom": "Fabien",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "No de 2 de Monsieur Bossard",
+      "telephone": "41219627813",
+      "telPortable": " ",
+      "email": "mahonf@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_21",
       "no": "45",
       "nom": "Margueron",
       "prenom": "Fabienne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secr�taire de direcction",
+      "telephone": "021 962 79 51",
+      "telPortable": " ",
+      "email": "fabienne.margueron@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_22",
       "no": "33",
       "nom": "Martin",
       "prenom": "Corinne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secrt municpal",
+      "telephone": "41219627771",
+      "telPortable": "41793131631",
+      "email": "martinc@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_23",
       "no": "17",
       "nom": "Menetrey",
       "prenom": "Bernadette",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "travaux publics",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_24",
       "no": "16",
       "nom": "Messager",
       "prenom": "Marie-Jos�",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secr�taire de direction/servi.",
+      "telephone": "41219627730",
+      "telPortable": "41797934401",
+      "email": "messagermj@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_25",
       "no": "18",
       "nom": "Millasson",
       "prenom": "Corinne",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "secrt du syndict",
+      "telephone": "41219627773",
+      "telPortable": " ",
+      "email": "millassonc@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_26",
       "no": "57",
       "nom": "Morier",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secr�taire RH",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_27",
       "no": "49",
       "nom": "Morisod",
       "prenom": "Val�rie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "R�pondante RH",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": "valerie.morisod@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_28",
       "no": "26",
       "nom": "Neukomm",
       "prenom": "Christian",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Municipal",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_29",
       "no": "42",
       "nom": "Nicolet",
       "prenom": "Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219898724",
+      "telPortable": "41786602102",
+      "email": "frederic.nicolet@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_30",
       "no": "37",
       "nom": "Office de la populat",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 962 78 50",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_31",
       "no": "61",
       "nom": "Pereira",
       "prenom": "Gisela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "R�pondante RH",
+      "telephone": "41219627821",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_32",
       "no": "39",
       "nom": "Perret",
       "prenom": "Nicole",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219627893",
+      "telPortable": " ",
+      "email": "nicole.perret@montreux.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_33",
       "no": "9",
       "nom": "Perrin",
       "prenom": "Jean Daniel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "pr�pos� au contr�le",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_34",
       "no": "22",
       "nom": "Piaget",
       "prenom": "Jean-Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "adjoint finance",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_35",
       "no": "63",
       "nom": "Pidoux",
       "prenom": "Martial",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Chef du service des ressources humaines et informatique",
+      "telephone": "41219627781",
+      "telPortable": "41794474745",
+      "email": "martial.pidoux@montreux.ch",
+      "accesEasyMission": "1 - Oui",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_36",
       "no": "8",
       "nom": "Pradervand",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "direction des travaux",
+      "telephone": "41219627733",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_37",
       "no": "21",
       "nom": "Rihs",
       "prenom": "Vincent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "resp finance",
+      "telephone": "41219627793",
+      "telPortable": " ",
+      "email": "rihsv@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_38",
       "no": "53",
       "nom": "Rochat",
       "prenom": "Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Conseiller municipal et directeur",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_39",
       "no": "31",
       "nom": "Sentinelli",
       "prenom": "Gian-Franco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219627801",
+      "telPortable": "41793094001",
+      "email": "gian-franco.sentinelli@montreux.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_40",
       "no": "54",
       "nom": "Surdez",
       "prenom": "Christophe",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Charg� MSST",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_41",
       "no": "51",
       "nom": "Tavares Gon�alves",
       "prenom": "Vera",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "R�pondante RH",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": "vera.tavares@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_42",
       "no": "46",
       "nom": "Valiante",
       "prenom": "Jean-Pierre",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "DRH / Chef de service",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": "jean-pierre.valiante@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_43",
       "no": "52",
       "nom": "Viret",
       "prenom": "M�lanie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Secr�taire RH",
+      "telephone": "021 962 77 86",
+      "telPortable": " ",
+      "email": "melanie.viret@montreux.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_44",
       "no": "32",
       "nom": "Vouilloz",
       "prenom": "Patricia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "bras droit du chef dpt",
+      "telephone": "41219627803",
+      "telPortable": " ",
+      "email": "vouillozp@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_45",
       "no": "15",
       "nom": "Walter",
       "prenom": "Marie-Louise",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219898721",
+      "telPortable": " ",
+      "email": "vev@montreux.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_46",
       "no": "27",
       "nom": "Wehrli",
       "prenom": "Laurent",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Municipal",
+      "telephone": "41219627786",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_47",
       "no": "2",
       "nom": "Weibel",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "021 961 21 84",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_48",
       "no": "24",
       "nom": "Willi",
       "prenom": "Edith",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41792790691",
+      "telPortable": "41792790691",
+      "email": "willie@comx.org",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_49",
       "no": "19",
       "nom": "Zeller",
       "prenom": "Michel",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "41219627850",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "administration-communale-de-montreux-ser_50",
       "no": "40",
       "nom": "Zurcher",
       "prenom": "Vanessa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219627733",
+      "telPortable": "41799389527",
+      "email": "vanessa.zurcher@montreux.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

@@ -7,140 +7,280 @@
       "no": "33",
       "nom": "Alves Pinto",
       "prenom": "Alexandra",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante administrative RH",
+      "telephone": "41244242584",
+      "telPortable": " ",
+      "email": "a.alvespinto@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_1",
       "no": "29",
       "nom": "Botz",
       "prenom": "Emilie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Site de Chailly",
+      "telephone": "41219898211",
+      "telPortable": "41793051580",
+      "email": "e.botz@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_2",
       "no": "35",
       "nom": "Catellani",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41244242061",
+      "telPortable": "41244242062",
+      "email": "n.catellani@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_3",
       "no": "13",
       "nom": "Desponds",
       "prenom": "Jacques",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41219898211",
+      "telPortable": "41796722169",
+      "email": "j.desponds@lbgsa.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_4",
       "no": "27",
       "nom": "Ellis",
       "prenom": "V�ronique",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41244242584",
+      "telPortable": " ",
+      "email": "v.ellis@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_5",
       "no": "36",
       "nom": "Fonseca",
       "prenom": "Manuela",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de site Marsens",
+      "telephone": "41793454568",
+      "telPortable": " ",
+      "email": "m.fonseca@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_6",
       "no": "32",
       "nom": "Girard",
       "prenom": "Nathalie",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41244242062",
+      "telPortable": " ",
+      "email": "n.girard@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_7",
       "no": "17",
       "nom": "Haenni",
       "prenom": "Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable Administratif et Financier Membre de la Direction G�n�rale",
+      "telephone": "41244242096",
+      "telPortable": "41796449550",
+      "email": "f.haenni@lbgsa.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_8",
       "no": "34",
       "nom": "Haenni",
       "prenom": "Fran�ois",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "4141244242096",
+      "telPortable": "41796449550",
+      "email": "f.hzznnz@lbgsz.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_9",
       "no": "40",
       "nom": "Landino",
       "prenom": "Debora",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41244242062",
+      "telPortable": " ",
+      "email": "d.landino@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_10",
       "no": "38",
       "nom": "May",
       "prenom": "Yasmine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante RH",
+      "telephone": "41244242061",
+      "telPortable": " ",
+      "email": "y.may@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_11",
       "no": "22",
       "nom": "Monney",
       "prenom": "Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41244242069",
+      "telPortable": "41798227978",
+      "email": "f.mznnzy@lbgsz.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_12",
       "no": "2",
       "nom": "Paccola",
       "prenom": "Jean-Charles",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "directeur g�n�rale",
+      "telephone": "41219641041",
+      "telPortable": " ",
+      "email": "dg@ibgsa.ch",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_13",
       "no": "31",
       "nom": "Pahud",
       "prenom": "Sandrine",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "RH",
+      "telephone": "41244242061",
+      "telPortable": " ",
+      "email": "s.pzhzd@lbgsz.ch",
+      "accesEasyMission": "false",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_14",
       "no": "21",
       "nom": "Rou�",
       "prenom": "NA",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "non-mentionn� / divers",
+      "telephone": "024 424 20 61",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_15",
       "no": "20",
       "nom": "Roulet",
       "prenom": "Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "assistant du chef du personnel",
+      "telephone": "41244242061",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": " ",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_16",
       "no": "37",
       "nom": "Silva Barros",
       "prenom": "Luisette",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "TBD",
+      "telephone": "41244242062",
+      "telPortable": " ",
+      "email": "l.silvabarros@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_17",
       "no": "23",
       "nom": "Stanojkovic",
       "prenom": "Tatiana",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable RH",
+      "telephone": "41244242097",
+      "telPortable": " ",
+      "email": "t.stanojkovic@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_18",
       "no": "39",
       "nom": "Tom�",
       "prenom": "Marco",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable production",
+      "telephone": "41244242061",
+      "telPortable": " ",
+      "email": "m.tome@lbgsa.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_19",
       "no": "30",
       "nom": "Velickovic",
       "prenom": "Zaklina",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable de ligne",
+      "telephone": "0",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }

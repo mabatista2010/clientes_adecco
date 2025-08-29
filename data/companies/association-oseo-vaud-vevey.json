@@ -7,49 +7,98 @@
       "no": "1",
       "nom": "Alonso",
       "prenom": "Vanessa",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "reponsable de projet et coach",
+      "telephone": " ",
+      "telPortable": "079 799 88 97",
+      "email": "vanessa.alonso@oseo-vd.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "association-oseo-vaud-vevey_1",
       "no": "5",
       "nom": "Brodard",
       "prenom": "James",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Responsable d'atelier secteur blanchisserie",
+      "telephone": "41999",
+      "telPortable": "41796730949",
+      "email": "james.brodard@oseo-vd.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "association-oseo-vaud-vevey_2",
       "no": "4",
       "nom": "Capt Giannoni",
       "prenom": "Laetitia",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Collaboratrice Administrative",
+      "telephone": "41219253044",
+      "telPortable": " ",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "association-oseo-vaud-vevey_3",
       "no": "2",
       "nom": "Costa",
       "prenom": "Antonio",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Contact inactif",
+      "telephone": "219252980",
+      "telPortable": "41796731046",
+      "email": " ",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "association-oseo-vaud-vevey_4",
       "no": "7",
       "nom": "Gschwend",
       "prenom": "Fr�d�ric",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Directeur services centraux",
+      "telephone": "41215526709",
+      "telPortable": " ",
+      "email": "gschwend@oseo-vd.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "association-oseo-vaud-vevey_5",
       "no": "3",
       "nom": "Mahendren",
       "prenom": "Gehan",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Coach",
+      "telephone": "41763952115",
+      "telPortable": " ",
+      "email": "gehan.mahendren@gmail.com",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     },
     {
       "id": "association-oseo-vaud-vevey_6",
       "no": "6",
       "nom": "Peterhans",
       "prenom": "Lara",
-      "actif": "1 - Oui"
+      "actif": "1 - Oui",
+      "fonction": "Assistante",
+      "telephone": "41219252984",
+      "telPortable": " ",
+      "email": "lara.peterhans@oseo-vd.ch",
+      "accesEasyMission": "0 - Non",
+      "editeurMutation": "",
+      "dateMutation": ""
     }
   ]
 }
