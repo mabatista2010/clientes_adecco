@@ -1,0 +1,41 @@
+{
+  "id": "resonetics-sa-puidoux",
+  "name": "Resonetics SA, Puidoux",
+  "clients": [
+    {
+      "id": "resonetics-sa-puidoux_0",
+      "no": "1",
+      "nom": "Bataillard",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "resonetics-sa-puidoux_1",
+      "no": "3",
+      "nom": "De Giorgi",
+      "prenom": "Fabio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "resonetics-sa-puidoux_2",
+      "no": "4",
+      "nom": "Gigic",
+      "prenom": "Danijel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "resonetics-sa-puidoux_3",
+      "no": "5",
+      "nom": "Novo Cal",
+      "prenom": "Antonio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "resonetics-sa-puidoux_4",
+      "no": "2",
+      "nom": "Roulet",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    }
+  ]
+}

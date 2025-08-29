@@ -1,0 +1,363 @@
+{
+  "id": "administration-communale-de-montreux-ser",
+  "name": "Administration Communale de Montreux Ser",
+  "clients": [
+    {
+      "id": "administration-communale-de-montreux-ser_0",
+      "no": "47",
+      "nom": "Aubort",
+      "prenom": "Patrick",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_1",
+      "no": "48",
+      "nom": "Barbosa",
+      "prenom": "Sara",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_2",
+      "no": "35",
+      "nom": "Barraud",
+      "prenom": "Jean-Lou",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_3",
+      "no": "62",
+      "nom": "Basso",
+      "prenom": "Ana",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_4",
+      "no": "13",
+      "nom": "Bise",
+      "prenom": "Krystin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_5",
+      "no": "65",
+      "nom": "Calame",
+      "prenom": "Florian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_6",
+      "no": "36",
+      "nom": "Chablaix",
+      "prenom": "Christiane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_7",
+      "no": "44",
+      "nom": "Cherpillod",
+      "prenom": "C�dric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_8",
+      "no": "38",
+      "nom": "Chevalley",
+      "prenom": "Julien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_9",
+      "no": "50",
+      "nom": "Cordeiro",
+      "prenom": "Bruno",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_10",
+      "no": "12",
+      "nom": "Domingos",
+      "prenom": "Tania",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_11",
+      "no": "23",
+      "nom": "Duchoud",
+      "prenom": "Julie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_12",
+      "no": "60",
+      "nom": "Gard",
+      "prenom": "Serge",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_13",
+      "no": "59",
+      "nom": "Genoud",
+      "prenom": "Particia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_14",
+      "no": "64",
+      "nom": "Genoud",
+      "prenom": "Patricia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_15",
+      "no": "55",
+      "nom": "Gon�alves",
+      "prenom": "T�nia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_16",
+      "no": "58",
+      "nom": "Hijano",
+      "prenom": "Fabian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_17",
+      "no": "3",
+      "nom": "Jordan",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_18",
+      "no": "29",
+      "nom": "Lehni",
+      "prenom": "Christian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_19",
+      "no": "28",
+      "nom": "Leimer",
+      "prenom": "St�phanie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_20",
+      "no": "30",
+      "nom": "Mahon",
+      "prenom": "Fabien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_21",
+      "no": "45",
+      "nom": "Margueron",
+      "prenom": "Fabienne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_22",
+      "no": "33",
+      "nom": "Martin",
+      "prenom": "Corinne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_23",
+      "no": "17",
+      "nom": "Menetrey",
+      "prenom": "Bernadette",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_24",
+      "no": "16",
+      "nom": "Messager",
+      "prenom": "Marie-Jos�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_25",
+      "no": "18",
+      "nom": "Millasson",
+      "prenom": "Corinne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_26",
+      "no": "57",
+      "nom": "Morier",
+      "prenom": "Nathalie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_27",
+      "no": "49",
+      "nom": "Morisod",
+      "prenom": "Val�rie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_28",
+      "no": "26",
+      "nom": "Neukomm",
+      "prenom": "Christian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_29",
+      "no": "42",
+      "nom": "Nicolet",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_30",
+      "no": "37",
+      "nom": "Office de la populat",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_31",
+      "no": "61",
+      "nom": "Pereira",
+      "prenom": "Gisela",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_32",
+      "no": "39",
+      "nom": "Perret",
+      "prenom": "Nicole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_33",
+      "no": "9",
+      "nom": "Perrin",
+      "prenom": "Jean Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_34",
+      "no": "22",
+      "nom": "Piaget",
+      "prenom": "Jean-Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_35",
+      "no": "63",
+      "nom": "Pidoux",
+      "prenom": "Martial",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_36",
+      "no": "8",
+      "nom": "Pradervand",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_37",
+      "no": "21",
+      "nom": "Rihs",
+      "prenom": "Vincent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_38",
+      "no": "53",
+      "nom": "Rochat",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_39",
+      "no": "31",
+      "nom": "Sentinelli",
+      "prenom": "Gian-Franco",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_40",
+      "no": "54",
+      "nom": "Surdez",
+      "prenom": "Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_41",
+      "no": "51",
+      "nom": "Tavares Gon�alves",
+      "prenom": "Vera",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_42",
+      "no": "46",
+      "nom": "Valiante",
+      "prenom": "Jean-Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_43",
+      "no": "52",
+      "nom": "Viret",
+      "prenom": "M�lanie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_44",
+      "no": "32",
+      "nom": "Vouilloz",
+      "prenom": "Patricia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_45",
+      "no": "15",
+      "nom": "Walter",
+      "prenom": "Marie-Louise",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_46",
+      "no": "27",
+      "nom": "Wehrli",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_47",
+      "no": "2",
+      "nom": "Weibel",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_48",
+      "no": "24",
+      "nom": "Willi",
+      "prenom": "Edith",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_49",
+      "no": "19",
+      "nom": "Zeller",
+      "prenom": "Michel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-montreux-ser_50",
+      "no": "40",
+      "nom": "Zurcher",
+      "prenom": "Vanessa",
+      "actif": "1 - Oui"
+    }
+  ]
+}

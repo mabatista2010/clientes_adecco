@@ -1,0 +1,55 @@
+{
+  "id": "sica-logistique-suisse-sa-renens-vd",
+  "name": "SICA LOGISTIQUE (Suisse) SA, Renens VD",
+  "clients": [
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_0",
+      "no": "4",
+      "nom": "Equer",
+      "prenom": "Fabrice",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_1",
+      "no": "7",
+      "nom": "Failly",
+      "prenom": "Joy",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_2",
+      "no": "6",
+      "nom": "Gidon",
+      "prenom": "Sam",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_3",
+      "no": "2",
+      "nom": "Guillot",
+      "prenom": "Martial",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_4",
+      "no": "3",
+      "nom": "Massonnet",
+      "prenom": "Jean-No�l",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_5",
+      "no": "5",
+      "nom": "Netzer",
+      "prenom": "Aur�lia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "sica-logistique-suisse-sa-renens-vd_6",
+      "no": "1",
+      "nom": "Stieffatre",
+      "prenom": "St�phanie",
+      "actif": "1 - Oui"
+    }
+  ]
+}

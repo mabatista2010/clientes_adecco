@@ -1,0 +1,97 @@
+{
+  "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg",
+  "name": "Maisons du Monde Suisse S…rl, co MAZARS SA, Fribourg",
+  "clients": [
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_0",
+      "no": "9",
+      "nom": "Baudet",
+      "prenom": "G�raldine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_1",
+      "no": "5",
+      "nom": "Calvi",
+      "prenom": "Sara",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_2",
+      "no": "3",
+      "nom": "Chirico",
+      "prenom": "Maria",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_3",
+      "no": "7",
+      "nom": "Clemence",
+      "prenom": ".",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_4",
+      "no": "4",
+      "nom": "Djellal",
+      "prenom": "Sarah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_5",
+      "no": "6",
+      "nom": "Johnson",
+      "prenom": "Caroline",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_6",
+      "no": "12",
+      "nom": "Laroche",
+      "prenom": "Kevin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_7",
+      "no": "13",
+      "nom": "LAROCHE",
+      "prenom": "Kevin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_8",
+      "no": "10",
+      "nom": "Leger",
+      "prenom": "Thomas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_9",
+      "no": "8",
+      "nom": "Ollagnier",
+      "prenom": "S�verine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_10",
+      "no": "1",
+      "nom": "Pereira",
+      "prenom": "Andr�a",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_11",
+      "no": "2",
+      "nom": "Preveraud",
+      "prenom": "Elsa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg_12",
+      "no": "11",
+      "nom": "Treglia Canilla",
+      "prenom": "Doris",
+      "actif": "1 - Oui"
+    }
+  ]
+}

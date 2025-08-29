@@ -1,0 +1,277 @@
+// Auto-generated file - DO NOT EDIT
+// Generated on 2025-08-29T08:42:28.233Z
+
+export interface Client {
+  id: string;
+  no: string;
+  nom: string;
+  prenom: string;
+  actif: string;
+  mail: string;
+  telFix: string;
+  telMobile: string;
+  adresse: string;
+  codePostal: string;
+  localite: string;
+}
+
+export interface Company {
+  id: string;
+  name: string;
+  clients: Client[];
+}
+
+export interface CompanySummary {
+  id: string;
+  name: string;
+  totalClients: number;
+}
+
+// Companies index
+export const companiesIndex: CompanySummary[] = [
+  {
+    "id": "acro-line-s-rl-puidoux",
+    "name": "Acro-Line S…rl, Puidoux",
+    "totalClients": 1
+  },
+  {
+    "id": "administration-communale-de-montreux-ser",
+    "name": "Administration Communale de Montreux Ser",
+    "totalClients": 51
+  },
+  {
+    "id": "administration-communale-villeneuve",
+    "name": "Administration communale Villeneuve",
+    "totalClients": 13
+  },
+  {
+    "id": "administration-communale-de-vevey",
+    "name": "Administration communale de Vevey",
+    "totalClients": 50
+  },
+  {
+    "id": "amag-noville",
+    "name": "Amag Noville",
+    "totalClients": 16
+  },
+  {
+    "id": "amag-st-l-gier",
+    "name": "Amag St L‚gier",
+    "totalClients": 3
+  },
+  {
+    "id": "amag-vevey",
+    "name": "Amag Vevey",
+    "totalClients": 11
+  },
+  {
+    "id": "association-la-branche-mollie-margot",
+    "name": "Association La Branche, Mollie-Margot",
+    "totalClients": 31
+  },
+  {
+    "id": "association-oseo-vaud-vevey",
+    "name": "Association OSEO-Vaud, Vevey",
+    "totalClients": 7
+  },
+  {
+    "id": "assura-pully",
+    "name": "Assura Pully",
+    "totalClients": 41
+  },
+  {
+    "id": "audemars-piguet-marketing-sa",
+    "name": "Audemars Piguet (Marketing) SA",
+    "totalClients": 18
+  },
+  {
+    "id": "avosano-ag-puidoux",
+    "name": "Avosano AG, Puidoux",
+    "totalClients": 19
+  },
+  {
+    "id": "b-b-hotels-switzerland-gmbh-co-erl",
+    "name": "B&B Hotels Switzerland GmbH co Erl",
+    "totalClients": 246
+  },
+  {
+    "id": "commune-de-remaufens-remaufens",
+    "name": "Commune de Remaufens, Remaufens",
+    "totalClients": 1
+  },
+  {
+    "id": "conforama-suisse-sa",
+    "name": "Conforama Suisse SA",
+    "totalClients": 3
+  },
+  {
+    "id": "corde-access-sa-puidoux",
+    "name": "Corde-Access SA, Puidoux",
+    "totalClients": 2
+  },
+  {
+    "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey",
+    "name": "Fondation Enfance Emma Couvreu depu, is 1829, Vevey",
+    "totalClients": 19
+  },
+  {
+    "id": "fondation-les-eglantines-vevey",
+    "name": "Fondation Les Eglantines, Vevey",
+    "totalClients": 23
+  },
+  {
+    "id": "gihe-s-rl-bulle",
+    "name": "GIHE S…rl, Bulle",
+    "totalClients": 59
+  },
+  {
+    "id": "g-taz",
+    "name": "G‚taz",
+    "totalClients": 91
+  },
+  {
+    "id": "habitat-confort-s-a-corseaux",
+    "name": "Habitat & Confort S.A., Corseaux",
+    "totalClients": 6
+  },
+  {
+    "id": "hublot-sa",
+    "name": "Hublot SA",
+    "totalClients": 16
+  },
+  {
+    "id": "la-poste-suisse-vevey",
+    "name": "La Poste Suisse, Vevey",
+    "totalClients": 9
+  },
+  {
+    "id": "leguriviera",
+    "name": "Leguriviera",
+    "totalClients": 9
+  },
+  {
+    "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains",
+    "name": "Les Blanchisseries G‚n‚rales LBG SA, Yverdon-les-Bains",
+    "totalClients": 20
+  },
+  {
+    "id": "lightmaker-enseignes-tm-s-rl-puidoux",
+    "name": "Lightmaker Enseignes TM S…rl, Puidoux",
+    "totalClients": 4
+  },
+  {
+    "id": "maisons-du-monde-suisse-s-rl-co-mazars-sa-fribourg",
+    "name": "Maisons du Monde Suisse S…rl, co MAZARS SA, Fribourg",
+    "totalClients": 13
+  },
+  {
+    "id": "manor",
+    "name": "Manor",
+    "totalClients": 121
+  },
+  {
+    "id": "maurice-lacroix-sa",
+    "name": "Maurice Lacroix SA",
+    "totalClients": 4
+  },
+  {
+    "id": "nestle-vevey",
+    "name": "Nestle Vevey",
+    "totalClients": 153
+  },
+  {
+    "id": "nestle-nespresso",
+    "name": "Nestle nespresso",
+    "totalClients": 5
+  },
+  {
+    "id": "novadelta-suisse-s-rl-puidoux",
+    "name": "Novadelta Suisse S…rl, Puidoux",
+    "totalClients": 6
+  },
+  {
+    "id": "omega-sa",
+    "name": "OMEGA SA",
+    "totalClients": 47
+  },
+  {
+    "id": "patek-phillipe-sa-geneve",
+    "name": "Patek phillipe SA Geneve ",
+    "totalClients": 21
+  },
+  {
+    "id": "planzer-transport-ag-venoge-parc-penthalaz",
+    "name": "Planzer Transport AG, Venoge Parc, Penthalaz",
+    "totalClients": 4
+  },
+  {
+    "id": "polygravia-arts-graphiques-s-a-ch-el-st-denis",
+    "name": "Polygravia arts graphiques S.A., Chフel-St-Denis",
+    "totalClients": 7
+  },
+  {
+    "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux",
+    "name": "Promove (Association pour la promotion, ‚conomique de la Riviera et de Lav, Montreux",
+    "totalClients": 18
+  },
+  {
+    "id": "resonetics-sa-puidoux",
+    "name": "Resonetics SA, Puidoux",
+    "totalClients": 5
+  },
+  {
+    "id": "rolex-geneve",
+    "name": "Rolex Geneve",
+    "totalClients": 137
+  },
+  {
+    "id": "sev-soci-t-des-entrep-ts-vevey-s-a-vevey",
+    "name": "SEV Soci‚t‚ des Entrep“ts Vevey S.A, ., Vevey",
+    "totalClients": 7
+  },
+  {
+    "id": "sica-logistique-suisse-sa-renens-vd",
+    "name": "SICA LOGISTIQUE (Suisse) SA, Renens VD",
+    "totalClients": 7
+  },
+  {
+    "id": "sauberlin",
+    "name": "Sauberlin",
+    "totalClients": 35
+  },
+  {
+    "id": "transgourmet",
+    "name": "Transgourmet",
+    "totalClients": 12
+  },
+  {
+    "id": "vmcv-sa-clarens",
+    "name": "VMCV SA, Clarens",
+    "totalClients": 36
+  },
+  {
+    "id": "vacheron-constantin-sa",
+    "name": "Vacheron Constantin SA",
+    "totalClients": 34
+  },
+  {
+    "id": "ville-de-lausanne",
+    "name": "Ville de Lausanne",
+    "totalClients": 39
+  }
+];
+
+// Lazy load company data
+export async function getCompanyData(companyId: string): Promise<Company | null> {
+  try {
+    const data = await import(`./${companyId}.json`);
+    return data.default as Company;
+  } catch {
+    return null;
+  }
+}
+
+// Get all companies
+export function getAllCompanies(): CompanySummary[] {
+  return companiesIndex;
+}

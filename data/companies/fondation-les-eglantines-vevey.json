@@ -1,0 +1,167 @@
+{
+  "id": "fondation-les-eglantines-vevey",
+  "name": "Fondation Les Eglantines, Vevey",
+  "clients": [
+    {
+      "id": "fondation-les-eglantines-vevey_0",
+      "no": "35",
+      "nom": "Baehler",
+      "prenom": "Nathalie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_1",
+      "no": "33",
+      "nom": "Barroso",
+      "prenom": "Jos�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_2",
+      "no": "3",
+      "nom": "Brucher",
+      "prenom": "Claudia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_3",
+      "no": "31",
+      "nom": "Cabras",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_4",
+      "no": "36",
+      "nom": "Doudement",
+      "prenom": "Annie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_5",
+      "no": "18",
+      "nom": "Farkas",
+      "prenom": "Calina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_6",
+      "no": "32",
+      "nom": "Favre",
+      "prenom": "Liliane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_7",
+      "no": "39",
+      "nom": "Gremaud",
+      "prenom": "Forianne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_8",
+      "no": "40",
+      "nom": "Gremaud",
+      "prenom": "Florianne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_9",
+      "no": "24",
+      "nom": "Groupe Azur",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_10",
+      "no": "23",
+      "nom": "Groupe Bleu",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_11",
+      "no": "25",
+      "nom": "Groupe Gris",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_12",
+      "no": "27",
+      "nom": "Groupe Jaman 24",
+      "prenom": "�quipe 1",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_13",
+      "no": "28",
+      "nom": "Groupe Jaman 24",
+      "prenom": "�quipe 2",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_14",
+      "no": "30",
+      "nom": "Groupe Jaune",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_15",
+      "no": "26",
+      "nom": "Groupe Vert",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_16",
+      "no": "17",
+      "nom": "Hahling",
+      "prenom": "Christine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_17",
+      "no": "41",
+      "nom": "Jeanbourquin",
+      "prenom": "Sarah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_18",
+      "no": "34",
+      "nom": "Rausis",
+      "prenom": "St�phane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_19",
+      "no": "38",
+      "nom": "Resin",
+      "prenom": "Ang�lique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_20",
+      "no": "15",
+      "nom": "Stifani",
+      "prenom": "Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_21",
+      "no": "37",
+      "nom": "Terrier",
+      "prenom": "Marie-Ange",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-les-eglantines-vevey_22",
+      "no": "29",
+      "nom": "Vaucoret",
+      "prenom": "Dominique",
+      "actif": "0 - Non"
+    }
+  ]
+}

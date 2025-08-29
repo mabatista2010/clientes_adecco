@@ -1,0 +1,27 @@
+{
+  "id": "conforama-suisse-sa",
+  "name": "Conforama Suisse SA",
+  "clients": [
+    {
+      "id": "conforama-suisse-sa_0",
+      "no": "3",
+      "nom": "Fidole",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "conforama-suisse-sa_1",
+      "no": "5",
+      "nom": "Lengen",
+      "prenom": "V�ronique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "conforama-suisse-sa_2",
+      "no": "6",
+      "nom": "Mirabile",
+      "prenom": "Filipo",
+      "actif": "1 - Oui"
+    }
+  ]
+}

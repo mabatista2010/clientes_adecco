@@ -1,0 +1,853 @@
+{
+  "id": "manor",
+  "name": "Manor",
+  "clients": [
+    {
+      "id": "manor_0",
+      "no": "110",
+      "nom": "Aliu",
+      "prenom": "Evzi",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_1",
+      "no": "24",
+      "nom": "Andr�",
+      "prenom": "Marie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_2",
+      "no": "93",
+      "nom": "Auvray",
+      "prenom": "Pierre-Marie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_3",
+      "no": "69",
+      "nom": "Baly",
+      "prenom": "Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_4",
+      "no": "36",
+      "nom": "Barbezat",
+      "prenom": "Sandrine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_5",
+      "no": "73",
+      "nom": "Benz",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_6",
+      "no": "2",
+      "nom": "Bettens",
+      "prenom": "didier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_7",
+      "no": "112",
+      "nom": "Bommer",
+      "prenom": "Igor",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_8",
+      "no": "32",
+      "nom": "Bossonnet",
+      "prenom": "Julien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_9",
+      "no": "96",
+      "nom": "Bourgeois",
+      "prenom": "Emerick",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_10",
+      "no": "101",
+      "nom": "Brupbacher",
+      "prenom": "Michelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_11",
+      "no": "14",
+      "nom": "Bulliard",
+      "prenom": "Christian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_12",
+      "no": "47",
+      "nom": "Burgat",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_13",
+      "no": "71",
+      "nom": "Burgaud",
+      "prenom": "Chlo�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_14",
+      "no": "28",
+      "nom": "Calmes",
+      "prenom": "C�line",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_15",
+      "no": "44",
+      "nom": "Cassinadri",
+      "prenom": "Emilie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_16",
+      "no": "38",
+      "nom": "Chambion",
+      "prenom": "Jean-Michel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_17",
+      "no": "57",
+      "nom": "Chauvet",
+      "prenom": "Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_18",
+      "no": "94",
+      "nom": "Chauvy",
+      "prenom": "Laurence",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_19",
+      "no": "34",
+      "nom": "Constantin",
+      "prenom": "Nicolas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_20",
+      "no": "116",
+      "nom": "Cormier",
+      "prenom": "Dorian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_21",
+      "no": "113",
+      "nom": "Cuennet",
+      "prenom": "Joelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_22",
+      "no": "46",
+      "nom": "D'andrea",
+      "prenom": "Mario",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_23",
+      "no": "55",
+      "nom": "Dabrowski",
+      "prenom": "Marek",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_24",
+      "no": "72",
+      "nom": "Decombas",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_25",
+      "no": "103",
+      "nom": "Deslarzes",
+      "prenom": "Lo�c",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_26",
+      "no": "64",
+      "nom": "Dietrich",
+      "prenom": "Pascal",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_27",
+      "no": "33",
+      "nom": "Dolis",
+      "prenom": "Eve",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_28",
+      "no": "115",
+      "nom": "Dorian",
+      "prenom": "Cormier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_29",
+      "no": "37",
+      "nom": "Emery",
+      "prenom": "M-Ambroisine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_30",
+      "no": "51",
+      "nom": "Emery",
+      "prenom": "M-Ambroisine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_31",
+      "no": "91",
+      "nom": "Erre",
+      "prenom": "Amandiene",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_32",
+      "no": "100",
+      "nom": "Favey",
+      "prenom": "Caroline",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_33",
+      "no": "111",
+      "nom": "Fernandes",
+      "prenom": "Claudio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_34",
+      "no": "65",
+      "nom": "F�vrier",
+      "prenom": "Rapha�l",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_35",
+      "no": "123",
+      "nom": "Gacond",
+      "prenom": "C�dric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_36",
+      "no": "58",
+      "nom": "Genzoni",
+      "prenom": "Florence",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_37",
+      "no": "59",
+      "nom": "Gigandet",
+      "prenom": "Julia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_38",
+      "no": "107",
+      "nom": "Girard",
+      "prenom": "Gilles",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_39",
+      "no": "90",
+      "nom": "Guerra",
+      "prenom": "Milena",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_40",
+      "no": "62",
+      "nom": "Gulli",
+      "prenom": "Giovanna",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_41",
+      "no": "74",
+      "nom": "Guyot Jeanin",
+      "prenom": "Margaux",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_42",
+      "no": "122",
+      "nom": "Hamonet",
+      "prenom": "Joris",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_43",
+      "no": "98",
+      "nom": "Hangartner",
+      "prenom": "Bernard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_44",
+      "no": "61",
+      "nom": "Hohler",
+      "prenom": "Felix",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_45",
+      "no": "63",
+      "nom": "Holer",
+      "prenom": "Felix",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_46",
+      "no": "119",
+      "nom": "Hoxha",
+      "prenom": "Nderona",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_47",
+      "no": "75",
+      "nom": "Hug",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_48",
+      "no": "56",
+      "nom": "Jans",
+      "prenom": "Nicole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_49",
+      "no": "120",
+      "nom": "Jaquemet",
+      "prenom": "Nicolas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_50",
+      "no": "76",
+      "nom": "Kapinga",
+      "prenom": "Mireille",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_51",
+      "no": "102",
+      "nom": "Knigge",
+      "prenom": "C�line",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_52",
+      "no": "77",
+      "nom": "Koca",
+      "prenom": "Selma",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_53",
+      "no": "26",
+      "nom": "K�ng",
+      "prenom": "Erich",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_54",
+      "no": "124",
+      "nom": "Laub",
+      "prenom": "Elisabeth",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_55",
+      "no": "53",
+      "nom": "Lazzarotto",
+      "prenom": "Aur�lie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_56",
+      "no": "109",
+      "nom": "Lecoq",
+      "prenom": ".",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_57",
+      "no": "97",
+      "nom": "Lengrand",
+      "prenom": "Claudie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_58",
+      "no": "40",
+      "nom": "Macirella",
+      "prenom": "Donato",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_59",
+      "no": "68",
+      "nom": "Mekhraf",
+      "prenom": "G�raldine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_60",
+      "no": "80",
+      "nom": "Micale",
+      "prenom": "Dominico",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_61",
+      "no": "121",
+      "nom": "Mischler",
+      "prenom": "Stephane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_62",
+      "no": "117",
+      "nom": "Monnard",
+      "prenom": "Fabienne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_63",
+      "no": "118",
+      "nom": "Monnard",
+      "prenom": "Fabienne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_64",
+      "no": "66",
+      "nom": "Mottier",
+      "prenom": "Herv�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_65",
+      "no": "81",
+      "nom": "Mottiez",
+      "prenom": "Herv�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_66",
+      "no": "108",
+      "nom": "M�ller",
+      "prenom": "Stefan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_67",
+      "no": "99",
+      "nom": "NM",
+      "prenom": "Jos�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_68",
+      "no": "60",
+      "nom": "Notari",
+      "prenom": "Sarah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_69",
+      "no": "106",
+      "nom": "Pepe",
+      "prenom": "Antonio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_70",
+      "no": "114",
+      "nom": "Perez",
+      "prenom": "Maria",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_71",
+      "no": "6",
+      "nom": "Pfamatter",
+      "prenom": "Marie-Laure",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_72",
+      "no": "83",
+      "nom": "Pfammatter",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_73",
+      "no": "45",
+      "nom": "Pittet",
+      "prenom": "Jean-Marc",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_74",
+      "no": "84",
+      "nom": "Quirici",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_75",
+      "no": "43",
+      "nom": "Raczynski",
+      "prenom": "Hugo",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_76",
+      "no": "50",
+      "nom": "Rech",
+      "prenom": "Nicolas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_77",
+      "no": "85",
+      "nom": "Ritzelo",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_78",
+      "no": "21",
+      "nom": "Rochat",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_79",
+      "no": "27",
+      "nom": "Roduit Zufferey",
+      "prenom": "Nadia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_80",
+      "no": "42",
+      "nom": "Rudaz",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_81",
+      "no": "30",
+      "nom": "Rudin",
+      "prenom": "Bernard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_82",
+      "no": "41",
+      "nom": "Savary",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_83",
+      "no": "105",
+      "nom": "Scarpa",
+      "prenom": "Vanessa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_84",
+      "no": "48",
+      "nom": "Scarpa",
+      "prenom": "Vanessa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_85",
+      "no": "52",
+      "nom": "Sechaud",
+      "prenom": "Christine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_86",
+      "no": "92",
+      "nom": "Telemac",
+      "prenom": "Sylvain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_87",
+      "no": "54",
+      "nom": "Thalmann",
+      "prenom": "Simon",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_88",
+      "no": "89",
+      "nom": "Veiron",
+      "prenom": "V�ronique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_89",
+      "no": "49",
+      "nom": "Viaud",
+      "prenom": "Chlo�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_90",
+      "no": "104",
+      "nom": "Vogne",
+      "prenom": "Camille",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_91",
+      "no": "19",
+      "nom": "Volpi",
+      "prenom": "Th�r�se",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_92",
+      "no": "20",
+      "nom": "Zottos",
+      "prenom": "Alexis",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "manor_93",
+      "no": "3",
+      "nom": "Baggiolini",
+      "prenom": "V�ronique",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_94",
+      "no": "70",
+      "nom": "Besse",
+      "prenom": "S�bastien",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_95",
+      "no": "12",
+      "nom": "Biollay",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_96",
+      "no": "11",
+      "nom": "Boyer",
+      "prenom": "Ludovic",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_97",
+      "no": "25",
+      "nom": "Burgot",
+      "prenom": "Chlo�",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_98",
+      "no": "29",
+      "nom": "Calmes",
+      "prenom": "C�line",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_99",
+      "no": "8",
+      "nom": "Cataldi",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_100",
+      "no": "18",
+      "nom": "Droupy",
+      "prenom": "Olivier",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_101",
+      "no": "39",
+      "nom": "Gomes",
+      "prenom": "Gil",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_102",
+      "no": "17",
+      "nom": "Hoch",
+      "prenom": "G�raldine",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_103",
+      "no": "16",
+      "nom": "Hoose",
+      "prenom": "Jenny",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_104",
+      "no": "5",
+      "nom": "Langendorf",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_105",
+      "no": "95",
+      "nom": "Mahmutovic",
+      "prenom": "Nikola",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_106",
+      "no": "4",
+      "nom": "Marcon",
+      "prenom": "Nadia",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_107",
+      "no": "78",
+      "nom": "Marie",
+      "prenom": "Andr�",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_108",
+      "no": "35",
+      "nom": "Mary",
+      "prenom": "Jo�lle",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_109",
+      "no": "79",
+      "nom": "Mercan",
+      "prenom": "S�lim",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_110",
+      "no": "1",
+      "nom": "Metreau",
+      "prenom": "Sylviane",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_111",
+      "no": "82",
+      "nom": "Pfamatter",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_112",
+      "no": "23",
+      "nom": "Rastoldo",
+      "prenom": "Jacques-Alain",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_113",
+      "no": "86",
+      "nom": "Ruaz",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_114",
+      "no": "13",
+      "nom": "Ruegsegger",
+      "prenom": "Dani�le",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_115",
+      "no": "67",
+      "nom": "Schambacher",
+      "prenom": "Nathalie",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_116",
+      "no": "10",
+      "nom": "Schneegans",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_117",
+      "no": "15",
+      "nom": "Siegler",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_118",
+      "no": "87",
+      "nom": "Telidjane",
+      "prenom": "Th�o",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_119",
+      "no": "88",
+      "nom": "Uebersax",
+      "prenom": "Florence",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "manor_120",
+      "no": "9",
+      "nom": "Vuillerat",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    }
+  ]
+}

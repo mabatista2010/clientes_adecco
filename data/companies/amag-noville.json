@@ -1,0 +1,118 @@
+{
+  "id": "amag-noville",
+  "name": "Amag Noville",
+  "clients": [
+    {
+      "id": "amag-noville_0",
+      "no": "7",
+      "nom": "Abuin",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_1",
+      "no": "10",
+      "nom": "Affanato",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_2",
+      "no": "18",
+      "nom": "Claret",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_3",
+      "no": "15",
+      "nom": "Corpataux",
+      "prenom": "C�dric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_4",
+      "no": "1",
+      "nom": "D'Antino",
+      "prenom": "Antonio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_5",
+      "no": "2",
+      "nom": "Delavy",
+      "prenom": "Lolita",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_6",
+      "no": "8",
+      "nom": "Di Tria",
+      "prenom": "Franco",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_7",
+      "no": "16",
+      "nom": "Ekwa",
+      "prenom": "Ornella",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_8",
+      "no": "6",
+      "nom": "Favre",
+      "prenom": "Nicolas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_9",
+      "no": "11",
+      "nom": "Fernandes",
+      "prenom": "Filipe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_10",
+      "no": "9",
+      "nom": "Fonseca",
+      "prenom": "Bryan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_11",
+      "no": "14",
+      "nom": "Gavillet",
+      "prenom": "J�r�me",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_12",
+      "no": "12",
+      "nom": "Joseph",
+      "prenom": "Sonia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_13",
+      "no": "17",
+      "nom": "Monard",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_14",
+      "no": "5",
+      "nom": "Nafzger",
+      "prenom": "Anissa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-noville_15",
+      "no": "13",
+      "nom": "Rapin",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    }
+  ]
+}

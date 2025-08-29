@@ -1,0 +1,139 @@
+{
+  "id": "avosano-ag-puidoux",
+  "name": "Avosano AG, Puidoux",
+  "clients": [
+    {
+      "id": "avosano-ag-puidoux_0",
+      "no": "23",
+      "nom": "Cistemino",
+      "prenom": "Giuseppe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_1",
+      "no": "20",
+      "nom": "Forster",
+      "prenom": "Mathieu",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_2",
+      "no": "9",
+      "nom": "Giordano",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_3",
+      "no": "13",
+      "nom": "Kl�figer",
+      "prenom": "Sylvia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_4",
+      "no": "21",
+      "nom": "Morier",
+      "prenom": "Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_5",
+      "no": "22",
+      "nom": "Nogueira",
+      "prenom": "Joel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_6",
+      "no": "12",
+      "nom": "Ritz",
+      "prenom": "Christelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "avosano-ag-puidoux_7",
+      "no": "3",
+      "nom": "Amos",
+      "prenom": "Josette",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_8",
+      "no": "7",
+      "nom": "Badan",
+      "prenom": "Mich�le",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_9",
+      "no": "10",
+      "nom": "Blin",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_10",
+      "no": "1",
+      "nom": "Br�nnimann",
+      "prenom": "Robert",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_11",
+      "no": "8",
+      "nom": "Mudry",
+      "prenom": "Pierre",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_12",
+      "no": "18",
+      "nom": "Paltzer",
+      "prenom": "Marc",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_13",
+      "no": "2",
+      "nom": "Pichon",
+      "prenom": "Laurence",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_14",
+      "no": "16",
+      "nom": "Pizza",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_15",
+      "no": "19",
+      "nom": "POEHN",
+      "prenom": "Michele",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_16",
+      "no": "6",
+      "nom": "Poehn",
+      "prenom": "Mich�le",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_17",
+      "no": "5",
+      "nom": "Voumard",
+      "prenom": "Nicole",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "avosano-ag-puidoux_18",
+      "no": "17",
+      "nom": "Zweifel",
+      "prenom": "Edith",
+      "actif": "0 - Non"
+    }
+  ]
+}

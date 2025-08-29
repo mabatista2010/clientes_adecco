@@ -1,0 +1,27 @@
+{
+  "id": "amag-st-l-gier",
+  "name": "Amag St L‚gier",
+  "clients": [
+    {
+      "id": "amag-st-l-gier_0",
+      "no": "4",
+      "nom": "Aeberhard",
+      "prenom": "Pascal",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-st-l-gier_1",
+      "no": "6",
+      "nom": "Cressac",
+      "prenom": "Pierre-Henri",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-st-l-gier_2",
+      "no": "5",
+      "nom": "Sturbaut",
+      "prenom": "J�r�me",
+      "actif": "1 - Oui"
+    }
+  ]
+}

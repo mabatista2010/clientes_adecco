@@ -1,0 +1,13 @@
+{
+  "id": "commune-de-remaufens-remaufens",
+  "name": "Commune de Remaufens, Remaufens",
+  "clients": [
+    {
+      "id": "commune-de-remaufens-remaufens_0",
+      "no": "1",
+      "nom": "Piccand",
+      "prenom": "Aline",
+      "actif": "1 - Oui"
+    }
+  ]
+}

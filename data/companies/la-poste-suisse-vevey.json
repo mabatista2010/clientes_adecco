@@ -1,0 +1,69 @@
+{
+  "id": "la-poste-suisse-vevey",
+  "name": "La Poste Suisse, Vevey",
+  "clients": [
+    {
+      "id": "la-poste-suisse-vevey_0",
+      "no": "14",
+      "nom": "Bardet",
+      "prenom": "Jean-Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_1",
+      "no": "13",
+      "nom": "Bento Rodrigues",
+      "prenom": "Catarina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_2",
+      "no": "8",
+      "nom": "Binggeli",
+      "prenom": "Didier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_3",
+      "no": "17",
+      "nom": "Blint",
+      "prenom": "Alexandre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_4",
+      "no": "12",
+      "nom": "Fellay",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_5",
+      "no": "11",
+      "nom": "Gon�alves Domingues",
+      "prenom": "Anabela",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_6",
+      "no": "18",
+      "nom": "Knoepfel",
+      "prenom": "Yvonne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_7",
+      "no": "16",
+      "nom": "Lambiel",
+      "prenom": "Nolan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "la-poste-suisse-vevey_8",
+      "no": "15",
+      "nom": "Rieille",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    }
+  ]
+}

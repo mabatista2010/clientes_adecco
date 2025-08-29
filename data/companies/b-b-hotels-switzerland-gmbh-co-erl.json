@@ -1,0 +1,1728 @@
+{
+  "id": "b-b-hotels-switzerland-gmbh-co-erl",
+  "name": "B&B Hotels Switzerland GmbH co Erl",
+  "clients": [
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_0",
+      "no": "",
+      "nom": "rcial Manor Chavannes",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_1",
+      "no": "",
+      "nom": "Etoy)",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_2",
+      "no": "",
+      "nom": "Frankfurt/Main, Zweigniederlassung",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_3",
+      "no": "",
+      "nom": "Silvia GmbH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_4",
+      "no": "",
+      "nom": "Construction",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_5",
+      "no": "",
+      "nom": "re",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_6",
+      "no": "",
+      "nom": "technik",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_7",
+      "no": "",
+      "nom": "liquidation",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_8",
+      "no": "",
+      "nom": "G",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_9",
+      "no": "",
+      "nom": "c/o Giuseppe Alfieri",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_10",
+      "no": "",
+      "nom": "�nb�hl",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_11",
+      "no": "",
+      "nom": "n",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_12",
+      "no": "",
+      "nom": "Bauunternehmung",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_13",
+      "no": "",
+      "nom": "chweiz AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_14",
+      "no": "",
+      "nom": "nd) SA",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_15",
+      "no": "",
+      "nom": "PMA Cable Protection",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_16",
+      "no": "",
+      "nom": "Niederspannungsprodukte",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_17",
+      "no": "",
+      "nom": "Vertrieb Energietechnik",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_18",
+      "no": "",
+      "nom": "Office",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_19",
+      "no": "",
+      "nom": "c/o ABB Schweiz AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_20",
+      "no": "",
+      "nom": "Schaltanlagebau",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_21",
+      "no": "",
+      "nom": "CMS Moudon",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_22",
+      "no": "",
+      "nom": "ollex-Bossy",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_23",
+      "no": "",
+      "nom": "Installations sanitaires",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_24",
+      "no": "",
+      "nom": "Novotel Lausanne Bussigny",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_25",
+      "no": "",
+      "nom": "anutenz. giardini",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_26",
+      "no": "",
+      "nom": "lations �lectriques",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_27",
+      "no": "",
+      "nom": "Constructions m�talliques",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_28",
+      "no": "",
+      "nom": "DEMECO AUX DEMENAGEURS BORDELAIS",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_29",
+      "no": "",
+      "nom": "c/o �Caf�-restaurant Le Lyrique�",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_30",
+      "no": "",
+      "nom": "Administration",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_31",
+      "no": "",
+      "nom": "Mme Sonja Fehr",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_32",
+      "no": "",
+      "nom": "de Rolle",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_33",
+      "no": "",
+      "nom": "Chardonne",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_34",
+      "no": "",
+      "nom": "Service des Ressources Humaines",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_35",
+      "no": "",
+      "nom": "Electricit� et T�l�phonie",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_36",
+      "no": "",
+      "nom": "Electricit� et T�l�phonie",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_37",
+      "no": "",
+      "nom": "Soci�t� AMC",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_38",
+      "no": "",
+      "nom": "Gipsergesch�ft",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_39",
+      "no": "",
+      "nom": "ale de Gen�ve",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_40",
+      "no": "",
+      "nom": "phone",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_41",
+      "no": "",
+      "nom": "U",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_42",
+      "no": "",
+      "nom": "x",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_43",
+      "no": "",
+      "nom": "Impresa costruzioni",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_44",
+      "no": "",
+      "nom": "�mpfung GmbH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_45",
+      "no": "",
+      "nom": "Vetreria Citraro",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_46",
+      "no": "",
+      "nom": "Menuiserie PVC",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_47",
+      "no": "",
+      "nom": "l",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_48",
+      "no": "",
+      "nom": "Bonne B1",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_49",
+      "no": "",
+      "nom": "(ABZ)",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_50",
+      "no": "",
+      "nom": "Gesch�ftsstelle Spitex Bantiger",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_51",
+      "no": "",
+      "nom": "ujo Fernandes Benjamin",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_52",
+      "no": "",
+      "nom": "jo Fernandes Benjamin & Cie SNC",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_53",
+      "no": "",
+      "nom": "EMS Parc de Valency",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_54",
+      "no": "",
+      "nom": "EPSM Les Tilleuls",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_55",
+      "no": "",
+      "nom": "EPSM Sans Souci",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_56",
+      "no": "",
+      "nom": "Pension La Traverse",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_57",
+      "no": "",
+      "nom": "EPSM La Sylvabelle",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_58",
+      "no": "",
+      "nom": "EPSM Praz-S�chaud 2",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_59",
+      "no": "",
+      "nom": "EMS la Chocolati�re",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_60",
+      "no": "",
+      "nom": "Headquarter",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_61",
+      "no": "",
+      "nom": "EPSM La Rochelle",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_62",
+      "no": "",
+      "nom": "teres Gremm",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_63",
+      "no": "",
+      "nom": "Region Oberes Wiggertal",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_64",
+      "no": "",
+      "nom": ")",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_65",
+      "no": "",
+      "nom": "gg",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_66",
+      "no": "",
+      "nom": "abkern",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_67",
+      "no": "",
+      "nom": "u",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_68",
+      "no": "",
+      "nom": "Haus im Park",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_69",
+      "no": "",
+      "nom": "G",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_70",
+      "no": "",
+      "nom": "Pfauen",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_71",
+      "no": "",
+      "nom": "Schwendli",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_72",
+      "no": "",
+      "nom": "H",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_73",
+      "no": "",
+      "nom": "am Rotbach",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_74",
+      "no": "",
+      "nom": "und Oberwil-Dreilinden",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_75",
+      "no": "",
+      "nom": "aus Lindenh�gel",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_76",
+      "no": "",
+      "nom": "IMWIL",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_77",
+      "no": "",
+      "nom": "ben im Alter",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_78",
+      "no": "",
+      "nom": "nde Gelterkinden",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_79",
+      "no": "",
+      "nom": "es",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_80",
+      "no": "",
+      "nom": "Alterswohnen Glockenthal",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_81",
+      "no": "",
+      "nom": "Am Buechberg AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_82",
+      "no": "",
+      "nom": "M�hlefeld",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_83",
+      "no": "",
+      "nom": "Zimmerei",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_84",
+      "no": "",
+      "nom": "ns Center Silhbrugg",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_85",
+      "no": "",
+      "nom": "Buchrain",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_86",
+      "no": "",
+      "nom": "VW Nutzfahrzeuge Center Schlieren",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_87",
+      "no": "",
+      "nom": "Wettswil",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_88",
+      "no": "",
+      "nom": "elt D�bendorf",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_89",
+      "no": "",
+      "nom": "n",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_90",
+      "no": "",
+      "nom": "Jona",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_91",
+      "no": "",
+      "nom": "eren",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_92",
+      "no": "",
+      "nom": "Uster",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_93",
+      "no": "",
+      "nom": "tswil",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_94",
+      "no": "",
+      "nom": "rthur",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_95",
+      "no": "",
+      "nom": "ces Humaines",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_96",
+      "no": "",
+      "nom": "Centre Occasions",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_97",
+      "no": "",
+      "nom": "Porsche Zentrum Schlieren",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_98",
+      "no": "",
+      "nom": "feld",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_99",
+      "no": "",
+      "nom": "rthur",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_100",
+      "no": "",
+      "nom": "h",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_101",
+      "no": "",
+      "nom": "Europcar",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_102",
+      "no": "",
+      "nom": "Europcar",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_103",
+      "no": "",
+      "nom": "in Liquidation",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_104",
+      "no": "",
+      "nom": "bH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_105",
+      "no": "",
+      "nom": "mbH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_106",
+      "no": "",
+      "nom": "mbourg, Zweigniederlassung Z�rich",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_107",
+      "no": "",
+      "nom": "t� S�rl",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_108",
+      "no": "",
+      "nom": "le C/o Franceschini Elisabetta",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_109",
+      "no": "",
+      "nom": "rcen",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_110",
+      "no": "",
+      "nom": "lzugsanstalt Witzwil",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_111",
+      "no": "",
+      "nom": "Verwaltung Z�rich",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_112",
+      "no": "",
+      "nom": "tement Volkswirtschaft & Inner",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_113",
+      "no": "",
+      "nom": "pente",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_114",
+      "no": "",
+      "nom": "Ofen & Kaminbau GmbH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_115",
+      "no": "",
+      "nom": "Dr. med.",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_116",
+      "no": "",
+      "nom": "et Machines SA",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_117",
+      "no": "",
+      "nom": "PVC",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_118",
+      "no": "",
+      "nom": "Administation",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_119",
+      "no": "",
+      "nom": "c/o Hausarztpraxis Gehrig",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_120",
+      "no": "",
+      "nom": "n",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_121",
+      "no": "",
+      "nom": "AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_122",
+      "no": "",
+      "nom": "Restaurant Al Belvedere",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_123",
+      "no": "",
+      "nom": "igung",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_124",
+      "no": "",
+      "nom": "e SA",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_125",
+      "no": "",
+      "nom": "Restaurant Riedbach",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_126",
+      "no": "",
+      "nom": "uisse) SA",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_127",
+      "no": "",
+      "nom": "Facility Management",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_128",
+      "no": "",
+      "nom": "Facility Managment",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_129",
+      "no": "",
+      "nom": "c/o BASF Schweiz AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_130",
+      "no": "",
+      "nom": "o-home",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_131",
+      "no": "",
+      "nom": "ro-home",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_132",
+      "no": "",
+      "nom": "ust.",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_133",
+      "no": "",
+      "nom": "CMS Ecublens",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_134",
+      "no": "",
+      "nom": "CMS Renens-Sud",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_135",
+      "no": "",
+      "nom": "CMS Cully-Lavaux",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_136",
+      "no": "",
+      "nom": "CMS Epalinges",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_137",
+      "no": "",
+      "nom": "CMS Le Mont",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_138",
+      "no": "",
+      "nom": "CMS Oron",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_139",
+      "no": "",
+      "nom": "CMS Prilly Sud",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_140",
+      "no": "",
+      "nom": "CMS Pully",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_141",
+      "no": "",
+      "nom": "CMS READOM",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_142",
+      "no": "",
+      "nom": "CMS Prilly Nord",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_143",
+      "no": "",
+      "nom": "Equipe d'appoint",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_144",
+      "no": "",
+      "nom": "Sanitaire",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_145",
+      "no": "",
+      "nom": "the Art of Irrigation",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_146",
+      "no": "",
+      "nom": "werb",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_147",
+      "no": "",
+      "nom": "G",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_148",
+      "no": "",
+      "nom": "Bauunternehmung",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_149",
+      "no": "",
+      "nom": "c/o Lazzarini AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_150",
+      "no": "",
+      "nom": "egel+Schaffner AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_151",
+      "no": "",
+      "nom": "ik",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_152",
+      "no": "",
+      "nom": "c/o Lazzarini AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_153",
+      "no": "",
+      "nom": "gen AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_154",
+      "no": "",
+      "nom": "Isidro Nunez S�rl",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_155",
+      "no": "",
+      "nom": "Energie & Telecom",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_156",
+      "no": "",
+      "nom": "e-Peinture",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_157",
+      "no": "",
+      "nom": "Mazda Vertretung Eiken",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_158",
+      "no": "",
+      "nom": "c/o B Team",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_159",
+      "no": "",
+      "nom": "GmbH",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_160",
+      "no": "",
+      "nom": "mbH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_161",
+      "no": "",
+      "nom": "Asana Gruppe AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_162",
+      "no": "",
+      "nom": "CMS La Tour-de-Peilz",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_163",
+      "no": "",
+      "nom": "CMS Montreux",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_164",
+      "no": "",
+      "nom": "CMS Vevey Ouest",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_165",
+      "no": "",
+      "nom": "CMS Vevey-Est",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_166",
+      "no": "",
+      "nom": "CMS Rennaz",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_167",
+      "no": "",
+      "nom": "S�rl",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_168",
+      "no": "",
+      "nom": "assung Zug",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_169",
+      "no": "",
+      "nom": "CMS Orbe",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_170",
+      "no": "",
+      "nom": "CMS Cossonay",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_171",
+      "no": "",
+      "nom": "CMS Grandson",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_172",
+      "no": "",
+      "nom": "CMS Sainte-Croix",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_173",
+      "no": "",
+      "nom": "CMS Vallorbe",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_174",
+      "no": "",
+      "nom": "CMS Yverdon",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_175",
+      "no": "",
+      "nom": "CMS La Vall�e",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_176",
+      "no": "",
+      "nom": "CMS Yvonand",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_177",
+      "no": "",
+      "nom": "Equipe d�appoint POOL",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_178",
+      "no": "",
+      "nom": "onneurs",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_179",
+      "no": "",
+      "nom": "d�urgences du Nord vaudois et de l",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_180",
+      "no": "",
+      "nom": "Ch�taigniers'",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_181",
+      "no": "",
+      "nom": "Ch�taigniers",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_182",
+      "no": "",
+      "nom": "RS DU MONDE",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_183",
+      "no": "",
+      "nom": "pour les services r�gionaux",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_184",
+      "no": "",
+      "nom": "e Commercial de Balexert (ALCCB)",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_185",
+      "no": "",
+      "nom": "es Cit�-Rive",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_186",
+      "no": "",
+      "nom": "Nanchen-Mathieu Electricit� SA",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_187",
+      "no": "",
+      "nom": "touch�es par la toxicomanie",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_188",
+      "no": "",
+      "nom": "de Samaritains",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_189",
+      "no": "",
+      "nom": "Institut International de Lancy",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_190",
+      "no": "",
+      "nom": "Scolaire de Genolier et Environs",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_191",
+      "no": "",
+      "nom": "Ecole",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_192",
+      "no": "",
+      "nom": "de Moudon - Lucens et Environs",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_193",
+      "no": "",
+      "nom": "20",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_194",
+      "no": "",
+      "nom": "n",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_195",
+      "no": "",
+      "nom": "f�e",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_196",
+      "no": "",
+      "nom": "du Cercle de Corsier (ASICC)",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_197",
+      "no": "",
+      "nom": "oins � domicile",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_198",
+      "no": "",
+      "nom": "APEC) SA",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_199",
+      "no": "",
+      "nom": "ung",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_200",
+      "no": "",
+      "nom": "te",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_201",
+      "no": "",
+      "nom": "Bildung und Arbeitsintegration",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_202",
+      "no": "",
+      "nom": "seur",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_203",
+      "no": "",
+      "nom": "T�lerie Industrielle",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_204",
+      "no": "",
+      "nom": "Yverdon-les-Bains",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_205",
+      "no": "",
+      "nom": "e Zurich",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_206",
+      "no": "",
+      "nom": "dukte",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_207",
+      "no": "",
+      "nom": "Produktionsbetrieb",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_208",
+      "no": "",
+      "nom": "die",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_209",
+      "no": "",
+      "nom": "�rl",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_210",
+      "no": "",
+      "nom": "Juget SARL",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_211",
+      "no": "",
+      "nom": "igro",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_212",
+      "no": "",
+      "nom": "card & Julien Brocar",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_213",
+      "no": "",
+      "nom": "Dr. Andrea Jehn",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_214",
+      "no": "",
+      "nom": "vo",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_215",
+      "no": "",
+      "nom": "s",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_216",
+      "no": "",
+      "nom": "Gen�ve A�roport",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_217",
+      "no": "",
+      "nom": "Automeyrin",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_218",
+      "no": "",
+      "nom": "ino",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_219",
+      "no": "",
+      "nom": "ation SA",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_220",
+      "no": "",
+      "nom": "AVAG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_221",
+      "no": "",
+      "nom": "derlassung Biel/Bienne",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_222",
+      "no": "",
+      "nom": "ion",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_223",
+      "no": "",
+      "nom": "Industrie West",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_224",
+      "no": "",
+      "nom": "Kastanienbaum",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_225",
+      "no": "",
+      "nom": "Restaurant Sagibeiz",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_226",
+      "no": "",
+      "nom": "A",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_227",
+      "no": "",
+      "nom": "ontagen GmbH",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_228",
+      "no": "",
+      "nom": "e",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_229",
+      "no": "",
+      "nom": "n",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_230",
+      "no": "",
+      "nom": "t�tte Kranbau",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_231",
+      "no": "",
+      "nom": "Electricit�-t�l�phone",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_232",
+      "no": "",
+      "nom": "R�ber AG, K�ssnacht am Rigi",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_233",
+      "no": "",
+      "nom": "Gypserie - peinture",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_234",
+      "no": "",
+      "nom": "n�rale",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_235",
+      "no": "",
+      "nom": "s de sols",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_236",
+      "no": "",
+      "nom": "G",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_237",
+      "no": "",
+      "nom": "succursale de Gen�ve",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_238",
+      "no": "",
+      "nom": "coop�rative",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_239",
+      "no": "",
+      "nom": "oye- Jorat soci�t� coop�rative",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_240",
+      "no": "",
+      "nom": "Charpente SA",
+      "prenom": "",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_241",
+      "no": "",
+      "nom": "cit�",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_242",
+      "no": "",
+      "nom": "AG",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_243",
+      "no": "",
+      "nom": "Impresa di Pittura",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_244",
+      "no": "",
+      "nom": "assi Tiziana",
+      "prenom": "",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "b-b-hotels-switzerland-gmbh-co-erl_245",
+      "no": "",
+      "nom": "ra",
+      "prenom": "",
+      "actif": "0 - Non"
+    }
+  ]
+}

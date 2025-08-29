@@ -1,0 +1,293 @@
+{
+  "id": "assura-pully",
+  "name": "Assura Pully",
+  "clients": [
+    {
+      "id": "assura-pully_0",
+      "no": "37",
+      "nom": "Aiache",
+      "prenom": "Vincent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_1",
+      "no": "27",
+      "nom": "B�che",
+      "prenom": "M�lanie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_2",
+      "no": "53",
+      "nom": "BESSEAU",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_3",
+      "no": "11",
+      "nom": "Bonanno",
+      "prenom": "Estelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_4",
+      "no": "32",
+      "nom": "Chevalley Rutz",
+      "prenom": "Sophie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_5",
+      "no": "17",
+      "nom": "Dania",
+      "prenom": "Zamofing",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_6",
+      "no": "52",
+      "nom": "Das Neves",
+      "prenom": "Joana",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_7",
+      "no": "18",
+      "nom": "De Carli",
+      "prenom": "Stella",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_8",
+      "no": "33",
+      "nom": "D�sir",
+      "prenom": "Thomas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_9",
+      "no": "39",
+      "nom": "Dransart",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_10",
+      "no": "12",
+      "nom": "Duchaud",
+      "prenom": "Roland",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_11",
+      "no": "45",
+      "nom": "Dumartheray",
+      "prenom": "Jonas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_12",
+      "no": "20",
+      "nom": "Fierloni",
+      "prenom": "Fabio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_13",
+      "no": "36",
+      "nom": "Fragni�re",
+      "prenom": "Francois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_14",
+      "no": "34",
+      "nom": "Glohr",
+      "prenom": "D�borah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_15",
+      "no": "48",
+      "nom": "Gonzalez",
+      "prenom": "Juan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_16",
+      "no": "46",
+      "nom": "Jouve",
+      "prenom": "Vincent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_17",
+      "no": "26",
+      "nom": "Kesmedjian",
+      "prenom": "Julie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_18",
+      "no": "25",
+      "nom": "Magnin",
+      "prenom": "Virginie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_19",
+      "no": "38",
+      "nom": "Mallez",
+      "prenom": "Amaury",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_20",
+      "no": "13",
+      "nom": "Mercury",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_21",
+      "no": "41",
+      "nom": "Metzener",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_22",
+      "no": "35",
+      "nom": "Mikail",
+      "prenom": "Asatekin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_23",
+      "no": "47",
+      "nom": "Morassin",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_24",
+      "no": "19",
+      "nom": "Muheim",
+      "prenom": "Florent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_25",
+      "no": "42",
+      "nom": "Paolini",
+      "prenom": "Julia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_26",
+      "no": "24",
+      "nom": "Perrone",
+      "prenom": "Sarah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_27",
+      "no": "49",
+      "nom": "Picard",
+      "prenom": "Sebastien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_28",
+      "no": "21",
+      "nom": "Pizzolon",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_29",
+      "no": "23",
+      "nom": "Prince",
+      "prenom": "Micka�l",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_30",
+      "no": "22",
+      "nom": "Quante",
+      "prenom": "Rasmus",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_31",
+      "no": "43",
+      "nom": "ROBIN",
+      "prenom": "Sebastien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_32",
+      "no": "14",
+      "nom": "Rochat",
+      "prenom": "Aline",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_33",
+      "no": "15",
+      "nom": "Rossini",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_34",
+      "no": "50",
+      "nom": "Schaffhauser",
+      "prenom": "Pascal",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_35",
+      "no": "16",
+      "nom": "Thedens",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_36",
+      "no": "40",
+      "nom": "Vignon",
+      "prenom": "Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_37",
+      "no": "29",
+      "nom": "Wihlborg",
+      "prenom": "S",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_38",
+      "no": "30",
+      "nom": "Wihlborg",
+      "prenom": "Sandra",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_39",
+      "no": "31",
+      "nom": "Yves",
+      "prenom": "Turin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "assura-pully_40",
+      "no": "51",
+      "nom": "Zamofing",
+      "prenom": "Dania",
+      "actif": "1 - Oui"
+    }
+  ]
+}

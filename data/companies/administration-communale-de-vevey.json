@@ -1,0 +1,356 @@
+{
+  "id": "administration-communale-de-vevey",
+  "name": "Administration communale de Vevey",
+  "clients": [
+    {
+      "id": "administration-communale-de-vevey_0",
+      "no": "5",
+      "nom": "Altermath",
+      "prenom": "Gilles .",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_1",
+      "no": "18",
+      "nom": "Ammos",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_2",
+      "no": "38",
+      "nom": "Bacher",
+      "prenom": "Pascale",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_3",
+      "no": "26",
+      "nom": "B�nninger",
+      "prenom": "Roger",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_4",
+      "no": "27",
+      "nom": "Baillif",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_5",
+      "no": "7",
+      "nom": "Bays",
+      "prenom": "A.",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_6",
+      "no": "62",
+      "nom": "Boulenaz",
+      "prenom": "Stephane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_7",
+      "no": "40",
+      "nom": "Cainne",
+      "prenom": "Julien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_8",
+      "no": "36",
+      "nom": "Cambes",
+      "prenom": "Maria",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_9",
+      "no": "33",
+      "nom": "Catherine",
+      "prenom": "Th�raulaz",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_10",
+      "no": "67",
+      "nom": "Chaudet",
+      "prenom": "Isabelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_11",
+      "no": "23",
+      "nom": "Conne",
+      "prenom": "Genevi�ve",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_12",
+      "no": "54",
+      "nom": "Cruz Goncalves",
+      "prenom": "Nadia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_13",
+      "no": "42",
+      "nom": "Da Costa",
+      "prenom": "Sergio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_14",
+      "no": "51",
+      "nom": "Daellenbach",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_15",
+      "no": "34",
+      "nom": "Davet",
+      "prenom": "Eric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_16",
+      "no": "47",
+      "nom": "Delessert",
+      "prenom": "Raphael",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_17",
+      "no": "57",
+      "nom": "Deppen",
+      "prenom": "V�ronique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_18",
+      "no": "56",
+      "nom": "Deschenaux",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_19",
+      "no": "31",
+      "nom": "Dubuis",
+      "prenom": "Nicole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_20",
+      "no": "6",
+      "nom": "Dupuis",
+      "prenom": "A.",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_21",
+      "no": "35",
+      "nom": "Fave",
+      "prenom": "Jean-Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_22",
+      "no": "60",
+      "nom": "Fawer",
+      "prenom": "Manon",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_23",
+      "no": "55",
+      "nom": "Fellay",
+      "prenom": "Marie-Christine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_24",
+      "no": "8",
+      "nom": "Francey",
+      "prenom": "Cap. M.",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_25",
+      "no": "61",
+      "nom": "Frossard",
+      "prenom": "Damien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_26",
+      "no": "50",
+      "nom": "Garanis",
+      "prenom": "Georges",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_27",
+      "no": "64",
+      "nom": "Gisi",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_28",
+      "no": "14",
+      "nom": "Grandjean",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_29",
+      "no": "48",
+      "nom": "Labaste",
+      "prenom": "Catherine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_30",
+      "no": "37",
+      "nom": "Lehrian",
+      "prenom": "Claude",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_31",
+      "no": "28",
+      "nom": "Martin",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_32",
+      "no": "30",
+      "nom": "Martin",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_33",
+      "no": "12",
+      "nom": "Mermoud",
+      "prenom": "Isabelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_34",
+      "no": "66",
+      "nom": "MIFTARI",
+      "prenom": "Vjosa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_35",
+      "no": "20",
+      "nom": "Murisier",
+      "prenom": "Nathalie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_36",
+      "no": "63",
+      "nom": "Pilet",
+      "prenom": "Esther",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_37",
+      "no": "22",
+      "nom": "Pilloud Latorre",
+      "prenom": "Corinne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_38",
+      "no": "32",
+      "nom": "Piquilloud",
+      "prenom": "St�phane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_39",
+      "no": "43",
+      "nom": "Pittet",
+      "prenom": "Murielle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_40",
+      "no": "52",
+      "nom": "Ruch",
+      "prenom": "Olivia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_41",
+      "no": "44",
+      "nom": "Schnell",
+      "prenom": "Patricia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_42",
+      "no": "25",
+      "nom": "Smets",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_43",
+      "no": "46",
+      "nom": "Tangerini",
+      "prenom": "Alexandre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_44",
+      "no": "41",
+      "nom": "Tocados",
+      "prenom": "Diana",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_45",
+      "no": "49",
+      "nom": "Torest",
+      "prenom": "Rudy",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_46",
+      "no": "21",
+      "nom": "Vanlangendonck",
+      "prenom": "Laurence",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_47",
+      "no": "58",
+      "nom": "Vasserot",
+      "prenom": "Christyl",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_48",
+      "no": "59",
+      "nom": "Zhang",
+      "prenom": "Tetyana",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-de-vevey_49",
+      "no": "53",
+      "nom": "Zufferey",
+      "prenom": "St�phanie",
+      "actif": "1 - Oui"
+    }
+  ]
+}

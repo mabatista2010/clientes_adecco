@@ -1,0 +1,34 @@
+{
+  "id": "planzer-transport-ag-venoge-parc-penthalaz",
+  "name": "Planzer Transport AG, Venoge Parc, Penthalaz",
+  "clients": [
+    {
+      "id": "planzer-transport-ag-venoge-parc-penthalaz_0",
+      "no": "1",
+      "nom": "Bannwart",
+      "prenom": "Jacques",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "planzer-transport-ag-venoge-parc-penthalaz_1",
+      "no": "2",
+      "nom": "Colicchio",
+      "prenom": "Dominique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "planzer-transport-ag-venoge-parc-penthalaz_2",
+      "no": "3",
+      "nom": "Tallon",
+      "prenom": "Marie-H�l�ne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "planzer-transport-ag-venoge-parc-penthalaz_3",
+      "no": "4",
+      "nom": "Ziliotto",
+      "prenom": "Mario Domingos",
+      "actif": "1 - Oui"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "leguriviera",
+  "name": "Leguriviera",
+  "clients": [
+    {
+      "id": "leguriviera_0",
+      "no": "1",
+      "nom": "Avert",
+      "prenom": "Cedric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_1",
+      "no": "4",
+      "nom": "Berruex",
+      "prenom": "Luc",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_2",
+      "no": "9",
+      "nom": "Couturier",
+      "prenom": "Sandrine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_3",
+      "no": "3",
+      "nom": "Dellenbach",
+      "prenom": "Cyrille",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_4",
+      "no": "6",
+      "nom": "Di Meo",
+      "prenom": "Manuela",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_5",
+      "no": "8",
+      "nom": "Glarner",
+      "prenom": "Fr�deric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_6",
+      "no": "7",
+      "nom": "Gonzalez",
+      "prenom": "Francis",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_7",
+      "no": "2",
+      "nom": "Rost",
+      "prenom": "Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "leguriviera_8",
+      "no": "5",
+      "nom": "Tinguely",
+      "prenom": "Jean-Daniel",
+      "actif": "1 - Oui"
+    }
+  ]
+}

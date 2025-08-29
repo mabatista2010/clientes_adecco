@@ -1,0 +1,279 @@
+{
+  "id": "ville-de-lausanne",
+  "name": "Ville de Lausanne",
+  "clients": [
+    {
+      "id": "ville-de-lausanne_0",
+      "no": "27",
+      "nom": "Allet",
+      "prenom": "Jean-Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_1",
+      "no": "11",
+      "nom": "Alvarez",
+      "prenom": "Ricardo",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_2",
+      "no": "25",
+      "nom": "Andreoli",
+      "prenom": "Valentina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_3",
+      "no": "26",
+      "nom": "Bettens",
+      "prenom": "Lorraine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_4",
+      "no": "35",
+      "nom": "Bridal",
+      "prenom": "Elsa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_5",
+      "no": "21",
+      "nom": "Bruelisauer",
+      "prenom": "Patrik",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_6",
+      "no": "30",
+      "nom": "Champreneaud",
+      "prenom": "Nicolas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_7",
+      "no": "24",
+      "nom": "Chavent",
+      "prenom": "Tamara",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_8",
+      "no": "23",
+      "nom": "Cledelin",
+      "prenom": "Virginie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_9",
+      "no": "32",
+      "nom": "Cordoso",
+      "prenom": "Carla",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_10",
+      "no": "29",
+      "nom": "Da Silva",
+      "prenom": "Antony",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_11",
+      "no": "8",
+      "nom": "Dizdarevic",
+      "prenom": "Admir",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_12",
+      "no": "9",
+      "nom": "Dufey",
+      "prenom": "Alinda",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_13",
+      "no": "19",
+      "nom": "Foster",
+      "prenom": "Pamela",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_14",
+      "no": "22",
+      "nom": "Gasparini",
+      "prenom": "Mathieu",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_15",
+      "no": "36",
+      "nom": "Gerlich",
+      "prenom": "Claire",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_16",
+      "no": "6",
+      "nom": "Haller",
+      "prenom": "Nadine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_17",
+      "no": "38",
+      "nom": "Hoffer",
+      "prenom": "Xavier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_18",
+      "no": "4",
+      "nom": "Iseli",
+      "prenom": "Patrice",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_19",
+      "no": "33",
+      "nom": "Jorge Louren�o",
+      "prenom": "Sarah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_20",
+      "no": "13",
+      "nom": "Lachavanne",
+      "prenom": "Yves",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_21",
+      "no": "15",
+      "nom": "Lachavanne",
+      "prenom": "Yves",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_22",
+      "no": "44",
+      "nom": "Lefebvre",
+      "prenom": "Justine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_23",
+      "no": "20",
+      "nom": "Mayerat",
+      "prenom": "Lionel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_24",
+      "no": "10",
+      "nom": "Michel",
+      "prenom": "Diserens",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_25",
+      "no": "3",
+      "nom": "Morezzi",
+      "prenom": "Quentin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_26",
+      "no": "18",
+      "nom": "Puschiasis",
+      "prenom": "Sabrina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_27",
+      "no": "34",
+      "nom": "Roduit",
+      "prenom": "Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_28",
+      "no": "31",
+      "nom": "Ruef Bayiha",
+      "prenom": "Christine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_29",
+      "no": "37",
+      "nom": "Schaub",
+      "prenom": "Patrice",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_30",
+      "no": "7",
+      "nom": "Schlaeppy",
+      "prenom": "Jean-Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_31",
+      "no": "12",
+      "nom": "Stanimirovic",
+      "prenom": "Vesna",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_32",
+      "no": "41",
+      "nom": "Subilia",
+      "prenom": "Anne-Marie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_33",
+      "no": "42",
+      "nom": "SUBRAMANIAM",
+      "prenom": "Sinthuja",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_34",
+      "no": "5",
+      "nom": "Treyvaud",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_35",
+      "no": "43",
+      "nom": "Udry",
+      "prenom": "Val�rie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_36",
+      "no": "40",
+      "nom": "Vincent",
+      "prenom": "Na�nemoutou",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_37",
+      "no": "16",
+      "nom": "Vogel",
+      "prenom": "V�ronique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "ville-de-lausanne_38",
+      "no": "39",
+      "nom": "Yves",
+      "prenom": "Guignot",
+      "actif": "1 - Oui"
+    }
+  ]
+}

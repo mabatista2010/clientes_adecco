@@ -1,0 +1,83 @@
+{
+  "id": "amag-vevey",
+  "name": "Amag Vevey",
+  "clients": [
+    {
+      "id": "amag-vevey_0",
+      "no": "14",
+      "nom": "Campos",
+      "prenom": "Ruben",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_1",
+      "no": "4",
+      "nom": "Chouvaloff",
+      "prenom": "Patrizia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_2",
+      "no": "10",
+      "nom": "Gavillet",
+      "prenom": "J�r�me",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_3",
+      "no": "3",
+      "nom": "Laubscher",
+      "prenom": "Vanessa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_4",
+      "no": "11",
+      "nom": "Morf",
+      "prenom": "Matthieu",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_5",
+      "no": "12",
+      "nom": "Morf",
+      "prenom": "Matthias",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_6",
+      "no": "6",
+      "nom": "Nobs",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_7",
+      "no": "8",
+      "nom": "Parisod",
+      "prenom": "Michel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_8",
+      "no": "7",
+      "nom": "Pascal",
+      "prenom": "Aeberhard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_9",
+      "no": "13",
+      "nom": "Rossier",
+      "prenom": "Yohann",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "amag-vevey_10",
+      "no": "9",
+      "nom": "Sonia",
+      "prenom": "Joseph",
+      "actif": "1 - Oui"
+    }
+  ]
+}

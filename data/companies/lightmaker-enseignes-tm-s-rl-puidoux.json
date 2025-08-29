@@ -1,0 +1,34 @@
+{
+  "id": "lightmaker-enseignes-tm-s-rl-puidoux",
+  "name": "Lightmaker Enseignes TM S…rl, Puidoux",
+  "clients": [
+    {
+      "id": "lightmaker-enseignes-tm-s-rl-puidoux_0",
+      "no": "3",
+      "nom": "Bidoli",
+      "prenom": "Luca",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "lightmaker-enseignes-tm-s-rl-puidoux_1",
+      "no": "2",
+      "nom": "Caron",
+      "prenom": "Christine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "lightmaker-enseignes-tm-s-rl-puidoux_2",
+      "no": "4",
+      "nom": "Rambeaux",
+      "prenom": "F�lix",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "lightmaker-enseignes-tm-s-rl-puidoux_3",
+      "no": "1",
+      "nom": "Tamme",
+      "prenom": "Tambet",
+      "actif": "1 - Oui"
+    }
+  ]
+}

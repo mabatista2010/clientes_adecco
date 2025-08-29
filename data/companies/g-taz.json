@@ -1,0 +1,643 @@
+{
+  "id": "g-taz",
+  "name": "G‚taz",
+  "clients": [
+    {
+      "id": "g-taz_0",
+      "no": "33",
+      "nom": "Abbey",
+      "prenom": "Ronald",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_1",
+      "no": "82",
+      "nom": "Addor",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_2",
+      "no": "57",
+      "nom": "Alves Guerreiro",
+      "prenom": "Helder",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_3",
+      "no": "65",
+      "nom": "Andrade",
+      "prenom": "Vanessa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_4",
+      "no": "88",
+      "nom": "Antunes",
+      "prenom": "Florine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_5",
+      "no": "15",
+      "nom": "Antunes Nune",
+      "prenom": "Bruno",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_6",
+      "no": "28",
+      "nom": "Athaus",
+      "prenom": "Jean-Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_7",
+      "no": "85",
+      "nom": "Barbezat",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_8",
+      "no": "36",
+      "nom": "Bassi",
+      "prenom": "Eric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_9",
+      "no": "96",
+      "nom": "Behrisch",
+      "prenom": "Thierry",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_10",
+      "no": "78",
+      "nom": "Benitez",
+      "prenom": "Pablo",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_11",
+      "no": "31",
+      "nom": "Berthou",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_12",
+      "no": "29",
+      "nom": "Biselx",
+      "prenom": "Patrick",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_13",
+      "no": "54",
+      "nom": "Boegli",
+      "prenom": "Patrick",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_14",
+      "no": "41",
+      "nom": "Bortolotti",
+      "prenom": "Mirko",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_15",
+      "no": "10",
+      "nom": "Buchser",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_16",
+      "no": "34",
+      "nom": "Burlet",
+      "prenom": "Karina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_17",
+      "no": "68",
+      "nom": "Cachat",
+      "prenom": "S�bastien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_18",
+      "no": "61",
+      "nom": "Carvalho",
+      "prenom": "Micael",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_19",
+      "no": "47",
+      "nom": "CESAR",
+      "prenom": "Victor",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_20",
+      "no": "59",
+      "nom": "Clerc",
+      "prenom": "Emilie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_21",
+      "no": "76",
+      "nom": "Costa Da Silva",
+      "prenom": "Mickael",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_22",
+      "no": "73",
+      "nom": "Cotter",
+      "prenom": "Philippe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_23",
+      "no": "93",
+      "nom": "Da Col",
+      "prenom": "L�na",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_24",
+      "no": "74",
+      "nom": "Damico",
+      "prenom": "Mirko",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_25",
+      "no": "92",
+      "nom": "Davet",
+      "prenom": "Fernand",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_26",
+      "no": "17",
+      "nom": "Debons",
+      "prenom": "Annick",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_27",
+      "no": "24",
+      "nom": "Debons",
+      "prenom": "Annick",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_28",
+      "no": "35",
+      "nom": "Dumas",
+      "prenom": "Jacques",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_29",
+      "no": "43",
+      "nom": "Eichenberger",
+      "prenom": "Sylvain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_30",
+      "no": "62",
+      "nom": "Epiney",
+      "prenom": "Jean-Bernard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_31",
+      "no": "23",
+      "nom": "Esseiva",
+      "prenom": "Nicolas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_32",
+      "no": "27",
+      "nom": "Felicio",
+      "prenom": "Claudia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_33",
+      "no": "56",
+      "nom": "Francelet",
+      "prenom": "Nathalie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_34",
+      "no": "89",
+      "nom": "Gentil",
+      "prenom": "C�sar",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_35",
+      "no": "16",
+      "nom": "Giantomaso",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_36",
+      "no": "48",
+      "nom": "Gigandet",
+      "prenom": "Christian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_37",
+      "no": "63",
+      "nom": "Golay",
+      "prenom": "M�lanie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_38",
+      "no": "8",
+      "nom": "Gotti",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_39",
+      "no": "100",
+      "nom": "Grandjean",
+      "prenom": "Kilian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_40",
+      "no": "18",
+      "nom": "Grau",
+      "prenom": "Sandrine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_41",
+      "no": "14",
+      "nom": "Greppin",
+      "prenom": "Pierre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_42",
+      "no": "42",
+      "nom": "Grivet",
+      "prenom": "Yoann",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_43",
+      "no": "67",
+      "nom": "Guerin",
+      "prenom": "Jean-Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_44",
+      "no": "20",
+      "nom": "Hechenberger",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_45",
+      "no": "9",
+      "nom": "Henriques",
+      "prenom": "Bruno",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_46",
+      "no": "75",
+      "nom": "Henzelin",
+      "prenom": "Catherine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_47",
+      "no": "46",
+      "nom": "HUBACHER",
+      "prenom": "Marc",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_48",
+      "no": "83",
+      "nom": "Huter",
+      "prenom": "C�dric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_49",
+      "no": "87",
+      "nom": "Illi",
+      "prenom": "Christian",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_50",
+      "no": "7",
+      "nom": "Krahenbuhl",
+      "prenom": "Claudia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_51",
+      "no": "79",
+      "nom": "Lavrador",
+      "prenom": "Pedro",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_52",
+      "no": "80",
+      "nom": "Lavrador",
+      "prenom": "Pedro",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_53",
+      "no": "98",
+      "nom": "Le Lann",
+      "prenom": "Alexandre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_54",
+      "no": "3",
+      "nom": "Lopez",
+      "prenom": "Xavier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_55",
+      "no": "69",
+      "nom": "Mages",
+      "prenom": "Justin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_56",
+      "no": "11",
+      "nom": "Moura",
+      "prenom": "Richard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_57",
+      "no": "72",
+      "nom": "Oliveira",
+      "prenom": "Sara",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_58",
+      "no": "45",
+      "nom": "Olmini",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_59",
+      "no": "99",
+      "nom": "Pasquier",
+      "prenom": "Floriane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_60",
+      "no": "94",
+      "nom": "Pelet",
+      "prenom": "Beno�t",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_61",
+      "no": "66",
+      "nom": "Perrin",
+      "prenom": "Bertrand",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_62",
+      "no": "25",
+      "nom": "Pignat",
+      "prenom": "Herv�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_63",
+      "no": "81",
+      "nom": "Rey",
+      "prenom": "Jean-Claude",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_64",
+      "no": "53",
+      "nom": "RICHARD",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_65",
+      "no": "6",
+      "nom": "Roch",
+      "prenom": "Sylvie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_66",
+      "no": "97",
+      "nom": "Roncadin",
+      "prenom": "C�dric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_67",
+      "no": "84",
+      "nom": "Rouilly",
+      "prenom": "Julien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_68",
+      "no": "86",
+      "nom": "Sch�r",
+      "prenom": "Vincent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_69",
+      "no": "101",
+      "nom": "Schaller",
+      "prenom": "Claudio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_70",
+      "no": "58",
+      "nom": "Tardif",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_71",
+      "no": "51",
+      "nom": "Torche",
+      "prenom": "Isabelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_72",
+      "no": "95",
+      "nom": "Velardo",
+      "prenom": "Stefano",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_73",
+      "no": "91",
+      "nom": "Viennot-Merhaut",
+      "prenom": "Andrea",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_74",
+      "no": "50",
+      "nom": "Walch",
+      "prenom": "Marine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_75",
+      "no": "26",
+      "nom": "Yerly",
+      "prenom": "Philippe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "g-taz_76",
+      "no": "64",
+      "nom": "A n d r a d e",
+      "prenom": "V a n e s s a",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_77",
+      "no": "1",
+      "nom": "Fluckiger",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_78",
+      "no": "39",
+      "nom": "Forster",
+      "prenom": "Mathieu",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_79",
+      "no": "55",
+      "nom": "Forster",
+      "prenom": "Mathieu",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_80",
+      "no": "4",
+      "nom": "Giller",
+      "prenom": "Roland",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_81",
+      "no": "70",
+      "nom": "Guerin",
+      "prenom": "Jean-Fran�ois",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_82",
+      "no": "12",
+      "nom": "Guignard",
+      "prenom": "Marie-Claire",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_83",
+      "no": "40",
+      "nom": "Hubacher",
+      "prenom": "Marc",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_84",
+      "no": "5",
+      "nom": "Ingignoli",
+      "prenom": "Dominique",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_85",
+      "no": "77",
+      "nom": "Loehr",
+      "prenom": "Caroline",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_86",
+      "no": "38",
+      "nom": "Moulin",
+      "prenom": "Yves",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_87",
+      "no": "2",
+      "nom": "Roussy",
+      "prenom": "Jean - Pierre",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_88",
+      "no": "52",
+      "nom": "Schori",
+      "prenom": "Christian",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_89",
+      "no": "44",
+      "nom": "Th�raulaz",
+      "prenom": "Thierry",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "g-taz_90",
+      "no": "32",
+      "nom": "Volery",
+      "prenom": "Francis",
+      "actif": "0 - Non"
+    }
+  ]
+}

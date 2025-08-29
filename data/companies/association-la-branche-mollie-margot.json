@@ -1,0 +1,223 @@
+{
+  "id": "association-la-branche-mollie-margot",
+  "name": "Association La Branche, Mollie-Margot",
+  "clients": [
+    {
+      "id": "association-la-branche-mollie-margot_0",
+      "no": "20",
+      "nom": "Br�chon",
+      "prenom": "Jo�l",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_1",
+      "no": "33",
+      "nom": "Bytyci",
+      "prenom": "Avni",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_2",
+      "no": "11",
+      "nom": "Charbonnet",
+      "prenom": "C�dric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_3",
+      "no": "14",
+      "nom": "Detrekoey",
+      "prenom": "Katherin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_4",
+      "no": "27",
+      "nom": "Dumas",
+      "prenom": "Vinciane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_5",
+      "no": "34",
+      "nom": "Dur�",
+      "prenom": "Raquel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_6",
+      "no": "35",
+      "nom": "Ehrensperger.",
+      "prenom": "C�cile",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_7",
+      "no": "18",
+      "nom": "Fankhauser",
+      "prenom": "Cornelia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_8",
+      "no": "31",
+      "nom": "Favre",
+      "prenom": "Philippe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_9",
+      "no": "7",
+      "nom": "Fischtm�ller",
+      "prenom": "Katrin",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_10",
+      "no": "22",
+      "nom": "Grivet",
+      "prenom": "NM",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_11",
+      "no": "23",
+      "nom": "Grivet",
+      "prenom": "Cynthia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_12",
+      "no": "36",
+      "nom": "Haegi",
+      "prenom": "L�opold",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_13",
+      "no": "12",
+      "nom": "Kaiser",
+      "prenom": "B.",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_14",
+      "no": "32",
+      "nom": "Lovisetto",
+      "prenom": "Serge",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_15",
+      "no": "10",
+      "nom": "Maiurano-Mayor",
+      "prenom": "Coralie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_16",
+      "no": "17",
+      "nom": "Marguerat",
+      "prenom": "Serge",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_17",
+      "no": "9",
+      "nom": "Moret Villa",
+      "prenom": "Nicole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_18",
+      "no": "5",
+      "nom": "Nguyen",
+      "prenom": "Brigitte",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_19",
+      "no": "21",
+      "nom": "Philippe",
+      "prenom": "Dominique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_20",
+      "no": "29",
+      "nom": "Ravussin",
+      "prenom": "Florence",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_21",
+      "no": "26",
+      "nom": "Seville",
+      "prenom": "Thierry",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_22",
+      "no": "6",
+      "nom": "Smith",
+      "prenom": "Deborah",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_23",
+      "no": "24",
+      "nom": "Terry",
+      "prenom": "Charlotte",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_24",
+      "no": "25",
+      "nom": "Terry",
+      "prenom": "Charlotte",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_25",
+      "no": "28",
+      "nom": "Willa",
+      "prenom": "Silvia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_26",
+      "no": "15",
+      "nom": "Bocquet",
+      "prenom": "J�r�me",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_27",
+      "no": "8",
+      "nom": "Feroleto",
+      "prenom": "Sandra",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_28",
+      "no": "16",
+      "nom": "Gournel",
+      "prenom": "Ang�line",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_29",
+      "no": "30",
+      "nom": "Luisier",
+      "prenom": "Anne-Claude",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "association-la-branche-mollie-margot_30",
+      "no": "19",
+      "nom": "Sartori",
+      "prenom": "Jean-Marc",
+      "actif": "0 - Non"
+    }
+  ]
+}

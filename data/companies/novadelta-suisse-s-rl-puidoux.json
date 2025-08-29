@@ -1,0 +1,48 @@
+{
+  "id": "novadelta-suisse-s-rl-puidoux",
+  "name": "Novadelta Suisse S…rl, Puidoux",
+  "clients": [
+    {
+      "id": "novadelta-suisse-s-rl-puidoux_0",
+      "no": "4",
+      "nom": "Brito",
+      "prenom": "Ivone",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "novadelta-suisse-s-rl-puidoux_1",
+      "no": "2",
+      "nom": "Goncalves",
+      "prenom": "Paulo",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "novadelta-suisse-s-rl-puidoux_2",
+      "no": "3",
+      "nom": "Marques",
+      "prenom": "Francisco",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "novadelta-suisse-s-rl-puidoux_3",
+      "no": "6",
+      "nom": "Pinto Ferreira",
+      "prenom": "Paulo",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "novadelta-suisse-s-rl-puidoux_4",
+      "no": "5",
+      "nom": "Raghni",
+      "prenom": "Khalid",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "novadelta-suisse-s-rl-puidoux_5",
+      "no": "1",
+      "nom": "Rey",
+      "prenom": "Alain",
+      "actif": "1 - Oui"
+    }
+  ]
+}

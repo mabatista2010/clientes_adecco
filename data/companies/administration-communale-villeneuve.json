@@ -1,0 +1,97 @@
+{
+  "id": "administration-communale-villeneuve",
+  "name": "Administration communale Villeneuve",
+  "clients": [
+    {
+      "id": "administration-communale-villeneuve_0",
+      "no": "2",
+      "nom": "Bugnard-Rempp",
+      "prenom": "Chantal",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_1",
+      "no": "5",
+      "nom": "Cheseaux",
+      "prenom": "Yvan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_2",
+      "no": "8",
+      "nom": "Crausaz",
+      "prenom": "Yvan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_3",
+      "no": "6",
+      "nom": "Ingold",
+      "prenom": "Corinne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_4",
+      "no": "10",
+      "nom": "Kaufmann",
+      "prenom": "Herv�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_5",
+      "no": "12",
+      "nom": "Kistler",
+      "prenom": "Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_6",
+      "no": "13",
+      "nom": "Kistler",
+      "prenom": "Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_7",
+      "no": "14",
+      "nom": "Morerod",
+      "prenom": "S�bastien",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_8",
+      "no": "7",
+      "nom": "Pasche Vogel",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_9",
+      "no": "9",
+      "nom": "Sentinelli",
+      "prenom": "Carina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_10",
+      "no": "4",
+      "nom": "Vogel",
+      "prenom": "Carole",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_11",
+      "no": "3",
+      "nom": "Waelti",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "administration-communale-villeneuve_12",
+      "no": "11",
+      "nom": "Zeller",
+      "prenom": "Jean-Marc",
+      "actif": "1 - Oui"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "habitat-confort-s-a-corseaux",
+  "name": "Habitat & Confort S.A., Corseaux",
+  "clients": [
+    {
+      "id": "habitat-confort-s-a-corseaux_0",
+      "no": "4",
+      "nom": "Chamoso",
+      "prenom": "David",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "habitat-confort-s-a-corseaux_1",
+      "no": "7",
+      "nom": "Giller",
+      "prenom": "Sandrine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "habitat-confort-s-a-corseaux_2",
+      "no": "6",
+      "nom": "Koenig",
+      "prenom": "Jos�phine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "habitat-confort-s-a-corseaux_3",
+      "no": "9",
+      "nom": "Kuenzi",
+      "prenom": "Christophe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "habitat-confort-s-a-corseaux_4",
+      "no": "5",
+      "nom": "Schneiter",
+      "prenom": "Alexandre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "habitat-confort-s-a-corseaux_5",
+      "no": "8",
+      "nom": "Alder",
+      "prenom": "Benjamin",
+      "actif": "0 - Non"
+    }
+  ]
+}

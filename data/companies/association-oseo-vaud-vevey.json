@@ -1,0 +1,55 @@
+{
+  "id": "association-oseo-vaud-vevey",
+  "name": "Association OSEO-Vaud, Vevey",
+  "clients": [
+    {
+      "id": "association-oseo-vaud-vevey_0",
+      "no": "1",
+      "nom": "Alonso",
+      "prenom": "Vanessa",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-oseo-vaud-vevey_1",
+      "no": "5",
+      "nom": "Brodard",
+      "prenom": "James",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-oseo-vaud-vevey_2",
+      "no": "4",
+      "nom": "Capt Giannoni",
+      "prenom": "Laetitia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-oseo-vaud-vevey_3",
+      "no": "2",
+      "nom": "Costa",
+      "prenom": "Antonio",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-oseo-vaud-vevey_4",
+      "no": "7",
+      "nom": "Gschwend",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-oseo-vaud-vevey_5",
+      "no": "3",
+      "nom": "Mahendren",
+      "prenom": "Gehan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "association-oseo-vaud-vevey_6",
+      "no": "6",
+      "nom": "Peterhans",
+      "prenom": "Lara",
+      "actif": "1 - Oui"
+    }
+  ]
+}

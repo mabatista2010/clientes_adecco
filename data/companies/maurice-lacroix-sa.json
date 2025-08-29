@@ -1,0 +1,34 @@
+{
+  "id": "maurice-lacroix-sa",
+  "name": "Maurice Lacroix SA",
+  "clients": [
+    {
+      "id": "maurice-lacroix-sa_0",
+      "no": "6",
+      "nom": "Bentz",
+      "prenom": "Thi�baut",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maurice-lacroix-sa_1",
+      "no": "2",
+      "nom": "Boillat",
+      "prenom": "Pierre-Alain",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maurice-lacroix-sa_2",
+      "no": "4",
+      "nom": "Reginelli",
+      "prenom": "Sandro",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "maurice-lacroix-sa_3",
+      "no": "5",
+      "nom": "Willemin",
+      "prenom": "Illona",
+      "actif": "1 - Oui"
+    }
+  ]
+}

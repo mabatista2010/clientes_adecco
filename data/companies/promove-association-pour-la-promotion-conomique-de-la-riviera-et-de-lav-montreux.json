@@ -1,0 +1,132 @@
+{
+  "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux",
+  "name": "Promove (Association pour la promotion, ‚conomique de la Riviera et de Lav, Montreux",
+  "clients": [
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_0",
+      "no": "13",
+      "nom": "Belloteau",
+      "prenom": "Marion",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_1",
+      "no": "12",
+      "nom": "Enjolras",
+      "prenom": "C�cile",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_2",
+      "no": "18",
+      "nom": "Funck",
+      "prenom": "Mathilde",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_3",
+      "no": "15",
+      "nom": "Girod",
+      "prenom": "Carine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_4",
+      "no": "17",
+      "nom": "Han",
+      "prenom": "Thanh-Ma�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_5",
+      "no": "11",
+      "nom": "Schmid",
+      "prenom": "Bernard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_6",
+      "no": "16",
+      "nom": "Schmid",
+      "prenom": "Bernard",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_7",
+      "no": "7",
+      "nom": "Wehrli",
+      "prenom": "Laurent",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_8",
+      "no": "9",
+      "nom": "Alves",
+      "prenom": "Daniela",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_9",
+      "no": "14",
+      "nom": "Darlen",
+      "prenom": "De Pari",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_10",
+      "no": "1",
+      "nom": "Graber",
+      "prenom": "Michel",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_11",
+      "no": "5",
+      "nom": "Hefti",
+      "prenom": "Carole",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_12",
+      "no": "8",
+      "nom": "lauper",
+      "prenom": "D�sir�e",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_13",
+      "no": "3",
+      "nom": "Mottet",
+      "prenom": "Anouk",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_14",
+      "no": "10",
+      "nom": "Perroud",
+      "prenom": "Pierre-Alain",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_15",
+      "no": "6",
+      "nom": "Roduit",
+      "prenom": "Florent",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_16",
+      "no": "4",
+      "nom": "Schoeni",
+      "prenom": "Mich�le",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "promove-association-pour-la-promotion-conomique-de-la-riviera-et-de-lav-montreux_17",
+      "no": "2",
+      "nom": "Sinclair",
+      "prenom": "Suzanne",
+      "actif": "0 - Non"
+    }
+  ]
+}

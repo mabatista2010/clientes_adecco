@@ -1,0 +1,258 @@
+{
+  "id": "vmcv-sa-clarens",
+  "name": "VMCV SA, Clarens",
+  "clients": [
+    {
+      "id": "vmcv-sa-clarens_0",
+      "no": "33",
+      "nom": "BORNAND",
+      "prenom": "Laura",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_1",
+      "no": "9",
+      "nom": "Colomb",
+      "prenom": "Evelyne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_2",
+      "no": "11",
+      "nom": "Deppierraz",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_3",
+      "no": "30",
+      "nom": "Di Feo",
+      "prenom": "Antonia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_4",
+      "no": "28",
+      "nom": "Diaz",
+      "prenom": "Olivier",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_5",
+      "no": "20",
+      "nom": "Gailard",
+      "prenom": "Pascal",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_6",
+      "no": "19",
+      "nom": "Gaillard",
+      "prenom": "Pascal",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_7",
+      "no": "31",
+      "nom": "Joss",
+      "prenom": "Vistoria",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_8",
+      "no": "34",
+      "nom": "Laval",
+      "prenom": "Anne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_9",
+      "no": "32",
+      "nom": "Luyet",
+      "prenom": "Mathieu",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_10",
+      "no": "8",
+      "nom": "Macherel",
+      "prenom": "Luc",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_11",
+      "no": "25",
+      "nom": "Manguito",
+      "prenom": "Jo�lle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_12",
+      "no": "3",
+      "nom": "Moullet",
+      "prenom": "Serge",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_13",
+      "no": "4",
+      "nom": "Roch",
+      "prenom": "Robert",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_14",
+      "no": "17",
+      "nom": "Rouiller",
+      "prenom": "Katy",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_15",
+      "no": "35",
+      "nom": "Signori",
+      "prenom": "Jean",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_16",
+      "no": "36",
+      "nom": "Signori",
+      "prenom": "Jean",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_17",
+      "no": "6",
+      "nom": "Wueger",
+      "prenom": "Ulrich",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "vmcv-sa-clarens_18",
+      "no": "13",
+      "nom": "Bobillier",
+      "prenom": "Michel",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_19",
+      "no": "22",
+      "nom": "Bruttin",
+      "prenom": "Thierry",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_20",
+      "no": "10",
+      "nom": "Capel",
+      "prenom": "Andr�",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_21",
+      "no": "18",
+      "nom": "Capel",
+      "prenom": "Andr�",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_22",
+      "no": "2",
+      "nom": "Detrey",
+      "prenom": "Denis",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_23",
+      "no": "29",
+      "nom": "Gobet",
+      "prenom": "M�lanie",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_24",
+      "no": "16",
+      "nom": "Honegger",
+      "prenom": "Sandrine",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_25",
+      "no": "12",
+      "nom": "Huber",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_26",
+      "no": "27",
+      "nom": "Joye",
+      "prenom": "M�lanie",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_27",
+      "no": "1",
+      "nom": "Maillard",
+      "prenom": "Roland",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_28",
+      "no": "7",
+      "nom": "Marques",
+      "prenom": "Paula",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_29",
+      "no": "24",
+      "nom": "Martin",
+      "prenom": "Aurelie",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_30",
+      "no": "5",
+      "nom": "Meyer-Ferri",
+      "prenom": "Cathia",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_31",
+      "no": "23",
+      "nom": "Papaux",
+      "prenom": "Carine",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_32",
+      "no": "15",
+      "nom": "Reguin",
+      "prenom": "Patrizia",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_33",
+      "no": "14",
+      "nom": "Schlegel",
+      "prenom": "Angela",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_34",
+      "no": "26",
+      "nom": "Siddi",
+      "prenom": "Elisa",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "vmcv-sa-clarens_35",
+      "no": "21",
+      "nom": "Werren",
+      "prenom": "Jean-Fran�ois",
+      "actif": "0 - Non"
+    }
+  ]
+}

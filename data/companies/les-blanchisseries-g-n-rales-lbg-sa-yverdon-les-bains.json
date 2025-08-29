@@ -1,0 +1,146 @@
+{
+  "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains",
+  "name": "Les Blanchisseries G‚n‚rales LBG SA, Yverdon-les-Bains",
+  "clients": [
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_0",
+      "no": "33",
+      "nom": "Alves Pinto",
+      "prenom": "Alexandra",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_1",
+      "no": "29",
+      "nom": "Botz",
+      "prenom": "Emilie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_2",
+      "no": "35",
+      "nom": "Catellani",
+      "prenom": "Nathalie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_3",
+      "no": "13",
+      "nom": "Desponds",
+      "prenom": "Jacques",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_4",
+      "no": "27",
+      "nom": "Ellis",
+      "prenom": "V�ronique",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_5",
+      "no": "36",
+      "nom": "Fonseca",
+      "prenom": "Manuela",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_6",
+      "no": "32",
+      "nom": "Girard",
+      "prenom": "Nathalie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_7",
+      "no": "17",
+      "nom": "Haenni",
+      "prenom": "Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_8",
+      "no": "34",
+      "nom": "Haenni",
+      "prenom": "Fran�ois",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_9",
+      "no": "40",
+      "nom": "Landino",
+      "prenom": "Debora",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_10",
+      "no": "38",
+      "nom": "May",
+      "prenom": "Yasmine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_11",
+      "no": "22",
+      "nom": "Monney",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_12",
+      "no": "2",
+      "nom": "Paccola",
+      "prenom": "Jean-Charles",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_13",
+      "no": "31",
+      "nom": "Pahud",
+      "prenom": "Sandrine",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_14",
+      "no": "21",
+      "nom": "Rou�",
+      "prenom": "NA",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_15",
+      "no": "20",
+      "nom": "Roulet",
+      "prenom": "Fr�d�ric",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_16",
+      "no": "37",
+      "nom": "Silva Barros",
+      "prenom": "Luisette",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_17",
+      "no": "23",
+      "nom": "Stanojkovic",
+      "prenom": "Tatiana",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_18",
+      "no": "39",
+      "nom": "Tom�",
+      "prenom": "Marco",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "les-blanchisseries-g-n-rales-lbg-sa-yverdon-les-bains_19",
+      "no": "30",
+      "nom": "Velickovic",
+      "prenom": "Zaklina",
+      "actif": "1 - Oui"
+    }
+  ]
+}

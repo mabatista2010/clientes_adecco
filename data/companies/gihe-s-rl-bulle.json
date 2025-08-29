@@ -1,0 +1,419 @@
+{
+  "id": "gihe-s-rl-bulle",
+  "name": "GIHE S…rl, Bulle",
+  "clients": [
+    {
+      "id": "gihe-s-rl-bulle_0",
+      "no": "71",
+      "nom": "Armato",
+      "prenom": "Francesco",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_1",
+      "no": "46",
+      "nom": "Attia",
+      "prenom": "Philippe",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_2",
+      "no": "27",
+      "nom": "Bajrami",
+      "prenom": "Rejhan",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_3",
+      "no": "59",
+      "nom": "Bentley",
+      "prenom": "Guy",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_4",
+      "no": "3",
+      "nom": "Borgeaud",
+      "prenom": "Andr�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_5",
+      "no": "48",
+      "nom": "Catlin",
+      "prenom": "Francesca Marie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_6",
+      "no": "69",
+      "nom": "Denduyver",
+      "prenom": "Mathieu",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_7",
+      "no": "51",
+      "nom": "Didier",
+      "prenom": "Patrice",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_8",
+      "no": "73",
+      "nom": "Donaldson",
+      "prenom": "Alba",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_9",
+      "no": "47",
+      "nom": "Dubied",
+      "prenom": "Tina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_10",
+      "no": "41",
+      "nom": "Durgnat",
+      "prenom": "Sidonie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_11",
+      "no": "67",
+      "nom": "Es-Borrat",
+      "prenom": "Ir�ne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_12",
+      "no": "68",
+      "nom": "Es-Borrat",
+      "prenom": "Ir�ne",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_13",
+      "no": "63",
+      "nom": "Fabien",
+      "prenom": "Foare",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_14",
+      "no": "74",
+      "nom": "Frankowicz",
+      "prenom": "Erik",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_15",
+      "no": "64",
+      "nom": "Iglesias",
+      "prenom": "Jessica",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_16",
+      "no": "66",
+      "nom": "Kambourian",
+      "prenom": "St�phane",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_17",
+      "no": "44",
+      "nom": "Lammer",
+      "prenom": "Robert",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_18",
+      "no": "36",
+      "nom": "Monnerat",
+      "prenom": "Emmanuel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_19",
+      "no": "75",
+      "nom": "Monteiro",
+      "prenom": "Claudia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_20",
+      "no": "21",
+      "nom": "Pasche",
+      "prenom": "Estelle",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_21",
+      "no": "31",
+      "nom": "Ramos",
+      "prenom": "Elena",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_22",
+      "no": "72",
+      "nom": "Rebelo",
+      "prenom": "Ana",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_23",
+      "no": "70",
+      "nom": "Santos",
+      "prenom": "Andre",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_24",
+      "no": "60",
+      "nom": "Spinelli",
+      "prenom": "Roberto",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_25",
+      "no": "62",
+      "nom": "Thoreton",
+      "prenom": "St�phance",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_26",
+      "no": "65",
+      "nom": "Wirth",
+      "prenom": "Flora",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "gihe-s-rl-bulle_27",
+      "no": "42",
+      "nom": "Bedat",
+      "prenom": "Am�lie",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_28",
+      "no": "30",
+      "nom": "Besson",
+      "prenom": "Etienne",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_29",
+      "no": "50",
+      "nom": "Blaser",
+      "prenom": "Isabelle",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_30",
+      "no": "22",
+      "nom": "Dallenbach",
+      "prenom": "Fanny",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_31",
+      "no": "11",
+      "nom": "De Mesel",
+      "prenom": "Ingrid",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_32",
+      "no": "53",
+      "nom": "Demeuse",
+      "prenom": "V�ronique",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_33",
+      "no": "24",
+      "nom": "Dubrit",
+      "prenom": "Dominique",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_34",
+      "no": "49",
+      "nom": "Fischetti",
+      "prenom": "Katia",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_35",
+      "no": "40",
+      "nom": "Grandjean",
+      "prenom": "Dominique",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_36",
+      "no": "55",
+      "nom": "Hou",
+      "prenom": "Judy",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_37",
+      "no": "6",
+      "nom": "Huygen",
+      "prenom": "Yan",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_38",
+      "no": "57",
+      "nom": "Iglesian",
+      "prenom": "Jessica",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_39",
+      "no": "61",
+      "nom": "Lunardi",
+      "prenom": "Rafael",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_40",
+      "no": "58",
+      "nom": "Marguet",
+      "prenom": "C�line",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_41",
+      "no": "13",
+      "nom": "Martin",
+      "prenom": "Monica",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_42",
+      "no": "56",
+      "nom": "Medrano",
+      "prenom": "Nathanael",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_43",
+      "no": "34",
+      "nom": "Moon-Suk",
+      "prenom": "Oh Famiglietti",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_44",
+      "no": "19",
+      "nom": "Niser",
+      "prenom": "John",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_45",
+      "no": "43",
+      "nom": "Peringer",
+      "prenom": "Annabelle",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_46",
+      "no": "10",
+      "nom": "Pirjol",
+      "prenom": "Razvan",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_47",
+      "no": "52",
+      "nom": "Ray",
+      "prenom": "Thierry",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_48",
+      "no": "8",
+      "nom": "Rieder",
+      "prenom": "NA",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_49",
+      "no": "5",
+      "nom": "Rochat",
+      "prenom": "Michel",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_50",
+      "no": "33",
+      "nom": "Ruffieux",
+      "prenom": "Jacques",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_51",
+      "no": "1",
+      "nom": "Scalber",
+      "prenom": "Jean-Philippe",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_52",
+      "no": "7",
+      "nom": "Schilstra",
+      "prenom": "Erwan",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_53",
+      "no": "38",
+      "nom": "Schmidlin",
+      "prenom": "Antoine",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_54",
+      "no": "12",
+      "nom": "Tapp",
+      "prenom": "Isabel",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_55",
+      "no": "45",
+      "nom": "Tarit",
+      "prenom": "Jacques",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_56",
+      "no": "9",
+      "nom": "Touzin",
+      "prenom": "Fran�ois",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_57",
+      "no": "20",
+      "nom": "Trombine",
+      "prenom": "Andr�a",
+      "actif": "0 - Non"
+    },
+    {
+      "id": "gihe-s-rl-bulle_58",
+      "no": "23",
+      "nom": "Vuillemin",
+      "prenom": "Didier",
+      "actif": "0 - Non"
+    }
+  ]
+}

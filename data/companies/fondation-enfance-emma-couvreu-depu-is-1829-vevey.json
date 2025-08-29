@@ -1,0 +1,139 @@
+{
+  "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey",
+  "name": "Fondation Enfance Emma Couvreu depu, is 1829, Vevey",
+  "clients": [
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_0",
+      "no": "9",
+      "nom": "Bressoud",
+      "prenom": "Lionel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_1",
+      "no": "18",
+      "nom": "Carrea",
+      "prenom": "Sabia",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_2",
+      "no": "13",
+      "nom": "Citaku",
+      "prenom": "Kaltrina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_3",
+      "no": "1",
+      "nom": "Durgnat",
+      "prenom": "Charles-Andr�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_4",
+      "no": "6",
+      "nom": "Durgnat",
+      "prenom": "Charles-Andr�",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_5",
+      "no": "5",
+      "nom": "Emery",
+      "prenom": "Jean-Luc",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_6",
+      "no": "8",
+      "nom": "Gunzinger",
+      "prenom": "Yann",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_7",
+      "no": "2",
+      "nom": "Hierholtz",
+      "prenom": "Ladislas",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_8",
+      "no": "11",
+      "nom": "Javet",
+      "prenom": "Daniel",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_9",
+      "no": "10",
+      "nom": "Lattion",
+      "prenom": "Laurence",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_10",
+      "no": "16",
+      "nom": "Lejeune",
+      "prenom": "Lindsay",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_11",
+      "no": "3",
+      "nom": "Maier",
+      "prenom": "Nina",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_12",
+      "no": "17",
+      "nom": "Maillefer",
+      "prenom": "Baptiste",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_13",
+      "no": "4",
+      "nom": "Mourgine",
+      "prenom": "Ricardo",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_14",
+      "no": "7",
+      "nom": "Premand",
+      "prenom": "Val�rie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_15",
+      "no": "15",
+      "nom": "Prost",
+      "prenom": "Ana�s",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_16",
+      "no": "12",
+      "nom": "Roduit",
+      "prenom": "Sophie",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_17",
+      "no": "14",
+      "nom": "Wuerzer",
+      "prenom": "Manon",
+      "actif": "1 - Oui"
+    },
+    {
+      "id": "fondation-enfance-emma-couvreu-depu-is-1829-vevey_18",
+      "no": "19",
+      "nom": "Zuntini",
+      "prenom": "Luca",
+      "actif": "1 - Oui"
+    }
+  ]
+}
